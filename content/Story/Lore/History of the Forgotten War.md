@@ -1,12 +1,11 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - The Reckoning
   - The Celestial Conflict
   - The Great Forgotten War
 tags:
   - Lore
+draft: false
 ---
 # The Great Forgotten War
 

@@ -4,6 +4,7 @@ dg-publish: true
 aliases:
 tags:
   - Lore
+draft: false
 ---
 # Act I
 The start of what's to come.

@@ -11,6 +11,7 @@ aliases:
 tags:
   - NPC
 dg-hide:
+draft: true
 ---
 # Captain Granite Cock
 Yes, this joke has been here since the very beginning. Legit was written on my original word doc.

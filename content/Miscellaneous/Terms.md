@@ -8,6 +8,7 @@ tags:
   - Lore
   - Terminology
 dg-hide:
+draft: false
 ---
 # Terms & Abstract Language
 I have been known to use colloquial terms and old English on occasion. Hopefully this page acts as both world translator and DM brain translator - if not, that sucks.

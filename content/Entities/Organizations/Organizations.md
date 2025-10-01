@@ -7,6 +7,7 @@ aliases:
 tags:
   - NPC
 dg-hide:
+draft: false
 ---
 # Organizations
 List of [[Organizations]] throughout [[Nyropa]].

@@ -7,6 +7,7 @@ aliases:
 tags:
   - City
 dg-hide:
+draft: false
 ---
 # The Isle of Black
 # Basic Info

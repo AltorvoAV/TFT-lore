@@ -1,12 +1,11 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Brugrove
   - City of the Iron Guard
 tags:
   - City
   - Lore
+draft: false
 ---
 # Brugrove
 ## Basic Info

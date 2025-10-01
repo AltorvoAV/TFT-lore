@@ -6,6 +6,7 @@ aliases:
 tags:
   - NPC
 dg-hide:
+draft: false
 ---
 # List of all NPCs met or heard of to date
 - [[King Sedulus II]]

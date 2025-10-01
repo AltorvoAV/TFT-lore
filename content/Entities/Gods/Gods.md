@@ -5,6 +5,7 @@ aliases:
   - Deities
 tags:
   - Lore
+draft: false
 ---
 # Gods of Nyropa
 Brief information on the gods, based off info gathered by the party. Some things are unknown by the party as of yet, marked by '-'.

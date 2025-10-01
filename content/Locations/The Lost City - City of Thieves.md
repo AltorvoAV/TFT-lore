@@ -9,6 +9,7 @@ tags:
   - City
   - Lore
 dg-hide:
+draft: false
 ---
 # The Lost City
 ## Basic Info

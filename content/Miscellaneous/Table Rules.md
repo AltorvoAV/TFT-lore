@@ -1,13 +1,11 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Player Expectations
   - DM Expectations
   - Table Expectations
 tags:
   - Rules
-dg-hide:
+draft: false
 ---
 # Table Rules
 D&D is a fun social roleplaying table-top game. At its heart, is communication & storytelling!

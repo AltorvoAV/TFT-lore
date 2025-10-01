@@ -6,6 +6,7 @@ aliases:
 tags:
   - District
 dg-hide:
+draft: false
 ---
 # Old City
 Description coming soon.

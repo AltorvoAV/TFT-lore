@@ -7,6 +7,7 @@ tags:
   - Organization
   - NPC
 dg-hide:
+draft: false
 ---
 # The Black Hand
 A name given to the ruling hand of [[The Lost City - City of Thieves|The Lost City]], due to the city being ran by a [[Kleptocracy]].

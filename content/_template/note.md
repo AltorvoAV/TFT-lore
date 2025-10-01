@@ -1,7 +1,5 @@
 ---
-dg-home: false
-dg-publish:
+draft: false
 aliases:
 tags:
-dg-hide:
 ---

@@ -8,6 +8,7 @@ aliases:
 tags:
   - Organization
 dg-hide:
+draft: false
 ---
 
 # The Council of Valonde

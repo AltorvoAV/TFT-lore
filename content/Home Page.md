@@ -1,10 +1,8 @@
 ---
-dg-home: true
-dg-publish: true
 aliases:
   - The Forgotten Tomb
 tags:
-dg-pinned: true
+draft: false
 ---
 # Summary
 This site aims to cover all *public* info about [[Home Page|The Forgotten Tomb]] lore. This page may become deprecated over time or be updated with lesser frequency than others. Ping me if a section requires updates. - test

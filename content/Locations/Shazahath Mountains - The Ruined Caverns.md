@@ -9,6 +9,7 @@ tags:
   - City
   - Lore
 dg-hide:
+draft: false
 ---
 # The Shazahath Mountains
 ## Basic Info

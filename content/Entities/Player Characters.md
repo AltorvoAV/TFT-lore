@@ -1,11 +1,10 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - PCs
   - Moonlit Syndicate
 tags:
   - Players
+draft: false
 ---
 # Quick Info
 ## Basics

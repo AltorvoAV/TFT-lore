@@ -6,5 +6,6 @@ aliases:
   - Kobold
 tags:
 dg-hide:
+draft: false
 ---
 Coming soon, maybe.

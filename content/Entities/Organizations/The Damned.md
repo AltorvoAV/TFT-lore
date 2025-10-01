@@ -6,6 +6,7 @@ tags:
   - Organization
   - NPC
 dg-hide:
+draft: false
 ---
 # The Damned
 Members of [[The Damned]] eternally serve [[The Lost City - City of Thieves|The Lost City]] as monks of neutrality who oversee [[The Ledger]], an ancient book which contains all debts of those alive & dead.

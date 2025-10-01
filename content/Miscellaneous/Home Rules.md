@@ -1,9 +1,8 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
 tags:
   - Rules
+draft: false
 ---
 # Home Rules:
 - **Death** - Coming back from a downed/incapacitated state **adds 2 levels of Exhaustion**.  

@@ -1,11 +1,10 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Porthca
   - The Arcane Bridge
 tags:
   - City
+draft: false
 ---
 # Porthca
 # Basic Info

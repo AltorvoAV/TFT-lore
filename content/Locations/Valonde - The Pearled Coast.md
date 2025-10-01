@@ -8,6 +8,7 @@ tags:
   - City
   - Lore
 dg-hide:
+draft: false
 ---
 # Valonde
 ## Basic Info
