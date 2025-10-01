@@ -1,12 +1,9 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Orgs
   - Org
 tags:
   - NPC
-dg-hide:
 draft: false
 ---
 List of [[Organizations]] throughout [[Nyropa]].

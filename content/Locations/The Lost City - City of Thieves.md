@@ -1,6 +1,4 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - The Lost City
   - City of Thieves
@@ -8,7 +6,6 @@ aliases:
 tags:
   - City
   - Lore
-dg-hide:
 draft: false
 ---
 ## Basic Info

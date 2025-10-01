@@ -2,7 +2,7 @@
 aliases:
 tags:
   - Language
-dg-hide:
+draft: false
 ---
 > [!WARNING]
 > If you ain't a Rogue, STOP LOOKING AT THIS!

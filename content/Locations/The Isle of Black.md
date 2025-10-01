@@ -1,12 +1,9 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - The Isle of Black
   - Isle of Black
 tags:
   - City
-dg-hide:
 draft: false
 ---
 # Basic Info

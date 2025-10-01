@@ -1,6 +1,4 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Deities
 tags:

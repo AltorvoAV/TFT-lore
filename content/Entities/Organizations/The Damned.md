@@ -1,11 +1,8 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
 tags:
   - Organization
   - NPC
-dg-hide:
 draft: false
 ---
 # The Damned

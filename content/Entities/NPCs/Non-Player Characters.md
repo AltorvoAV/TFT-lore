@@ -1,11 +1,8 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - NPCs
 tags:
   - NPC
-dg-hide:
 draft: false
 ---
 # List of all NPCs met or heard of to date
@@ -95,7 +92,7 @@ draft: false
 - [[Bruvin Darryo]]
 - [[Morningstar]]
 - [[Black Robin]]
-- 
+- [[Kevin]]
 - 
 - 
 

@@ -1,13 +1,10 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Valonde
   - The Pearled Coast
 tags:
   - City
   - Lore
-dg-hide:
 draft: false
 ---
 ## Basic Info

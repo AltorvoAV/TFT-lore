@@ -1,10 +1,11 @@
 ---
 aliases:
+  - House Rules
 tags:
   - Rules
 draft: false
 ---
-- **Death** - Coming back from a downed/incapacitated state **adds 2 levels of Exhaustion**.  
+- **Death/Downed** - Coming back from a downed/incapacitated state **adds 2 levels of Exhaustion**.
     - **Death saves** are rolled by/to the DM.
     - You can auto-succeed on your death-saving throws by taking a **lingering injury** (rolled on the table)
     - Death-saving throw results **only reset** after a long rest.

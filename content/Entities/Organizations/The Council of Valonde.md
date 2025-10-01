@@ -1,13 +1,10 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Council
   - The Council
   - Council of Valonde
 tags:
   - Organization
-dg-hide:
 draft: false
 ---
 
