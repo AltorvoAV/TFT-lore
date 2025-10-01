@@ -7,7 +7,7 @@ title: Home Page
 ---
 ![[Untitled.png]]
 # Summary
-This site aims to cover all *public* info about [[Home Page|The Forgotten Tomb]] lore. This page may become deprecated over time or be updated with lesser frequency than others. Ping me if a section requires updates. - test
+This site aims to cover all *public* info about [[index|The Forgotten Tomb]] lore. This page may become deprecated over time or be updated with lesser frequency than others. Ping me if a section requires updates. - test
 > FYI: Information may be missing/redacted if currently unknown by the [[Player Characters|Moonlit Syndicate]].
 
 ---

@@ -54,7 +54,7 @@ D&D is a fun social roleplaying table-top game. At its heart, is communication &
 	- Also welcome to create groups, & NPCs.
 - **Stats** - Roll 5d6, remove the lowest 2 / Keep highest 3.
 	- If you wish to take a penalty in a stat for a boon, we can discuss.
-- **Alignment** - [[Home Page|The Forgotten Tomb]] is very amoral, true 'good' is a perspective.
+- **Alignment** - [[index|The Forgotten Tomb]] is very amoral, true 'good' is a perspective.
 - **Races & Classes** - All races/classes are allowed (unless otherwise stated below) - Be aware, some races will be targeted within [[Nyropa]] due to their connection with Divine beings ([[Gods]]).
 	- **Excluded Races/Classes** - None as of yet.
 - **Death**:
