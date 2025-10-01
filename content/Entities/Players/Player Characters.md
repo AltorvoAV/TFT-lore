@@ -19,13 +19,12 @@ draft: false
 ## Skills
 
 
-### Drachen Lokeriyan
 ![[Drachen Lokeriyan]]
 
-### Skapa
+
 ![[Skapa]]
 
-### Alyssia
+
 ![[Alyssia]]
 
 
