@@ -9,7 +9,6 @@ tags:
 dg-hide:
 draft: false
 ---
-# The Isle of Black
 # Basic Info
 - Government: [[Vassal State]] (Governed by [[Brugrove - City of the Iron Guard|Brugrove]])
 - Leaders: [[King Sedulus II]]

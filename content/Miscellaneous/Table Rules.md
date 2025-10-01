@@ -7,7 +7,6 @@ tags:
   - Rules
 draft: false
 ---
-# Table Rules
 D&D is a fun social roleplaying table-top game. At its heart, is communication & storytelling!
 
 > [!IMPORTANT] Important

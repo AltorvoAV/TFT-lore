@@ -10,7 +10,6 @@ tags:
 dg-hide:
 draft: false
 ---
-# Valonde
 ## Basic Info
 - Government: [[Plutocracy]]
 - Leaders: [[The Council of Valonde]]

@@ -4,7 +4,6 @@ tags:
   - Rules
 draft: false
 ---
-# Home Rules:
 - **Death** - Coming back from a downed/incapacitated state **adds 2 levels of Exhaustion**.  
     - **Death saves** are rolled by/to the DM.
     - You can auto-succeed on your death-saving throws by taking a **lingering injury** (rolled on the table)

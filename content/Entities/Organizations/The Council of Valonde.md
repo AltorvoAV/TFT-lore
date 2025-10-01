@@ -11,7 +11,6 @@ dg-hide:
 draft: false
 ---
 
-# The Council of Valonde
 Due to [[Valonde - The Pearled Coast|Valonde]] being a [[Plutocracy]], [[The Council of Valonde|The Council]] is made up of the top 5 most wealthy members of [[Valonde - The Pearled Coast|Valonde]]'s society:
 
 ## Leaders

@@ -9,5 +9,4 @@ tags:
 dg-hide:
 draft: false
 ---
-# Gallows Market
 Description coming soon.

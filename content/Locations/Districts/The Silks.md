@@ -8,5 +8,4 @@ tags:
 dg-hide:
 draft: false
 ---
-# The Silks
 Description coming soon.

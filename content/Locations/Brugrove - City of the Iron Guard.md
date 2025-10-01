@@ -7,7 +7,6 @@ tags:
   - Lore
 draft: false
 ---
-# Brugrove
 ## Basic Info
 - Government: [[Monarchy]]
 - Leaders: [[King Sedulus II]]

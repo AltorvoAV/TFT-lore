@@ -11,7 +11,6 @@ tags:
 dg-hide:
 draft: false
 ---
-# The Shazahath Mountains
 ## Basic Info
 - Government: [[Satrapy]] (Governed by [[Brugrove - City of the Iron Guard|Brugrove]])
 - Leaders: [[Sigur]]

@@ -1,6 +1,4 @@
 ---
-dg-home: false
-dg-publish: false
 aliases:
   - Captain Jeesea
   - Captain Granite Cock

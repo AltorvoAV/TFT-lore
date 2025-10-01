@@ -1,12 +1,9 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
 tags:
   - Lore
 draft: false
 ---
-# Act I
 The start of what's to come.
 
 The first gathering of this unlikely company was not destiny, but a summons. Each received a royal quest, each obeyed, and thus an unlikely fellowship was forged in the halls of [[King Sedulus II]]: [[Drachen Lokeriyan]], [[Alyssia]], [[Skapa]], [[Khelek Istar]], and [[Dolomir Bloodmark]].

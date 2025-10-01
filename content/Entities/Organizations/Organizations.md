@@ -9,7 +9,6 @@ tags:
 dg-hide:
 draft: false
 ---
-# Organizations
 List of [[Organizations]] throughout [[Nyropa]].
 
 ## [[The Lost City - City of Thieves|The Lost City]]

@@ -11,7 +11,6 @@ tags:
 dg-hide:
 draft: false
 ---
-# The Lost City
 ## Basic Info
 - Government: [[Kleptocracy]]
 - Leaders: [[The Black Hand]]

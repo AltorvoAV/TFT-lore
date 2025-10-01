@@ -10,5 +10,4 @@ tags:
 dg-hide:
 draft: false
 ---
-# White Wall
 Description coming soon.

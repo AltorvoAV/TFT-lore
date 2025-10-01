@@ -6,7 +6,6 @@ tags:
   - City
 draft: false
 ---
-# Porthca
 # Basic Info
 - Government: [[Magocracy]]
 - Leaders: Unknown

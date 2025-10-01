@@ -8,5 +8,4 @@ tags:
 dg-hide:
 draft: false
 ---
-# New City
 Description coming soon.

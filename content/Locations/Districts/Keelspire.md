@@ -8,5 +8,4 @@ tags:
 dg-hide:
 draft: false
 ---
-# Keelspire
 Description coming soon.

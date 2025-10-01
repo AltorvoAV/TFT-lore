@@ -9,7 +9,6 @@ tags:
 dg-hide:
 draft: false
 ---
-# The Silken Noose
 The original ruling guild of the [[The Lost City - City of Thieves|City of Thieves]]. Since their inception, they have brandished the best assassins [[Nyropa]] has seen.
 
 ## Leaders

@@ -1,13 +1,9 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
 tags:
   - Language
 dg-hide:
 ---
-# Thieves Cant
-
 > [!WARNING]
 > If you ain't a Rogue, STOP LOOKING AT THIS!
 ## **Greeting**  
