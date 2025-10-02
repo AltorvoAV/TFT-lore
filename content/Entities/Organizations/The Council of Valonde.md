@@ -15,4 +15,4 @@ Due to [[Valonde - The Pearled Coast|Valonde]] being a [[Plutocracy]], [[The Cou
 2. [[Daar Demirev]]
 3. [[Nora Goldfinder]]
 4. [[Dabblebob Cobblelob]]
-5. [[Ayers Lockraven]] (recently replaced [[Pearl Tenpenny (Female Council member)|Pearl Tenpenny]])
+5. [[Ayers Lockraven]] (recently replaced [[Pearl Tenpenny]])

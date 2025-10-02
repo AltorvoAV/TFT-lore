@@ -3,7 +3,7 @@ aliases:
   - Orgs
   - Org
 tags:
-  - NPC
+  - Organization
 draft: false
 ---
 List of [[Organizations]] throughout [[Nyropa]].

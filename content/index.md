@@ -35,16 +35,18 @@ The question is not whether Nyropa will break you. The question is, what will yo
 - [[Gods]]
 - [[Player Characters]]
 - [[Terms]]
-- Great Tomes of Lore
+- Lore
 	- [[History of the Forgotten War]]
+	- [[Timeline]]
+- Useful Pages
+	- [[Thieves Cant]]
+	- [[Miscellaneous]] (Pictures, Paintings, Notes...etc)
 - Story
 	- [[Act I]]
 	- [[Act II]]
 	- [[Act III]]
 	- [[Act IV]]
 	- [[Act V]]
-- Useful Pages
-	- [[Thieves Cant]]
 
 
 ---

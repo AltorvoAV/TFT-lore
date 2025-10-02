@@ -1,13 +1,9 @@
 ---
-dg-home: false
-dg-publish: true
 aliases:
   - Terminology
   - Lingo
 tags:
-  - Lore
   - Terminology
-dg-hide:
 draft: false
 ---
 # Terms & Abstract Language
@@ -18,7 +14,7 @@ I have been known to use colloquial terms and old English on occasion. Hopefully
 
 ### [[The Lost City - City of Thieves]]
 
-| #District          | Slang                                                                |
+| District           | Slang                                                                |
 | ------------------ | -------------------------------------------------------------------- |
 | [[The Silks]]<br>  | '[[The Silks\|Velvet Lies]]'                                         |
 | [[Gallows Market]] | '[[Gallows Market\|The Market]]' / '[[Gallows Market\|The Gallows]]' |
@@ -28,9 +24,8 @@ I have been known to use colloquial terms and old English on occasion. Hopefully
 | [[White Wall]]     | '[[White Wall\|The Counting Wall]]' / '[[White Wall\|The Wall]]'     |
 | [[Charnel Steps]]  | '[[Charnel Steps\|Last Walk]]' / '[[Charnel Steps\|The Steps]]'      |
 | [[Keelspire]]      | '[[Keelspire\|The Cathedral]]'                                       |
-#### [[Organizations]]
 
-| #Organization        | Slang                           |
+| Organisation         | Slang                           |
 | -------------------- | ------------------------------- |
 | [[The Silken Noose]] | [[The Silken Noose\|The Noose]] |
 | [[The Black Hand]]   | [[The Black Hand\|The Hand]]    |
@@ -38,24 +33,22 @@ I have been known to use colloquial terms and old English on occasion. Hopefully
 ---
 ### [[Brugrove - City of the Iron Guard]]
 
-| #District | Slang |
-| --------- | ----- |
-|           |       |
-#### [[Organizations]]
+| District | Slang |
+| -------- | ----- |
+|          |       |
 
-| #Organization | Slang |
-| ------------- | ----- |
-|               |       |
+| Organisation | Slang |
+| ------------ | ----- |
+|              |       |
 
 ---
 ### [[Valonde - The Pearled Coast]]
 
-| #District  | Slang |
-| ---------- | ----- |
-|            |       |
-#### [[Organizations]]
+| District | Slang |
+| -------- | ----- |
+|          |       |
 
-| #Organization              | Slang                                   |
+| Organisation               | Slang                                   |
 | -------------------------- | --------------------------------------- |
 | [[The Council of Valonde]] | [[The Council of Valonde\|The Council]] |
 

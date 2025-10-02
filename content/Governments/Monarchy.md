@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Monarch
 tags:
   - Terminology
   - Government

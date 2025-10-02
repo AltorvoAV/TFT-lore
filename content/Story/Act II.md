@@ -2,6 +2,6 @@
 aliases:
 tags:
   - Lore
-draft: false
+draft: true
 ---
 Once the party finish the act, I will fill this in.
