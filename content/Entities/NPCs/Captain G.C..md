@@ -13,10 +13,12 @@ draft: false
 # Captain Granite Cock
 Yes, this joke has been here since the very beginning. Legit was written on my original word doc.
 
-
 ## Quick Info
-- Found - [[The Lost City - City of Thieves|The Lost City]] / [[New City]].
-- Leader of Pirate & Smugglers Guilds - part of [[The Black Hand]].
+- Race: #Human  
+- Age: Unknown
+- Occupation:  Former leader of Pirate & Smugglers Guilds - Member of [[The Black Hand]]
+- Met: [[New City]], [[The Lost City - City of Thieves|Lost City]]
+- Status: #Dead 
 - Alignment: Chaotic Evil
 
 ## Quick Lore

@@ -2,7 +2,6 @@
 aliases:
 tags:
   - Organization
-  - NPC
 draft: false
 ---
 # The Damned

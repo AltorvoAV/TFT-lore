@@ -2,7 +2,6 @@
 aliases:
   - NPCs
 tags:
-  - NPC
 draft: false
 ---
 # List of all NPCs met or heard of to date
@@ -23,7 +22,6 @@ draft: false
 - [[Picket 'The Gutter' Larry]]
 - [[Kitty Hess]]
 - [[Meryll Trisamyr]]
-- [[Dunnan Grimsledge]]
 - [[Goff]]
 - [[Captain Hanrold Clearby]]
 - [[Ayanna Everstride]]
@@ -93,7 +91,7 @@ draft: false
 - [[Morningstar]]
 - [[Black Robin]]
 - [[Kevin]]
-- 
+- [[Lord Elric of Maloren]]
 - 
 
 

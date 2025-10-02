@@ -3,7 +3,6 @@ aliases:
   - The Hand
 tags:
   - Organization
-  - NPC
 draft: false
 ---
 A name given to the ruling hand of [[The Lost City - City of Thieves|The Lost City]], due to the city being ran by a [[Kleptocracy]].
