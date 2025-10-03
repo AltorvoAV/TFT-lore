@@ -98,7 +98,7 @@ One poem recovered from a ruined monastery reads:
 
 Magic is not what it was. That much is certain. Even those who claim arcane mastery admit that the flow has changed. There are spells described in pre-Reckoning scrolls that no longer function. Entire schools of magic seem altered.
 
-Several mages describe the sensation as if someone were “turning down the volume” on the Weave. The official stance of the College of Porthca is that _“The Weave has corrected itself.”_ Others aren’t so sure.
+Several mages describe the sensation as if someone were “turning down the volume” on the Weave. The official stance of the College of Porthca is that _“[[The Weave]] has corrected itself.”_ Others aren’t so sure.
 
 > *“I cast a spell once—a simple one—to remember a name. The spell shattered. My eyes bled. And all I remembered was that the name was never mine to hold.”*
 >– Testimony of [[Archmage Serla Narren]]

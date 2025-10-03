@@ -12,7 +12,7 @@ tags:
 - Met: [[The Isle of Black|Isle of Black]]
 - Status: #Alive 
 
-
+Blurb coming soon...
 
 
 ## Picture

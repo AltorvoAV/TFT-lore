@@ -12,4 +12,5 @@ The original ruling guild of the [[The Lost City - City of Thieves|City of Thiev
 
 ### Headquarters
 [[Old Watch]]
+
 ![[Old Watch.jpg]]
