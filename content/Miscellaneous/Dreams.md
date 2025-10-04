@@ -132,7 +132,7 @@ Drachen's Dream
 - Above, a chandelier of bone and glass sways on wires stretched too tight.
 - It hums with tension.
 - Each crystal flickers with shadow light, bathing the room in a soft, skeletal glow.
-``
+-
 - At the centre, the grand staircase unfurls.
 - From its peak, four masked figures descend.
 - One wears your mother’s sharp-lipped disapproval.
@@ -147,20 +147,20 @@ Drachen's Dream
 - When your eyes meet, it feels like being left behind by a memory.
 - As though your heart remembered something your mind refused to.
 - Prisms of light refracted in the chandelier paint an older tapestry — the man he should have become.
-``
+-
 - The boy Time left behind lifts a gift:
 - a mask, sculpted in your own image.
 - The four of them hold it out — together — its hollow eyes locked to yours.
 - A voice (their voice? your own?) whispers:
 - “Will you become who you’re told to be?”
-``
+-
 - But before you can answer — crack.
 - Glass fracturing beneath pressure.
 - Daggers of crimson light erupt from their chests.
 - They convulse.
 - Masks slip. Porcelain shatters.
 - Ink spills from their empty eyes.
-``
+-
 - The room freezes.
 - Every dancer turns to face you — all at once.
 - The chandelier groans.
@@ -234,7 +234,7 @@ Skapa's Dream
 - **but into a mechanical hum.**
 - A cave without torches.
 - A skyless forge.
-``
+-
 - A womb made of stone and cogs.
 - The walls are obsidian, pulsing with faint electric sheen.
 - Stacked high and deep are eggs —
@@ -242,12 +242,12 @@ Skapa's Dream
 - Shells of red, white, blue, green, and black,
 - each one humming with a heartbeat…
 - but not its own.
-``
+-
 - Every egg is labelled — categorized.
 - Except yours.
 - Yours sits at the base of the pile,
 - unmarked. Forgotten.
-``
+-
 - A shadow moves.
 - You watch yourself step forward —
 - no… _not_ yourself.
@@ -261,9 +261,9 @@ Skapa's Dream
 - not out of love,
 - but relief.
 - This one fits the blueprint.
-``
+-
 - **You do not.**
-``
+-
 - Then the ground shifts.
 - Gears grind behind the walls.
 - From the dark coils a massive serpent —
@@ -273,26 +273,26 @@ Skapa's Dream
 - glowing with exhausted divinity.
 - It does not speak —
 - but a voice hums from its chest:
-``
+-
 - **“You were not built.
 - **You were born.
 - **Both are sacred.”**
-``
+-
 - The serpent lowers its head.
 - Its mouth opens — and inside is a forge.
 - There, in chains of divine bronze, lies Kurtulmak.
 - His eyes are burned away.
 - But he smiles.
-``
+-
 - **“You are not the spare,”** he says.
 - **“You are the spark.”**
-``
+-
 - The ‘polished’ Skapa steps forward.
 - He walks into the forge.
 - He does not scream.
 - He becomes fire.
 - The machines convulse.
-``
+-
 - And now — before you — two paths:
 - — One leads to a cogwheel temple,
 - where your body becomes part of the machine,
@@ -302,15 +302,15 @@ Skapa's Dream
 - There, you sit alone — 
 - drawing shapes in the dust,
 - making gods from broken blueprints.
-``
+-
 - You walk.
-``
+-
 - And in the dark,
 - a hand finds yours.
 - Not Kurtulmak’s.
 - Not the others’.
-``
+-
 - **Your own.**
-``
+
 ---
 
