@@ -87,21 +87,32 @@ stateDiagram-v2
 ``` mermaid
 sequenceDiagram
 	autonumber
-	participant D as Date
-	participant E as Event
-	link E: Dreams @ https://altorvoav.github.io/TFT-lore/Miscellaneous/Dreams
-	link D: Home @ https://altorvoav.github.io/TFT-lore/
+	participant S as Start
+	participant SM as +2500 BR
+	participant LC as 1008 BR
+	participant PC as 823 BR
+	participant BR as 813 BR
+	participant VL as 607 BR
+	participant 00 as 000 AR
+	participant SW as 012 AR
+	participant CD as 213 AR
+	link SM: Shazahath Mountains @ https://altorvoav.github.io/TFT-lore/Locations/Shazahath-Mountains---The-Ruined-Caverns
+	link LC: The Lost City @ https://altorvoav.github.io/TFT-lore/Locations/The-Lost-City---City-of-Thieves
+	link PC: Porthca @ https://altorvoav.github.io/TFT-lore/Locations/Porthca---The-Arcane-Bridge
+	link BR: Brugrove @ https://altorvoav.github.io/TFT-lore/Locations/Brugrove---City-of-the-Iron-Guard
+	link VL: Valonde @ https://altorvoav.github.io/TFT-lore/Locations/Valonde---The-Pearled-Coast
+	link 00: History of the Great Forgotten War @ https://altorvoav.github.io/TFT-lore/Story/Lore/History-of-the-Forgotten-War
+	link CD: Current Day @ https://altorvoav.github.io/TFT-lore/Story/
     
-    D->>E: +2500 BR First Settlers of Shazahath Mountains
-    D->>E: 1008 BR Lost City Founded
-    D->>E: 823 BR Porthca Founded
-    D->>E: 813 BR Brugrove Founded
-    D->>E: 607 BR Valonde Founded
-    D->>E: The Great Forgotten War
-    E-->E: Brugrove become a Monarchy<br/>
-    E-->E: Isle of Black
-    D->>E: 012 AR First mention of 'Swiftbolt'
-    D->>E: 213 AR Current Day
+    S->>SM: First Settlers of Shazahath Mountains
+    SM->>LC: Lost City Founded
+    LC->>PC: Porthca Founded
+    PC->>BR: Brugrove Founded
+    BR->>VL: Valonde Founded
+    VL->>00: The Great Forgotten War
+    note over VL,00: Brugrove becomes a Monarchy<br/> Isle of Black
+    00->>SW: First mention of 'Swiftbolt'
+    SW->>CD: Current Day
     
 
 
