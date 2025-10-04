@@ -72,7 +72,7 @@ Drachen's Dream
 
 ---
 ## Session 13
-Drachen's Dream
+Drachen's Dream - **Song**: [The Gallows](https://open.spotify.com/track/6TUpyRZq9V8LVAAeUHJMgN?si=981b913acc7f4c33)
 - You soar on blackened wings, slicing through the [[Silver Void.jpg|Silver Void]]. Wind howls through your scales, the arrogant hum of creation itself resonating in your bones. Power surges through you, vast and unrelenting. This is your moment. You are to be, inevitable.
 - Through your kaleidoscopic vision, they stand—your kin, your rivals, your prey. [[Colossal.jpg|Colossal]], shifting things, their forms spiralling between impossible geometries, their very being a challenge to your supremacy. The [[Void Pulsing.jpg|void pulsing]] with the echoes of war, and siblings drift as hollow husks, their failure a silent sacrifice. You tear through them, your triumph within grasp.
 - And then— Nothing. The battle does not end—it is ripped away—it was never there.
@@ -93,7 +93,7 @@ Drachen's Dream
 
 ---
 ## Session 14
-Drachen's Dream
+Drachen's Dream - **Song**: [Principle of Strength: Vision](https://open.spotify.com/track/4qEzXJlDRwug89BymNNnm7?si=9fa7e9ea189243bd)
 - Gusts of wind slice past your body. It takes you a few moments to realise you are falling. Plummeting down, you see cascades of infinite worlds pass you by, each entirely unlike the Feywild or Material Plane. Some emanating boiling heat, sulphur, and [[Lava Lakes.jpg|lava lakes]] - some drenched in endless [[Freezing Oceans.jpg|freezing oceans]] of acid, blood, insects, and [[Worms.jpg|worms]]. Demon-like creatures and aberrations try to claw at you, during your descent - your speed too much for their greed.
 - You awake, stood up in pitch black. - As you find your balance, you notice the puddle beneath starts to illuminate in response to your movements - soft glows of whites, purples, and reds emanate from the water below. (Think Avatar in the forest). All directions painted in oil; imperfect, and unset - an unobstructed likeness of life itself, perhaps?
 - Your Patron’s familiar voice fills the air surrounding all directions - [[Eyes Gleaming From The Shadows.jpg|eyes gleaming from the shadows]]: 
@@ -110,7 +110,7 @@ Drachen's Dream
 	- **Patron**: “*Is there anything you need from me, my child?*”
     - **Drachen**: "*You have given enough, I may not know the whereabouts of these followers, but I will find them*"
 	- **Patron**: “*I wish you the best of luck, we will speak again soon.*”
-- Instead of waking up, you find yourself left alone to wonder the realm
+- Instead of waking up, you find yourself left alone to wonder the realm - **Song**: [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz?si=31334a4777f74b64)
 	- As your eyes rest upon the [[Tablet.png|tablet]] made of solid rock, there’s something soft about the way it rests, like it might sink if you look away too long - its edges too sharp for something so ancient, claw marks so deep as if they were carved yesterday.
 	- The text seems to shift when not looking directly at it, the grooves somehow more shallow in your peripheral version.
 	- As you stare upon it something in your gut twists—not in fear, but in rejection. Like your very being knows you should not be looking at this. The very act of reading it feels like invasive.
@@ -122,6 +122,7 @@ Drachen's Dream
 ---
 ## Session 15
 ### Alyssia's Dream
+**Songs**: [Perfectly Splendid](https://open.spotify.com/track/2fi4FCGkSNtCA771jNOggL?si=56fb52b7657b4577), [Papa](https://open.spotify.com/track/3cAT1jmDFz969hO1LikyNH?si=d90091a6dad64c82), & [Fryderyk](https://open.spotify.com/track/3UQuIAdm6oyscUbVxCn6n2?si=3ec8db93548045f4)
 - You awaken in a dream already underway.
 - A hush of music plays behind velvet curtains — a waltz slowed just enough to sound wrong, each note sagging like a dying breath.
 - You step into a grand ballroom that breathes like a cathedral.
@@ -176,7 +177,7 @@ Drachen Vision from the Songless Siren
 
 ---
 ## Session 17
-Drachen's Dream
+Drachen's Dream - **Song**: [Malasana](https://open.spotify.com/track/2tJBG2m6K5jUKxzyTZm9Z7?si=665ca115f2044c56)
 - Drachen, you awake through eyes not your own.
 - The Feywild stretches before you, vibrant and alive — flowers pulsing with decadent light, leaves humming with bird-song. Mist curls low to the ground, heavy with moonlight. And yet… the stars are wrong.
 - Through the boughs you see him — younger you — walking the meadow, unmarred by grief, by vengeance. His fingers brushing bark as though the trees themselves whispered secrets only he could hear. He walks toward home, toward Fiadh, and the Feywild blooms beneath his every step.
@@ -196,7 +197,7 @@ As Silence deepens, it gives way to the sound of waves lapping against the ship�
 
 ---
 ## Session 18
-Skapa's Nightmare
+Skapa's Nightmare - **Song**: [Paranoia](https://open.spotify.com/track/757qHNKGPfljx4pW5igE1F?si=5cc17444c88a412b)
 - You close your eyes — but sleep avails no rest.
 - The tolling of White Wall’s bells follows you into the dark. Each strike weighs on your chest - as if the air itself grows tied of you. Your name flickers across endless parchment — written, crossed out, then written again. The Ledger counting your debts; every line belongs to you.
 - The bells fade, and you stand in the Royal arena. But it's twisted. The crowd erupts in Nester's laughs. Caged Kobolds with your face stare at you, helpless, eyes dripping blood. Their blood turns to coin, coin to ink, ink stains your claws until it drips like tar.
@@ -208,7 +209,7 @@ Skapa's Nightmare
 
 ---
 ## Session 19
-Alyssia's Nightmare
+Alyssia's Nightmare - **Songs**: [Rose](https://open.spotify.com/track/4bRpBZTAbBiSblxS6OgifZ?si=55165d02076741f2), & [Vision](https://open.spotify.com/track/309THLFEXgGwta8jjgR0zq?si=a75baefc7c434d8d)
 - You awaken in a dream already underway. You’re in The Fox’s Gambit. Alaric’s room. You see him sitting on the bed, pale and fragile, writing quietly in his notebook. His voice is softer than you remember. Not his own. Your mother’s. *Tallia’s words.*
 	- “*Feelings make us weak*”.
 - Alaric’s quill scratches across the pages, leaving no ink behind - instead, gouges. Scratches. Wounds.
@@ -229,7 +230,7 @@ Alyssia's Nightmare
 
 ---
 ## Session 20
-Skapa's Dream
+Skapa's Dream - **Song**: [Alex](https://open.spotify.com/track/4Xo8Y39jjlThIzYdrckDTb?si=28f010faf7d348c3)
 - **You awaken not into light,**
 - **but into a mechanical hum.**
 - A cave without torches.
@@ -312,5 +313,5 @@ Skapa's Dream
 -
 - **Your own.**
 
----
+
 
