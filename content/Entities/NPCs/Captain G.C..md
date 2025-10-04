@@ -24,7 +24,6 @@ Yes, this joke has been here since the very beginning. Legit was written on my o
 ## Quick Lore
 [[Captain G.C.]] is known to smuggle many cults around Eastern [[Nyropa]]. He is brutal and thrives off stealing, smuggling, and pirating goods from the 'more' fortunate.
 
-
 ## Voice Lines:
 - Your semen is no match for mine. Prepare to be boarded. (`When starts encounter`)
 - Your cum won’t last.

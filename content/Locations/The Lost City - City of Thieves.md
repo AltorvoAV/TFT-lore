@@ -31,7 +31,7 @@ It is said [[Mask]] bestowed great power upon mortals from this seedy city of mi
 	- Run by: Assassins Guild - [[The Silken Noose]] - [[Orven Veyl]] & [[Myra Veyl]]
 	- Local Name: 'First Cut'
 - [[New City]]
-	- Run by: Pirates & Smugglers Guilds - [[Captain G.C.|Captain Gee-Sey]]
+	- Run by: Pirates & Smugglers Guilds - ~~[[Captain G.C.|Captain Gee-Sey]]~~ - [[Sebastian Hetfield]]
 	- Local Name: 'The Sprawl'
 - [[White Wall]]
 	- Run by: [[The Damned]] - Keepers of [[The Ledger]]

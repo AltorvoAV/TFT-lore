@@ -11,6 +11,26 @@ Coming soon...
 %%{init: { 'theme': 'neutral' }}%%
 timeline
     title Events of Nyropa
+    section Before The Reckoning
+        +2500 BR : First settlers of the Shazahath Mountains
+        1008 BR : The Lost City Founded
+        823 BR : Porthca Founded
+        813 BR : Brugrove Founded
+        607 BR : Valonde Founded
+    section After the Reckoning
+        00/00/000 : The Forgotten War<br>Brugrove became a Monarchy<br>Isle of Black
+        012 AR : First mention of 'Swiftbolt'
+        213 AR : Current Day
+
+```
+
+
+
+
+``` mermaid
+%%{init: { 'theme': 'neutral' }}%%
+timeline
+    title Events of Nyropa
     Before The Reckoning :
     +2500 BR <br> Settlers of the Shazahath Mountains : 1008 BR <br> The Lost City Founded : 823 BR <br> Porthca Founded : 813 BR <br> Brugrove Founded : 607 BR <br> Valonde Founded
 	After The Reckoning : 000 AR <br> Isle of Black <br> Brugove become a Monarchy : 012 AR <br> First mention of 'Swiftbolt' : 213 AR <br> Current Day
@@ -69,8 +89,8 @@ sequenceDiagram
 	autonumber
 	participant D as Date
 	participant E as Event
-	link E: Dashboard @ https://dashboard.contoso.com/alice
-	link D: Dashboard @ https://dashboard.contoso.com/alice
+	link E: Dreams @ https://altorvoav.github.io/TFT-lore/Miscellaneous/Dreams
+	link D: Home @ https://altorvoav.github.io/TFT-lore/
     
     D->>E: +2500 BR First Settlers of Shazahath Mountains
     D->>E: 1008 BR Lost City Founded
