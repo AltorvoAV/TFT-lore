@@ -292,7 +292,7 @@ Skapa's Dream
 - He does not scream.
 - He becomes fire.
 - The machines convulse.
-
+__
 - And now — before you — two paths:
 - — One leads to a cogwheel temple,
 - where your body becomes part of the machine,
@@ -302,9 +302,9 @@ Skapa's Dream
 - There, you sit alone — 
 - drawing shapes in the dust,
 - making gods from broken blueprints.
----
+--
 - You walk.
----
+=
 - And in the dark,
 - a hand finds yours.
 - Not Kurtulmak’s.
