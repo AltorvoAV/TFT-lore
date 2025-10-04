@@ -7,7 +7,7 @@ aliases:
 tags:
   - Lore
 ---
-A list of the dreams that have occurred in The Forgotten Tomb, so far.
+A list of the dreams that have occurred in The Forgotten Tomb, so far. Including, songs & images.
 
 ---
 ## Session -1
