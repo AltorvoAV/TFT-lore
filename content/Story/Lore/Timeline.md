@@ -18,7 +18,7 @@ timeline
         813 BR : Brugrove Founded
         607 BR : Valonde Founded
     section After the Reckoning
-        00/00/000 AR : The Forgotten War <br>Brugrove became a Monarchy <br>Isle of Black
+        00/00/000 AR : The Forgotten War <br> Brugrove became a Monarchy <br> Isle of Black
         012 AR : First mention of 'Swiftbolt'
         213 AR : Current Day
 

@@ -8,6 +8,7 @@ tags:
   - Lore
 ---
 A list of the dreams that have occurred in The Forgotten Tomb, so far. Including, songs & images.
+[Dream Playlist](https://open.spotify.com/playlist/5M0f3hKRqUZ4TuZdtpTPdj?si=100e6e0020bd4794)
 
 ---
 ## Session -1
@@ -153,7 +154,7 @@ Drachen's Dream - **Song**: [Principle of Strength: Vision](https://open.spotify
 - a mask, sculpted in your own image.
 - The four of them hold it out — together — its hollow eyes locked to yours.
 - A voice (their voice? your own?) whispers:
-- “Will you become who you’re told to be?”
+- “*Will you become who you’re told to be?*”
 -
 - But before you can answer — crack.
 - Glass fracturing beneath pressure.
@@ -201,7 +202,7 @@ Skapa's Nightmare - **Song**: [Paranoia](https://open.spotify.com/track/757qHNKG
 - You close your eyes — but sleep avails no rest.
 - The tolling of White Wall’s bells follows you into the dark. Each strike weighs on your chest - as if the air itself grows tied of you. Your name flickers across endless parchment — written, crossed out, then written again. The Ledger counting your debts; every line belongs to you.
 - The bells fade, and you stand in the Royal arena. But it's twisted. The crowd erupts in Nester's laughs. Caged Kobolds with your face stare at you, helpless, eyes dripping blood. Their blood turns to coin, coin to ink, ink stains your claws until it drips like tar.
-- You turn — and see a child. At first, Alaric. Then an orphan’s hollow eyes. Then yourself, younger, shackled to someone else' fame. The ropes that bind him tighten around your wrists, pulling you to your knees. No matter how you fight, the knots only bite deeper.
+- You turn — and see a child. At first, Alaric. Then an orphan’s hollow eyes. Then yourself, younger, shackled to someone else's fame. The ropes that bind him tighten around your wrists, pulling you to your knees. No matter how you fight, the knots only bite deeper.
 - And then — two doors. Side by side. Each bears a mark you know: one a black gauntlet, the other a faint feather and sword scratched in chalk. Both doors are locked. You feel eyes watching you. From behind corpses stir hanged against the monastery — a thief's face and short body; beside them, Alyssia & Drachen sway, bodies stiff. Staring. Waiting.
 - The bells stop. What follows isn’t Silence — it’s suffocation.
 - And then you hear it — not Nester, nor The Damned. Your own voice, sinister and certain, whispering back at you:
@@ -275,9 +276,9 @@ Skapa's Dream - **Song**: [Alex](https://open.spotify.com/track/4Xo8Y39jjlThIzYd
 - It does not speak —
 - but a voice hums from its chest:
 -
-- **“You were not built.
-- **You were born.
-- **Both are sacred.”**
+- **“*You were not built.*
+- ***You were born.*
+- ***Both are sacred.*”**
 -
 - The serpent lowers its head.
 - Its mouth opens — and inside is a forge.
@@ -285,8 +286,8 @@ Skapa's Dream - **Song**: [Alex](https://open.spotify.com/track/4Xo8Y39jjlThIzYd
 - His eyes are burned away.
 - But he smiles.
 -
-- **“You are not the spare,”** he says.
-- **“You are the spark.”**
+- **“*You are not the spare,*”** he says.
+- **“*You are the spark.*”**
 -
 - The ‘polished’ Skapa steps forward.
 - He walks into the forge.

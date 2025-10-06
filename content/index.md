@@ -30,6 +30,7 @@ The question is not whether Nyropa will break you. The question is, what will yo
 	- [[The Isle of Black]]
 	- [[The Lost City - City of Thieves]]
 	- [[Valonde - The Pearled Coast]]
+	- [[Other Locations]]
 - [[Non-Player Characters]]
 	- [[Organizations]]
 - [[Gods]]
