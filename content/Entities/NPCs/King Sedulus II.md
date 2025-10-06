@@ -19,7 +19,7 @@ A beloved king by his people.
 ## Notable Speech(es)
 ### The 200th Royal Arena
 - *Citizens of Brugrove. Today marks a monumental day in our history, the 200th Royal Arena!.*
-- *For over 200 years, Brugrove has been the shining western front of architects, scientists, magicians, philosophers, poets, and archaeologists.*
+- *For over 200 years, Brugrove has been the shining eastern front of architects, scientists, magicians, philosophers, poets, and archaeologists.*
 - *For over 200 years, Brugrove has sheltered its people and its constituents from superstition, hate, conquest, and natural disasters.*
 - *For many years, we have faced total war with Porthca - shared the pain of our brave soldiers’ deaths. - We are not alone. Look around you. My leadership has brought us clean water, food, luxuries, and most importantly; ensuring our people’s safety to be free.*
 - *For over 200 years, the link between us and Brugrove has been a solid chain of unbroken purpose.*

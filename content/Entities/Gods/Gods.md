@@ -6,7 +6,7 @@ tags:
 draft: false
 ---
 # Gods of Nyropa
-Brief information on the gods, based off info gathered by the party. Some things are unknown by the party as of yet, marked by '-'.
+Brief info on the gods, based off info gathered by the party. Some things are unknown by the party as of yet, marked by '-'.
 
 | Name                   | Symbol                      | Domain                            | Race                   | Algn | Power             | Ded | Dominion                                | Plane              |
 | ---------------------- | --------------------------- | --------------------------------- | ---------------------- | ---- | ----------------- | --- | --------------------------------------- | ------------------ |

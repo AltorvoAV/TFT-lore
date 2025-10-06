@@ -5,7 +5,7 @@ tags:
   - NPC
 ---
 **Quick Info:**
-- Race: #High-Elf 
+- Race: Unknown
 - Age: Unknown
 - Occupation: Royal Historian of [[Brugrove - City of the Iron Guard|Brugrove]]
 - Met: N/A

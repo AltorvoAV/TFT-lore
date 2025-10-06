@@ -7,13 +7,12 @@ tags:
   - Rules
 draft: false
 ---
-D&D is a fun social roleplaying table-top game. At its heart, is communication & storytelling!
+D&D is a fun social table-top roleplaying game (TTRPG). At its heart, is **communication** & **storytelling**!**********************
 
 > [!IMPORTANT] Important
-> The game literally does not work without communicating with each other <3
+> **The game literally does not work without communicating with each other <3**
 > > [!WARNING] Super Important!
-> > Especially between player & DM - vice versa!
-
+> > **Especially between player & DM - vice versa!**
 ## Table Etiquette
 1. **Be nice** and fun to play with!
 2. **Respect** everyone at the table!

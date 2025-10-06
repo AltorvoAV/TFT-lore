@@ -53,6 +53,6 @@ The question is not whether Nyropa will break you. The question is, what will yo
 
 ---
 > [!Note] FYI
-> If everyone enjoys [[Nyropa]], I am happy to run further campaigns in the world set at different times, or following this campaign.
+> If everyone enjoys [[Nyropa]], I am happy to run further campaigns in the world set at different times, places/regions, or following this campaign.
 > 
 > I would aim to use this wiki page again, but set it out differently so it is easy to track who and when things happened.

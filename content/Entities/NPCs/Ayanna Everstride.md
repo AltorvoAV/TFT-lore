@@ -8,7 +8,7 @@ tags:
 ---
 **Quick Info:**
 - Race: #Shadar-Kai
-- Age: 
+- Age: 26
 - Occupation: Adventurer with The #Diran 
 - Met: 
 - Status: 
