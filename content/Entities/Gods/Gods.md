@@ -10,7 +10,7 @@ Brief info on the gods, based off info gathered by the party. Some things are un
 
 | Name                   | Symbol                      | Domain                            | Race                   | Algn | Power             | Ded | Dominion                                | Plane              |
 | ---------------------- | --------------------------- | --------------------------------- | ---------------------- | ---- | ----------------- | --- | --------------------------------------- | ------------------ |
-| [[Asgorath]]           | Ragged Scale                | Multi-verse creation Dragon Deity | [[Primordial]]         | N    | [[Overgod]]       | -   | -                                       |                    |
+| [[Asgorath]]           | Ragged Scale                | Multi-verse creation Dragon Deity | [[Primordial]]         | N    | [[Overgod]]       | -   | -                                       | -                  |
 | [[Atropal]]            | Baby/ Foetus                | Undead                            | [[Godling]]            | NE   | -                 | -   | N/A                                     | [[Ethereal Plane]] |
 | [[Bane]]               | Black Hand                  | Tyranny                           | Human                  | LE   | [[Quasi-Deity]]   | Y   | -                                       | -                  |
 | [[Bhaal]]              | Skull w/ 5 drops of blood   | Murder                            | Human                  | NE   | [[Quasi-Deity]]   | Y   | -                                       | -                  |

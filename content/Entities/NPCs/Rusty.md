@@ -11,7 +11,7 @@ tags:
 - Met: [[Gallows Market]], [[The Lost City - City of Thieves|The Lost City]]
 - Status: #Alive 
 
-
+Thieving bastard. He a just little guy, though.
 
 
 ## Picture

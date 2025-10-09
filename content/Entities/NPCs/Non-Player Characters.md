@@ -93,6 +93,7 @@ draft: false
 - [[Kevin]]
 - [[Lord Elric of Maloren]]
 - [[Old Man]]
+- [[Ferran Quiill]]
 - 
 
 

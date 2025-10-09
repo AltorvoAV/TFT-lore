@@ -5,7 +5,7 @@ tags:
   - NPC
 ---
 **Quick Info:**
-- Race: Unknown
+- Race: Humanoid
 - Age: Old
 - Occupation: Unknown
 - Met: [[Valonde - The Pearled Coast|Valonde]]
