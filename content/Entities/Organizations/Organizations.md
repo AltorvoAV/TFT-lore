@@ -20,3 +20,5 @@ List of [[Organizations]] throughout [[Nyropa]].
 ## [[Valonde - The Pearled Coast|Valonde]]
 - [[The Council of Valonde]]
 
+## Groups
+- [[The Diran]]

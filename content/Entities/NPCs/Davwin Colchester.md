@@ -9,7 +9,7 @@ tags:
 **Quick Info:**
 - Race: #Earth-Genasi
 - Age: ~31
-- Occupation: Adventurer with The #Diran
+- Occupation: Adventurer with [[The Diran]]
 - Met: [[Brugrove - City of the Iron Guard|Brugrove]]
 - Status: #Alive 
 
@@ -18,4 +18,5 @@ tags:
 A devout follower of [[Yondalla]], after his entire family being killed by a dragon god.
 
 ## Picture
+
 ![[Davwin Colchester.jpg]]

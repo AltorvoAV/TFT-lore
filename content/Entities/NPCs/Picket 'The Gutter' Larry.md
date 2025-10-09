@@ -15,4 +15,5 @@ tags:
 
 
 ## Picture
+
 ![[Picket - The Gutter - Larry.jpg]]

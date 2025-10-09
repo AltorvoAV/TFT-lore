@@ -94,6 +94,8 @@ draft: false
 - [[Lord Elric of Maloren]]
 - [[Old Man]]
 - [[Ferran Quiill]]
+- [[Avel Lockraven]]
+- [[George]]
 - 
 
 

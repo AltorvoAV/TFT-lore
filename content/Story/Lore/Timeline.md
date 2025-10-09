@@ -5,7 +5,7 @@ aliases:
 tags:
   - Lore
 ---
-Coming soon...
+Feedback welcomed for possible updates/upgrades.
 
 ``` mermaid
 %%{init: { 'theme': 'neutral' }}%%

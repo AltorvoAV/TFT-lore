@@ -5,7 +5,7 @@ tags:
   - City
 ---
 ## Basic Info
-- Government: [[Vassal State]]
+- Government: [[Vassal State]] (Puppeteered by [[The Lost City - City of Thieves|The Lost City]])
 - Leaders: Unknown
 - Alignment: Unlawful
 

@@ -10,7 +10,7 @@ tags:
 - Age: ~30
 - Occupation: Illusionist, Ex-[[The Silken Noose|Noose]] member
 - Met: [[Maloren]]
-- Status: TBC
+- Status: #Dead 
 
 [[Ferran Quiill|Ferran]] made a decent life doing unsavoury business for [[The Silken Noose|The Noose]], and side hustles. In attempts to escape this life, [[Ferran Quiill|Ferran]] chose to 'borrow' one of [[Orven Veyl]]'s 'faces', and fake his own death.
 

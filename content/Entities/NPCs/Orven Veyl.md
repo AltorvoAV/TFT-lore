@@ -2,6 +2,7 @@
 draft: false
 aliases:
   - Orven
+  - The Faceless One
 tags:
   - NPC
 ---
@@ -12,7 +13,9 @@ tags:
 - Met: [[Old Watch]], [[Old City]], [[The Lost City - City of Thieves|Lost City]]
 - Status: #Alive 
 
-
+Apparent shapeshifter ([[Orven Veyl|The Faceless One]]).
 
 ## Picture
+
 ![[Orven + Myra Veyl.jpg]]
+![[Orevn v2.jpg]]

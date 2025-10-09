@@ -12,8 +12,9 @@ tags:
 - Met: ?
 - Status: Presumed #Alive 
 
-
+Only son of [[Ayers Lockraven]], heir to the Lockraven Estate, & titles.
 
 
 ## Picture
+
 ![[Alaric Lockraven.jpg]]

@@ -15,4 +15,5 @@ tags:
 
 
 ## Picture
+
 ![[Lorenzo - The Skinner - Larry.jpg]]

@@ -9,12 +9,13 @@ tags:
 **Quick Info:**
 - Race: #Shadar-Kai
 - Age: 26
-- Occupation: Adventurer with The #Diran 
-- Met: 
-- Status: 
+- Occupation: Adventurer with [[The Diran]]
+- Met: [[Brugrove - City of the Iron Guard|Brugrove]]
+- Status: #Alive 
 
 Blurb coming soon...
 
 
 ## Picture
+
 ![[Ayanna Everstride.jpg]]
