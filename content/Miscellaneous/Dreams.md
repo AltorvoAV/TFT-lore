@@ -28,10 +28,10 @@ Drachen's Dream with his patron
 ## Session 5
 ### First Dream
 - Drachen wakes in a dark location - he feels the freezing wind blow on his glowing skin. 
-- The floor beneath him is a mesmerizing black with red flecks, moving like flowing silk. Looking slightly up, he can see white silk blowing out around a black circle. And can hear a breathing behind them… a creature tall and spindly… 3 pale rippled faces, with intricate vines joining their face together. 
+- The floor beneath him is a mesmerizing black with red flecks, moving like [[Flowing Silk.jpg|flowing silk]]. Looking slightly up, he can see white silk blowing out around a black circle. And can hear a breathing behind them… a creature tall and spindly… [[3 pale rippled faces.jpg|3 pale rippled faces]], with intricate vines joining their face together.
 - **Voice**: ”*The moon shines upon you… You may not know who you are… ask two questions and if they are interesting, we may allow a third. Ask and each will answer.*”
 
-Drachen continued to ask questions, but that has been lost to time.
+Drachen continued to ask questions, but they and their answers have been lost to time.
 
 ### Second Dream
 Drachen calls out to his Patron

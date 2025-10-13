@@ -8,7 +8,7 @@ tags:
 ---
 **Quick Info:**
 - Race: #Human 
-- Age: ~40
+- Age: >40
 - Occupation: Unknown
 - Met: N/A
 - Status: Unknown
