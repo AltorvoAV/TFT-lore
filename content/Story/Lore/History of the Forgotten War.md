@@ -77,7 +77,7 @@ There is no consensus on when the Isle of Black separated from Brugrove. Some ma
 
 Some religious orders claim that divine power faded because mortal belief waned. That in our greed and faithlessness, we starved our gods. Others claim the gods betrayed each other—that the world was collateral.
 
-Among the scattered accounts of the Great Forgotten War, five names recur like bloodstains that will not wash out: [[Thrym]], [[Bane]], [[Bhaal]], [[Maglubiyet]], [[Atropal]], and           .
+Among the scattered accounts of the Great Forgotten War, five names recur like bloodstains that will not wash out: [[Thrym]], [[Bane]], [[Bhaal]], [[Maglubiyet]], [[Atropal]], and___.
 
 The aftermath of their deaths was not limited to the divine. Records tell of priests who clawed their own eyes out, paladins who murdered their families, and temples where every acolyte drowned themselves on the same night. Not faith _fading_, but faith _fraying_—a madness born out of the tether being cut too suddenly.
 

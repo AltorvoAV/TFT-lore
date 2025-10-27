@@ -13,7 +13,7 @@ tags:
 - Met: On the seas, outside of [[Valonde - The Pearled Coast|Valonde]]
 - Status: #Dead 
 
-Known as a righteous smuggler, who only killed those he deemed evil or a danger to those he deemed innocent.
+Known as a righteous smuggler, who only killed those he deemed evil or a danger to those he deemed innocent. [[Yondalla]]'s chosen warrior.
 
 After a brief catch-up with [[Drachen Lokeriyan|Drachen]], his brother-in-law, [[Andaraleanbh Beauchêne|Andaraleanbh]] regrettably took arms against [[Drachen Lokeriyan|Lord Bàsgiath]] due to seeing the [[Sword of Sorrow]]. [[Andaraleanbh Beauchêne|Andaraleanbh]] stated it was his charge to destroy any creature who would attempt to wield the sword.
 
