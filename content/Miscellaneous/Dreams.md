@@ -332,7 +332,7 @@ Drachen's dream - **Song**: [Someone Just Volunteered](https://open.spotify.com/
 - And beneath it all, her veil — drifting, reaching — her outline scattering into dust. Dust to ash. Ash to salt.
 - The field is gone.
 - Now only the void remains —
-  Countless eyes bloom in the dark. Your eyes. Each one scarred and weary with knowledge you know not yet. Each weeps light. Each watches your fall.
+- Countless eyes bloom in the dark. Your eyes. Each one scarred and weary with knowledge you know not yet. Each weeps light. Each watches your fall.
 - Spindly tendrils of unnatural grief cover the nothing. Power hums through every sinew — life's end.
 - You feel infinite, consumed, rage.
 
