@@ -8,3 +8,5 @@ tags:
   - Players
 ---
 Blurb coming soon...
+
+"*She's a gnome, not a friend.*"

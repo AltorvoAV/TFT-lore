@@ -276,8 +276,8 @@ Skapa's Dream - **Song**: [Alex](https://open.spotify.com/track/4Xo8Y39jjlThIzYd
 - It does not speak —
 - but a voice hums from its chest:
 -
-- **“*You were not built.*
-- ***You were born.*
+- **“*You were not built.***
+- ***You were born.***
 - ***Both are sacred.*”**
 -
 - The serpent lowers its head.
@@ -313,6 +313,20 @@ Skapa's Dream - **Song**: [Alex](https://open.spotify.com/track/4Xo8Y39jjlThIzYd
 - Not the others’.
 -
 - **Your own.**
-
+---
+## Session 23
+Drachen's dream - **Song**: [Someone Just Volunteered](https://open.spotify.com/track/1kSlmNpkBXtgem3mQOCFdy?si=30378a10acf344c9)
+- You awaken into an endless ocean of wheat. The Feywild’s brilliance casting its charm, as an Eladrin once did to you. The air glows gold; it hums with the memory of her laughter. Walking through the field, the wind catches the hair on your arms — not gently, but as if to pull you backward.
+- Something deep within you aches to stop. Yet something deeper commands you to continue. To right the wrongs. To unmake the hand that took her from you.
+- The field gleams — its tips catching light like a thousand tiny suns. The air smells of home. Of her. For a moment, you feel peace. For a moment, the ache in your chest almost means something.
+- Then the wind changes.
+- The gold dulls. The stalks crumble, grain turning black, then white, then ash. The smell curdles into salt and smoke. A deep pull at your core commands you forward — as if the steps you walk have been trodden before.
+- The horizon flickers. Light distorts — wings unfurl, shadow and fire entwined. Between the flashes, visions collide —
+- A crown of flame, heavy with glory. A throne of bone, carved from kneeling forms. Hands of silver caress a child, wombed in shadow, swallowed by fire. Wings spanning a sky that screams your name. And beneath it all, her veil — drifting, reaching — her outline scattering into dust. Dust to ash. Ash to salt.
+- The field is gone.
+- Now only the void remains —
+  Countless eyes bloom in the dark. Your eyes. Each one scarred and weary with knowledge you know not yet. Each weeps light. Each watches your fall.
+- Spindly tendrils of unnatural grief cover the nothing. Power hums through every sinew — life's end.
+- You feel infinite, consumed, rage.
 
 
