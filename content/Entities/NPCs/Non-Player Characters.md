@@ -99,6 +99,8 @@ draft: false
 - [[Oberon, King of the Fairies]]
 - [[Garty O'brien]]
 - [[Old Lady - Potion Shop Keep]]
+- [[Delusional Man 1]]
+- [[Delusional Man 2]]
 - 
 
 
