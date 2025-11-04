@@ -23,4 +23,6 @@ The first sighting of [[Dragonspawn]] were born in the mountains. This is where 
 Coming soon, maybe
 
 ## Pictures
+
+![[9d1d04eb3504202d16b0b2379d6372fa.jpg]]
 ![[ad48473365ace99a8ccf26ebd6ff6543.jpg]]
