@@ -99,10 +99,16 @@ draft: false
 - [[Oberon, King of the Fairies]]
 - [[Garty O'brien]]
 - [[Old Lady - Potion Shop Keep]]
-- [[Delusional Man 1]]
-- [[Delusional Man 2]]
+- [[Delusional Man 1]] (THE QUEEN!)
+- [[Delusional Man 2]] (THE KING!)
 - [[Michael]]
 - 
 
 
 
+
+
+
+---
+## Other NPC Pages
+- [[Non-Player Characters - WWFtM]]

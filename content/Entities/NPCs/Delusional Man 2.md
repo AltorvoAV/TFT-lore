@@ -11,7 +11,9 @@ tags:
 - Met: [[The Lost City - City of Thieves|The Lost City]]
 - Status: #Alive for now
 
-8'2" - knows [[Gurk]]
+8'2" - knows [[Gurk]] - more info on [[Delusional Man 1]]
 
 
 ## Picture
+
+![[THE KING.png]]

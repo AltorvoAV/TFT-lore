@@ -14,5 +14,6 @@ tags:
 
 A charming, sultry Tiefling with exotic and beautiful music. Well travelled and no longer under [[Jasper Black]]'s protection, [[Rodwin Vassargo|Rodwin]] wanders Eastern [[Nyropa]] playing music to lift the mood of the war-like state we find ourselves in.
 
+Reasons as to why she became the [[Black Robin]] still elude the party, to date.
 ## Picture
 ![[Rodwin Vassargo.jpg]]
