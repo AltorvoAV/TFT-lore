@@ -6,7 +6,7 @@ draft: false
 ---
 The start of what's to come.
 
-The first gathering of this unlikely company was not destiny, but a summons. Each received a royal quest, each obeyed, and thus an unlikely fellowship was forged in the halls of [[King Sedulus II]]: [[Drachen Lokeriyan]], [[Alyssia]], [[Skapa]], [[Khelek Istar]], and [[Dolomir Bloodmark]].
+The first gathering of this unlikely company was not destiny, but a summons. Each received a royal quest, each obeyed, and thus an unlikely fellowship was forged in the halls of [[King Sedulus II]]: [[Drachen Lokeriyan]], [[Alyssia Lockraven|Alyssia]], [[Skapa]], [[Khelek Istar]], and [[Dolomir Bloodmark]].
 
 Their charge: to find [[Dr Zagak Iscara]], the royal inventor of [[Brugrove - City of the Iron Guard|Brugrove]] who recently went missing.
 

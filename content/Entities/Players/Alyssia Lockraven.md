@@ -1,9 +1,9 @@
 ---
 draft: false
 aliases:
-  - Alyssia Lockraven
   - The Aerialist
   - Kid
+  - Alyssia
 tags:
   - Players
 ---

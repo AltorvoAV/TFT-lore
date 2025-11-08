@@ -6,7 +6,7 @@ draft: false
 ---
 # Prelude
 
-A new act of dread was ushered in by the disappearances centred on [[The Isle of Black]], a domain of deep-seated necromantic gloom. The fellowship—[[Drachen Lokeriyan]], [[Alyssia]], [[Skapa]], [[Khelek Istar]], and [[Dolomir Bloodmark]]—were charged with uncovering what laid between shadows, secrets, and terrible personal sacrifice.
+A new act of dread was ushered in by the disappearances centred on [[The Isle of Black]], a domain of deep-seated necromantic gloom. The fellowship—[[Drachen Lokeriyan]], [[Alyssia Lockraven|Alyssia]], [[Skapa]], [[Khelek Istar]], and [[Dolomir Bloodmark]]—were charged with uncovering what laid between shadows, secrets, and terrible personal sacrifice.
 
 ## Chapter 0: The Black Robin
 
@@ -31,7 +31,7 @@ The party reported their findings from the Isle of Black (including the Black Ro
 The party used their downtime to investigate gods, cults, and personal interests. Then the party entered the Arena, adopting the name: The [[Player Characters|Moonlit Syndicate]] (a name chosen by Drachen). 
 
 The Arena competition was fierce:
-1. **Alyssia** ([[Alyssia|The Aerialist]]) and her close friend [[Aleena Baxter]] faced off against [[Davwin Colchester]] ([[Davwin Colchester|The Sword of Divine Fury]]) and [[Etton Chetstone]] (members of [[The Diran]]). Etton was killed during this bout.
+1. **Alyssia** ([[Alyssia Lockraven|The Aerialist]]) and her close friend [[Aleena Baxter]] faced off against [[Davwin Colchester]] ([[Davwin Colchester|The Sword of Divine Fury]]) and [[Etton Chetstone]] (members of [[The Diran]]). Etton was killed during this bout.
 2. **Skapa** (The [[Skapa|Offender of Noses]]) was forced to make a moral choice, ultimately killing both Gnome and Kobold opponents.
 3. **Drachen** ([[Drachen Lokeriyan|The Primarch, Imperium]]) faced [[Ayanna Everstride]], the formidable [[Ayanna Everstride|Blade of Nyropa]].
 4. The final challenge required the team to hold the arena's centre point against the entirety of [[The Diran]] for three turns, a challenge which **The Moonlit Syndicate** successfully accomplished, winning the tournament.

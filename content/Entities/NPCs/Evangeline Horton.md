@@ -12,7 +12,7 @@ tags:
 - Met: [[Valonde - The Pearled Coast|Valonde]]
 - Status: #Alive 
 
-Contact for [[Alyssia]], and teacher to [[Alaric Lockraven]].
+Contact for [[Alyssia Lockraven]], and teacher to [[Alaric Lockraven]].
 
 ## Picture
 ![[Evangeline Horton.jpg]]

@@ -12,7 +12,7 @@ tags:
 - Met: [[Valonde - The Pearled Coast|Valonde]]
 - Status: #Alive 
 
-[[Keaton Zamora|Keaton]], friend and architecture contact of [[Alyssia]].
+[[Keaton Zamora|Keaton]], friend and architecture contact of [[Alyssia Lockraven]].
 
 ## Picture
 ![[Keaton Zamora.jpg]]

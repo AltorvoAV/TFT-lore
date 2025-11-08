@@ -11,7 +11,7 @@ draft: false
 
 | Name                  | AC  | PP  | Languages | Tools |
 | --------------------- | --- | --- | --------- | ----- |
-| [[Alyssia]]           | 16  | 14  |           |       |
+| [[Alyssia Lockraven]]           | 16  | 14  |           |       |
 | [[Ayanna Everstride]] | 22  | 15  |           |       |
 | [[Drachen Lokeriyan]] | 17  | 7   |           |       |
 | [[Skapa]]             | 17  | 11  |           |       |
@@ -25,6 +25,6 @@ draft: false
 ![[Skapa]]
 
 
-![[Alyssia]]
+![[Alyssia Lockraven]]
 
 

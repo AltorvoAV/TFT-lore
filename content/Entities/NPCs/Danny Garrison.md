@@ -12,7 +12,7 @@ tags:
 - Met: [[Brugrove - City of the Iron Guard|Brugrove]]
 - Status: #Alive
 
-[[Danny Garrison|Danny]], friend of [[Alyssia]] and mentee of [[Aron Elliot]], is an accomplished wizard in his own right.
+[[Danny Garrison|Danny]], friend of [[Alyssia Lockraven]] and mentee of [[Aron Elliot]], is an accomplished wizard in his own right.
 
 He spent a brief time running with a cult while he was learning his magic.
 
