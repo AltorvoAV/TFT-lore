@@ -65,5 +65,3 @@ With her dying breath, **Rodwin** wheezed that she was merely a **blade and manu
 
 ---
 _Recorded by [[Douglas Montgomery]], Royal Historian of Brugrove_
-
-## Chapter 5 - Maloren's Secret / The Robin's Reprise / Illusions of Betrayal?
