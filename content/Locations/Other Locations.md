@@ -9,4 +9,7 @@ List of locations other than main cities:
 - [[Pirate Bay]]
 - [[Maloren]]
 - [[Shallow Isles]]
+- [[The Black Rob Inn]]
+- [[The Fox's Gambit]]
+- [[The Sword and Chalice]]
 - More coming soon, when found

@@ -102,6 +102,8 @@ draft: false
 - [[Delusional Man 1]] (THE QUEEN!)
 - [[Delusional Man 2]] (THE KING!)
 - [[Michael]]
+- [[Gnomeo]]
+- [[Gnomastae]]
 - 
 
 
