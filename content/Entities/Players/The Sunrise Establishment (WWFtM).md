@@ -11,4 +11,4 @@ A group of adventurers... more will follow when we know more.
 # Players
 - [[Archmage Serla Narren]]
 - [[Rayne Mikaere]]
-- Yordan's Character
+- [[Aspen]]
