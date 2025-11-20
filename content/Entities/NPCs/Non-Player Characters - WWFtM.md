@@ -9,7 +9,7 @@ tags:
 - [[Klurm]]
 - [[King Eldrin]]
 - [[Chief Roomba]]
-- [[Scary Monster]]
+- [[Alpha Ossilusk]]
 - [[She Who Weaves the Vein]]
 - [[Korraeth, Voice of the Flame]]
 
