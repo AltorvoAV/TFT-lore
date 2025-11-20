@@ -21,7 +21,7 @@ So began Rayne Mikaere's life on the high seas being the first to crack a joke h
 
 Rayne was never one to be disheartened as every port was a new adventure, every dismissal was just a new beginning until one day he happened to stumble across an Archmage ([[Archmage Serla Narren|Serla Narren]]) who was clearly ignorant to the way things worked in Pirate's Bay. Since then, they have banded together and become close friends.
 
-[[Archmage Serla Narren|Serla]] gifted a book of 'Leadership and Influence' to [[Rayne Mikaere|Rayne]] early into their friendship.
+[[Archmage Serla Narren|Serla]], ever the book worm, gifted a book of 'Leadership and Influence' to [[Rayne Mikaere|Rayne]] early into their friendship.
 
 
 **Personality**: Very extravagant, gets into trouble constantly.
