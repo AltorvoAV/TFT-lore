@@ -10,9 +10,9 @@ tags:
 - Age: Unknown
 - Occupation: Unknown
 - Met: [[Shazahath Mountains - The Ruined Caverns|Shazahath Mountains]]
-- Status: #Dead 
+- Status: #Dead ?
 
-
+A relic of a war the world has forgotten.
 
 
 ## Picture

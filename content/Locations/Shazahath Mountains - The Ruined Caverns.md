@@ -18,7 +18,7 @@ Formed thousands of years ago, the mountain's caverns have kept many secrets ove
 The first sighting of [[Dragonspawn]] were born in the mountains. This is where [[Kurtulmak]] was born, and escaped, showing the want for freedom deep within [[Koboldkind]].
 
 ## 50 Years Ago
-[[Korraeth, Voice of the Flame|The Great Flame]] troubled a local tribe who believed their fate belonged to a beating heart beneath the mountain. Mercenaries, and [[The Sunrise Establishment (WWFtM)]] were sent to uncover the fears and put a stop to the cause.
+[[Korraeth, Voice of the Flame|The Great Flame]] troubled [[Clan Roomba]] who believed their fate belonged to a beating heart beneath the mountain. Mercenaries, and [[The Sunrise Establishment (WWFtM)]] were sent to uncover the fears and put a stop to the cause.
 
 ## Map
 Coming soon, maybe
