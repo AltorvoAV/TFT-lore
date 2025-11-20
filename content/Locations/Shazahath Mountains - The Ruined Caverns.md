@@ -17,7 +17,8 @@ draft: false
 Formed thousands of years ago, the mountain's caverns have kept many secrets over the millennia's. Many has speculated that doors to other realms exist within the [[Shazahath Mountains - The Ruined Caverns|Ruined Caverns]], doors to [[The Abyss]], and others. Many argue these are baseless accusations made to attempt understanding as to the aberrations which have been seen flooding from the mountains, over the years.
 The first sighting of [[Dragonspawn]] were born in the mountains. This is where [[Kurtulmak]] was born, and escaped, showing the want for freedom deep within [[Koboldkind]].
 
-
+## 50 Years Ago
+[[Korraeth, Voice of the Flame|The Great Flame]] troubled a local tribe who believed their fate belonged to a beating heart beneath the mountain. Mercenaries, and [[The Sunrise Establishment (WWFtM)]] were sent to uncover the fears and put a stop to the cause.
 
 ## Map
 Coming soon, maybe

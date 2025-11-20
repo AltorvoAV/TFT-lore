@@ -20,6 +20,7 @@ timeline
     section After the Reckoning
         00/00/000 AR : The Forgotten War <br> Brugrove became a Monarchy <br> Isle of Black
         012 AR : First mention of 'Swiftbolt'
+        163 AR : The Great Flame Awakes
         213 AR : Current Day
 
 ```

@@ -11,7 +11,7 @@ tags:
 **Quick Info:**
 - Race: #Tiefling 
 - Age: 224
-- Occupation: Archmage, & member of [[The Sunrise Establishment (WWFtM)]]
+- Occupation: Archmage of [[Porthca - The Arcane Bridge|Porthca]], & member of [[The Sunrise Establishment (WWFtM)]]
 - Met: N/A
 - Status: Presumed #Dead 
 
@@ -20,7 +20,6 @@ A talented mage from [[Porthca - The Arcane Bridge|Porthca]] who ventured North 
 Having studied at the [[College of Porthca]] in the art of adventuring, [[Archmage Serla Narren|Serla]] rose to the great heights of Archmage.
 
 We now follow his journey across [[Nyropa]] into the [[Shazahath Mountains - The Ruined Caverns|Shazahath Mountains]] with [[The Sunrise Establishment (WWFtM)]].
-
 
 ## Picture
 
