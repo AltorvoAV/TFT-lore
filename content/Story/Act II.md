@@ -20,7 +20,7 @@ The party went to investigate a supply route on the island, where they found a g
 
 The following day, the party went to explore a cave where monsters had been reported. They encountered a number of **aberrations**, including a powerful **Beholder**. During this chaotic fight, a portal opened mid-air and out stepped **Drachen**. He was noticeably **aged and *changed*** by his ordeal, but still alive and returned to the fight.
 
-With Drachen's return, the party scoured the Isle for further info, where they stumbled across [[Jasper Black]] who opened with the infamous: "So, you've figured it out...". What followed was almost complete destruction of the party, who with the aid of magical beans managed to kill Jasper.
+With Drachen's return, the party scoured the Isle for further info, where they stumbled across [[Jasper Black]] who opened with the infamous: "So, you've figured it out...". What followed was almost complete destruction of the party, who with the aid of magical beans managed to kill Jasper and his undead minions.
 
 ## Chapter 2: The Moonlit Syndicate
 

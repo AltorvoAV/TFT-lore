@@ -15,7 +15,6 @@ tags:
 
 
 
-
 ---
 ## Other NPC Pages
 - [[Non-Player Characters]]

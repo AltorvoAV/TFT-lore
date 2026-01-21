@@ -15,7 +15,7 @@ tags:
 
 Apparent shapeshifter ([[Orven Veyl|The Faceless One]]).
 
-## Picture
+## Pictures
 
 ![[Orven + Myra Veyl.jpg]]
 ![[Orevn v2.jpg]]

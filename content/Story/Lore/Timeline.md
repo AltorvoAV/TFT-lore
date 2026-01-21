@@ -5,7 +5,7 @@ aliases:
 tags:
   - Lore
 ---
-Feedback welcomed for possible updates/upgrades.
+Feedback welcomed for possible updates/upgrades - for now this will just be a bunch of methods for showing the same timeline, until I hear feedback about which is preferred, then I'll spend time cleaning them up and adding more info.
 
 ``` mermaid
 %%{init: { 'theme': 'neutral' }}%%

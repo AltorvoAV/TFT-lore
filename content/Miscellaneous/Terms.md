@@ -7,7 +7,7 @@ tags:
 draft: false
 ---
 # Terms & Abstract Language
-I have been known to use colloquial terms and old English on occasion. Hopefully this page acts as both world translator and DM brain translator - if not, that sucks.
+I have been known to use colloquial terms and old English on occasion. Hopefully, this page acts as both world translator and DM brain translator - if not, that sucks. 😤
 
 
 ## Location Specific Terms
@@ -44,14 +44,25 @@ I have been known to use colloquial terms and old English on occasion. Hopefully
 ---
 ### [[Valonde - The Pearled Coast]]
 
-| District | Slang |
-| -------- | ----- |
-|          |       |
+| District             | Slang                             |
+| -------------------- | --------------------------------- |
+| [[Yaeldrin Market]]  | '[[Yaeldrin Market\|The Market]]' |
+| [[Demirev Drive]]    |                                   |
+| [[Daggerbloom Road]] |                                   |
+| [[Goldfinder Gate]]  |                                   |
 
 | Organisation               | Slang                                   |
 | -------------------------- | --------------------------------------- |
 | [[The Council of Valonde]] | [[The Council of Valonde\|The Council]] |
 
+
 ---
 
+## Abstract Phrases/Words
+
+| Original Word | Meaning            |
+| ------------- | ------------------ |
+| Ironwood      | Artisanal Hardwood |
+
+---
 Others to be added soon... - also I can't remember a lot of them off the top of my head, so will need reminding :)

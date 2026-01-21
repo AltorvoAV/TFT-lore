@@ -19,7 +19,9 @@ List of [[Organizations]] throughout [[Nyropa]].
 
 ## [[Valonde - The Pearled Coast|Valonde]]
 - [[The Council of Valonde]]
+- [[Eshari]]
 
 ## Groups
 - [[The Diran]]
 - [[Quade & Co]]
+
