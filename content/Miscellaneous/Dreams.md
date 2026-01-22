@@ -335,5 +335,19 @@ Drachen's dream - **Song**: [Someone Just Volunteered](https://open.spotify.com/
 - Countless eyes bloom in the dark. Your eyes. Each one scarred and weary with knowledge you know not yet. Each weeps light. Each watches your fall.
 - Spindly tendrils of unnatural grief cover the nothing. Power hums through every sinew — life's end.
 - You feel infinite, consumed, rage.
-
+---
+## Session 26
+Skapa's nightmare, thinking back to the conversation the preppy kids were having in Valonde. - **Song**: [Paranoia](https://open.spotify.com/track/757qHNKGPfljx4pW5igE1F?si=3d354e53d7ee4dec)
+- As night falls, darkness consumes… the story told by those preppy kids, haunts your mind.
+- Resting in your bed, sleep does not come gently.
+- You find yourself standing beneath moonlight, trees rising out of the ground around you, their trunks twisted and damp with moss. The smell hits first — wet leather, rot, something long forgotten.
+- The forest is quiet.
+- Too quiet.
+- Then, from the corner of your vision — movement.
+- A pale grey shape slips between the trees. Long. Spindly. Its arms hang too low, webbed fingers brushing the ground as it moves. Its ribcage presses visibly against thin skin, stretching as it breathes.
+- Two glossy black eyes reflect the moonlight. Unblinking.
+- It does not roar nor charge.
+- It watches you from between the trees… patiently.
+- And you realise, with a cold certainty, that it is not hunting.
+- It is waiting for you.
 
