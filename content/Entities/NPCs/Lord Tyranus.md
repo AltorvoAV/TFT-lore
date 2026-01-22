@@ -8,8 +8,8 @@ tags:
 - Race: #Human 
 - Age: 89
 - Occupation: A (sith) Lord?
-- Met: 
-- Status: 
+- Met: [[Valonde - The Pearled Coast|Valonde]]
+- Status: #Dead 
 
 
 
