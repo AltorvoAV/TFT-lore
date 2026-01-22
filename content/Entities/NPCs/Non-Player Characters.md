@@ -110,6 +110,9 @@ draft: false
 - [[Caleb]]
 - [[Nigel]]
 - [[Dr Tumbonious]]
+- [[Lord Tyranus]]
+- [[Krug]]
+- [[Russian Guy]]
 - 
 
 
