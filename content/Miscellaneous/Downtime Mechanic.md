@@ -43,4 +43,4 @@ Then, at the end of the session we tally your total **Fractures** remaining. Eac
 
 ---
 
-%% I took full inspiration of these rules after watching Fantasy High S3E7 (Stress Tested) - fully adapted from Brennen Lee Mulligan's own homebrew rules. %%
+> I took full inspiration of these rules after watching Fantasy High S3E7 ([Stress Tested](https://dimension20.fandom.com/wiki/Stress_Tested)) - fully adapted from Brennen Lee Mulligan's own homebrew rules.
