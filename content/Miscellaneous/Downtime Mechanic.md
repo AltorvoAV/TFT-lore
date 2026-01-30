@@ -27,7 +27,7 @@ Then, at the end of the session, we tally your total **Fractures** tokens. Each 
 ### Allowed Modifiers
 - Flash of Genius (once per player, per downtime)
 - One use of Inspiration (per player, per downtime)
-Further options may yet await, should we think of them...
+- Further options may yet await, should we think of them...
 
 ## Activities Available:
 
