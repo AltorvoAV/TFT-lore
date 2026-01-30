@@ -51,9 +51,10 @@ I have been known to use colloquial terms and old English on occasion. Hopefully
 | [[Daggerbloom Road]] |                                   |
 | [[Goldfinder Gate]]  |                                   |
 
-| Organisation               | Slang                                   |
-| -------------------------- | --------------------------------------- |
-| [[The Council of Valonde]] | [[The Council of Valonde\|The Council]] |
+| Organisation               | Slang                                               |
+| -------------------------- | --------------------------------------------------- |
+| [[The Council of Valonde]] | [[The Council of Valonde\|The Council]]             |
+| The [[Eshari]]             | '[[Eshari\|The Druids]]' / '[[Eshari\|The Forest]]' |
 
 
 ---

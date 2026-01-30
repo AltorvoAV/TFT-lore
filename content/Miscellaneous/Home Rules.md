@@ -18,6 +18,7 @@ draft: false
 	- Upon death, new characters will start from Level 1 (and lvl up much faster)
 	- Where you choose to play a new character, you will start from level 1-4 (as agreed by DM & player alike)
 - **Critical Hits** - Max damage (i.e. 1d8+4 = 12dmg)
+- Fun [[Downtime Mechanic]]s!
 - **Spells** - Spells from the D&D 5e 2024 rules can be used with consent from the DM - Cleared examples include:
 	- **Sleep**,
 - **Rule of Cool** - If something is cool and makes your character/the scene better, let's do it!

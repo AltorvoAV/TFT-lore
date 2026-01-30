@@ -17,4 +17,5 @@ List of locations other than main cities:
 - [[Boris' Dagger Shop]]
 - [[Boris’ Artisanal Goods Shop]]
 - [[Thorace Forrest]]
+- [[Lockraven Manor]]
 - More coming soon, when found

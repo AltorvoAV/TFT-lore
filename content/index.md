@@ -7,7 +7,7 @@ title: Home Page
 ---
 ![[Untitled.png]]
 # Summary
-This site aims to cover all *public* info about [[index|The Forgotten Tomb]] lore. This page may become deprecated over time or be updated with lesser frequency than others. Ping me if a section requires updates.
+This site aims to cover all *public* info about The Forgotten Tomb lore. This page may become deprecated over time or be updated with lesser frequency than others. Ping me if a section requires updates.
 > FYI: Information may be missing/redacted if currently unknown by the [[Player Characters|Moonlit Syndicate]].
 
 ---
@@ -23,6 +23,7 @@ The question is not whether Nyropa will break you. The question is, what will yo
 - Tables Rules
 	- [[Table Rules]]
 	- [[Home Rules]]
+	- [[Downtime Mechanic]]
 - Cities
 	- [[Brugrove - City of the Iron Guard]]
 	- [[Porthca - The Arcane Bridge]]

@@ -2,6 +2,7 @@
 draft: false
 aliases:
   - The Druids
+  - The Forest
 tags:
   - Organization
 ---
