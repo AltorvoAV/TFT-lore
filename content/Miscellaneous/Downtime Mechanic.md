@@ -25,8 +25,8 @@ Then, at the end of the session, we tally your total **Fractures** tokens. Each 
 - At 6x **Fracture** tokens, they turn into 1 **Tear** Token, where something bad will happen.
 
 ### Allowed Modifiers
-- Flash of Genius 3 times (once per player, per downtime)
-- Once use of Inspiration per player, per downtime
+- Flash of Genius (once per player, per downtime)
+- One use of Inspiration (per player, per downtime)
 Further options may yet await, should we think of them...
 
 ## Activities Available:
