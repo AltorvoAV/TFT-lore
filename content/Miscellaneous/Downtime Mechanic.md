@@ -6,15 +6,14 @@ tags:
 ---
 ## Basic Info:
 
-> During downtime, you can attempt multiple activities.> 
-> The first check is DC 5. Each additional activity increases the DC by 5.
+> During downtime, you can attempt multiple activities.
+> 
+> The first check is DC 5. Each additional activity increases the DC by 5. (i.e. DC5 > DC10 > DC15...)
 > 
 > On a failure, you can either accept the failure or take a **Fracture** token, allowing you to reroll.
-> 
-> At the end of downtime, **Fracture** tokens turns into mechanical consequences.
 
 ## Tokens
-Then, at the end of the session we tally your total **Fractures** remaining. Each **Fracture** must be spent in one of the following way:
+Then, at the end of the session, we tally your total **Fractures** tokens. Each **Fracture** must be spent in one of the following way:
 
 1. Disadvantage on **1 proficient ability** (*character skills, saving throws, initiative, attack rolls...etc*)
 2. **OR** disadvantage on **2 non-proficient abilities**
