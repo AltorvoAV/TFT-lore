@@ -13,18 +13,24 @@ tags:
 > 
 > At the end of downtime, **Fracture** tokens turns into mechanical consequences.
 
+## Tokens
 Then, at the end of the session we tally your total **Fractures** remaining. Each **Fracture** must be spent in one of the following way:
 
-1. Disadvantage on **1 proficient ability**
+1. Disadvantage on **1 proficient ability** (*character skills, saving throws, initiative, attack rolls...etc*)
 2. **OR** disadvantage on **2 non-proficient abilities**
 
 - **Fractures** persist until:
     - Successful Rest (via the 'Relax/Recreation' activity)
     - Divine or arcane intervention
 
-- At 6x Fracture tokens, they turn into 1 **Tear** Token, where something bad will happen.
+- At 6x **Fracture** tokens, they turn into 1 **Tear** Token, where something bad will happen.
 
-## Downtime Activities:
+### Allowed Modifiers
+- Flash of Genius 3 times (once per player, per downtime)
+- Once use of Inspiration per player, per downtime
+Further options may yet await, should we think of them...
+
+## Activities Available:
 
 - **Influence / Social**
 - **Research / Mystery**
@@ -42,5 +48,9 @@ Then, at the end of the session we tally your total **Fractures** remaining. Eac
 - **Training / Work a Job** 
 
 ---
+> "*Some say fractures represent something in you beginning to split — belief, patience, values, or perhaps even identity.*”
+> - [[Douglas Montgomery]]
 
+
+---
 > I took full inspiration of these rules after watching Fantasy High S3E7 ([Stress Tested](https://dimension20.fandom.com/wiki/Stress_Tested)) - fully adapted from Brennen Lee Mulligan's own homebrew rules.
