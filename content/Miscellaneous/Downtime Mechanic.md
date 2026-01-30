@@ -28,7 +28,7 @@ Then, at the end of the session we tally your total **Fractures** remaining. Eac
 
 - **Influence / Social**
 - **Research / Mystery**
-- **Exploration 
+- **Exploration**
 - **Crafting**
 - **Snooping / Stealth**
 - **Buy a Magic Item / Trade**
