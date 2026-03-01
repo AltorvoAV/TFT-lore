@@ -313,6 +313,7 @@ Skapa's Dream - **Song**: [Alex](https://open.spotify.com/track/4Xo8Y39jjlThIzYd
 - Not the others’.
 -
 - **Your own.**
+
 ---
 ## Session 23
 Drachen's dream - **Song**: [Someone Just Volunteered](https://open.spotify.com/track/1kSlmNpkBXtgem3mQOCFdy?si=30378a10acf344c9)
@@ -335,6 +336,7 @@ Drachen's dream - **Song**: [Someone Just Volunteered](https://open.spotify.com/
 - Countless eyes bloom in the dark. Your eyes. Each one scarred and weary with knowledge you know not yet. Each weeps light. Each watches your fall.
 - Spindly tendrils of unnatural grief cover the nothing. Power hums through every sinew — life's end.
 - You feel infinite, consumed, rage.
+
 ---
 ## Session 26
 Skapa's nightmare, thinking back to the conversation the preppy kids were having in Valonde. - **Song**: [Paranoia](https://open.spotify.com/track/757qHNKGPfljx4pW5igE1F?si=3d354e53d7ee4dec)
@@ -351,3 +353,57 @@ Skapa's nightmare, thinking back to the conversation the preppy kids were having
 - And you realise, with a cold certainty, that it is not hunting.
 - It is waiting for you.
 
+---
+## Session 29
+Skapa's dream
+**Song**: [Alex](https://open.spotify.com/track/4Xo8Y39jjlThIzYdrckDTb?si=1c1443ed67114d8b)
+- **As sleep finds you, you drift into the familiar hum.**
+- The skyless forge — a cathedral of cogs and obsidian. Chromatic eggs tower around you once more, stacked like stained-glass reliquaries. 
+- Red. Blue. White. Green. Black.
+- Each one hums. 
+- Each one labelled. 
+- Except yours.
+- It sits where it always has — at the base. 
+- Unmarked. 
+- Unlabelled.
+- And yet — the hum bends toward you. 
+- The great clockwork serpent coils from shadow, rusted golden plates shifting softly. Emerald eyes flicker down. 
+- Inside its chest, Kurtulmak hangs in bronze chains, smiling. 
+- The serpent lowers its head — not in judgment, but in recognition. From deep within its plated ribs, its layered voice reverberates.
+	- **“You were not built. You were born. Both are sacred.”**
+- The forge brightens. 
+- From behind you — cheering. You turn.
+- The ‘accepted’ you stands before the crowd again — perfect and polished. As you lock eyes, the cavern quietens.
+- You notice the differences now. 
+- His arms hang longer than yours. 
+- His shoulders curve forward slightly. 
+- His eyes do not hold your reflection.
+- Behind him, the cavern shifts. Stone becomes gold. Mountains of it — coins stacked in impossible spirals. 
+- At the summit, the accepted you sits crowned in recognition as banners unfurl, a golden cog stitched in brilliant thread. Warmth washes over you.
+	- Legacy. Belonging. Recognition.
+- And yet — 
+- The gold moves. 
+- Just slightly. 
+- A ripple beneath the surface. A shadow threads between coins where no shadow should fall. The smell reaches you — wet leather, rot. Long pale fingers slide upward between coins, slow and deliberate, testing its weight.
+- The accepted you stands closer. 
+- Measuring you.
+- The gold beneath you shifts inward, spiralling into an opening of black and shinning gold. 
+- You reach for something — anything — 
+- But the coins slip through your fingers as though they were never meant to hold you, nor you it.
+- The spiral widens. 
+- You fall 
+- And fall 
+- And fall…
+
+- Until nothing becomes a blinding light as you awaken, heart racing. 
+- With the distinct certainty that something has not only calculated your wealth — 
+- —but weighed you against it.
+
+---
+
+
+
+
+
+
+Other than 2 dreams I've been sat on since the start of the campaign, I doubt I'll do anymore - not worth the pixels or oxygen.

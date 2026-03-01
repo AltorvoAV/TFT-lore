@@ -6,7 +6,7 @@ draft: false
 ---
 # Prelude
 
-A new act of dread was ushered in by the disappearances centred on [[The Isle of Black]], a domain of deep-seated necromantic gloom. The fellowship—[[Drachen Lokeriyan]], [[Alyssia Lockraven|Alyssia]], [[Skapa]], [[Khelek Istar]], and [[Dolomir Bloodmark]]—were charged with uncovering what laid between shadows, secrets, and terrible personal sacrifice.
+A new act of dread was ushered in by the disappearances centred on [[The Isle of Black]], a domain of deep-seated necromantic gloom. The fellowship—[[Drachen Lokeriyan]], [[Alyssia Lockraven|Alyssia]], [[Skapa]], [[Khelek Istar]], and [[Dolomir Bloodmark]]—were charged with uncovering what laid between shadows, secrets, at terrible personal sacrifice.
 
 ## Chapter 0: The Black Robin
 

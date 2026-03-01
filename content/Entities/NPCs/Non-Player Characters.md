@@ -114,7 +114,12 @@ draft: false
 - [[Krug]]
 - [[Russian Guy]]
 - [[Lady Penelope]]
-- 
+- [[Lord Acreal]]
+- [[Sereth]]
+- [[Nyx]]
+- [[Lady Cresidilla]]
+- [[Cael]]
+- [[The Clockwork Dragon]]
 
 
 

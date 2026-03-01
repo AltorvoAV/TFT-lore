@@ -9,6 +9,7 @@ List of locations other than main cities:
 - [[Pirate Bay]]
 - [[Maloren]]
 - [[Shallow Isles]]
+- [[The Narrows]]
 - [[The Black Rob Inn]]
 - [[The Drowned Rat]]
 - [[The Half-Mast]]
@@ -16,6 +17,8 @@ List of locations other than main cities:
 - [[The Sword and Chalice]]
 - [[Boris' Dagger Shop]]
 - [[Boris’ Artisanal Goods Shop]]
+- [[Raw Dog]]
+- [[Smiths and Smells]]
 - [[Thorace Forrest]]
 - [[Lockraven Manor]]
 - More coming soon, when found
