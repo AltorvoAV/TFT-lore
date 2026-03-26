@@ -1,6 +1,7 @@
 ---
 draft: false
 aliases:
+  - Downtime
 tags:
   - Rules
 ---
@@ -13,7 +14,7 @@ tags:
 > On a failure, you can either accept the failure or take a **Fracture** token, allowing you to reroll.
 
 ## Tokens
-Then, at the end of the session, we tally your total **Fractures** tokens. Each **Fracture** must be spent in one of the following way:
+Then, at the end of the session, we tally your total **Fractures** tokens. Each **Fracture** must be spent in one of the following ways:
 
 1. Disadvantage on **1 proficient ability** (*character skills, saving throws, initiative, attack rolls...etc*)
 2. **OR** disadvantage on **2 non-proficient abilities**
@@ -36,7 +37,7 @@ Then, at the end of the session, we tally your total **Fractures** tokens. Each 
 - **Exploration**
 - **Crafting**
 - **Snooping / Stealth**
-- **Buy a Magic Item / Trade**
+- **Buy a Magic Item(s) / Trade**
 - **Do a Crime** 
 - **Do a Gambling**
 - **Pit Fight**
@@ -52,4 +53,4 @@ Then, at the end of the session, we tally your total **Fractures** tokens. Each 
 
 
 ---
-> I took full inspiration of these rules after watching Fantasy High S3E7 ([Stress Tested](https://dimension20.fandom.com/wiki/Stress_Tested)) - fully adapted from Brennen Lee Mulligan's own homebrew rules.
+> I took inspiration of these rules after watching Fantasy High S3E7 ([Stress Tested](https://dimension20.fandom.com/wiki/Stress_Tested)) - fully adapted from Brennen Lee Mulligan's own homebrew rules.

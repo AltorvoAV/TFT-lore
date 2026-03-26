@@ -120,6 +120,13 @@ draft: false
 - [[Lady Cresidilla]]
 - [[Cael]]
 - [[The Clockwork Dragon]]
+- [[Tony Sopragnome]]
+- [[Gnomer Simpson]]
+- [[Lady Celindra Vaust]]
+- [[Lord Bramble Thriceborn]]
+- [[Magistrate Eron Vale]]
+- [[6ft Woman]]
+- 
 
 
 
