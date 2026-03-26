@@ -97,6 +97,7 @@ draft: false
 - [[Avel Lockraven]]
 - [[George]]
 - [[Oberon, King of the Fairies]]
+- [[Titania, Queen of the Fairies]]
 - [[Garty O'brien]]
 - [[Old Lady - Potion Shop Keep]]
 - [[Delusional Man 1]] (THE QUEEN!)
