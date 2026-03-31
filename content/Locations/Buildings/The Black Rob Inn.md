@@ -2,6 +2,7 @@
 draft: false
 aliases:
 tags:
+  - Building
 ---
 Run by [[Goff]] the local Bar Keep.
 

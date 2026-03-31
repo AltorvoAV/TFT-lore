@@ -4,7 +4,7 @@ aliases:
 tags:
 draft: false
 ---
-# List of all NPCs met or heard of to date
+# List of all NPCs met or heard of to date:
 - [[King Sedulus II]]
 - [[Dr Zagak Iscara]]
 - [[Gurk]]
@@ -124,9 +124,14 @@ draft: false
 - [[Tony Sopragnome]]
 - [[Gnomer Simpson]]
 - [[Lady Celindra Vaust]]
+- [[Lord Vaust]]
 - [[Lord Bramble Thriceborn]]
 - [[Magistrate Eron Vale]]
 - [[6ft Woman]]
+- [[Guthbert]]
+- [[Sir Knight Nightingale]]
+- [[Duchess Elara von Tallow]]
+- [[The Grand Marshall]]
 - 
 
 

@@ -2,6 +2,7 @@
 draft: false
 aliases:
 tags:
+  - Building
 ---
 It was cooked CUH. The party wasn't attacked by the ~~mimic~~ table.
 

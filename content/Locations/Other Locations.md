@@ -21,4 +21,5 @@ List of locations other than main cities:
 - [[Smiths and Smells]]
 - [[Thorace Forrest]]
 - [[Lockraven Manor]]
+- [[Yaeldrin's Manor]]
 - More coming soon, when found

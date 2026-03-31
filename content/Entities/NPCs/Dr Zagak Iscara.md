@@ -8,7 +8,7 @@ tags:
   - NPC
 ---
 **Quick Info:**
-- Race: #Human
+- Race: #Human & #Undead 
 - Age: ~35
 - Occupation: [[Dr Zagak Iscara|Royal Inventor]]
 - Met: Just outside [[Brugrove - City of the Iron Guard|Brugrove]]
