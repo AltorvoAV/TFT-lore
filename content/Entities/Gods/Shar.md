@@ -88,7 +88,7 @@ The [[Shar|Mistress of Pain]] had the ability to send messengers or guardians or
 Most notable among her array of powers was the ability to perfectly perceive every thing, every person, and every deed of betrayal or nihilism that was hidden or done in the dark. She could also instantly create magical [[Artefacts]] that concealed or obscured what was true or that conjured magical darkness (abilities similar to [[Mask]]).
 
 ## Relationships
-The [[Shar|Mother of Night]]'s eternal enemy (until her death), was her twin sister [[Selûne]]. Their eternal war had been waged since before all other [[Entities/Gods/Gods|Gods]] existed. Their entire purposes always at ends with each other. They never forgave, nor forgot.
+The [[Shar|Mother of Night]]'s eternal enemy, was her twin sister [[Selûne]]. Their eternal war had been waged since before all other [[Entities/Gods/Gods|Gods]] existed. Their entire purposes always at ends with each other. They never forgave, nor forgot.
 
 The first goddess of magic bore neither of her progenitors hatred, yet [[Shar]]'s very creation of the [[Shadow Weave]] would later make her an enemy of future magic wielders. The use of [[Well of Damnation]]s would further mark the [[Shar|Lady of Sorrows]] as an enemy of the [[The Weave|Weave]] due to their [[Dead Zones]], where only [[Shadow Weave]] magic would work.
 
