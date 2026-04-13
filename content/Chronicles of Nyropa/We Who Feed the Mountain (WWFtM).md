@@ -31,7 +31,7 @@ A One-Shot DM'd by the ever talented Tungsten Brown. A cannon event set in the w
 
 ---
 ## Events:
-**The [[Shazahath Mountains - The Ruined Caverns|Shazahath Mountains]] — a sprawling, ancient range riddled with caverns — have gone silent.**
+**The [[Shazahath Mountains - The Ruined Caverns|Shazahath Mountains]] — a sprawling, ancient range riddled with caverns — has gone silent.**
 
 Our tale begins fifty years before the events of [[index|The Forgotten Tomb]], in a time when heroes still shaped the wild lands through steel, spell, and legend.
 

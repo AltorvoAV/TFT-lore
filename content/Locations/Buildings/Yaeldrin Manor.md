@@ -4,7 +4,7 @@ aliases:
 tags:
   - Building
 ---
-Hidden deep within [[Shadowfell]], the [[Yaeldrin's Manor]] can only be accessed by those with an invitation.
+Hidden deep within [[Shadowfell]], the [[Yaeldrin Manor]] can only be accessed by those with an invitation.
 
 ## Pictures
 

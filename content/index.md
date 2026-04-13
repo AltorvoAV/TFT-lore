@@ -51,8 +51,9 @@ The question is not whether Nyropa will break you. The question is, what will yo
 	- [[Act III]]
 	- [[Act IV]]
 	- [[Act V]]
-- Tales of [[Nyropa]]
+- Chronicles of [[Nyropa]]
 	- [[We Who Feed the Mountain (WWFtM)]]
+	- [[The Onslaught of Shar (TOS)]]
 
 
 ---

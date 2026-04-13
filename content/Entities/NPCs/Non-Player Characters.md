@@ -132,6 +132,11 @@ draft: false
 - [[Sir Knight Nightingale]]
 - [[Duchess Elara von Tallow]]
 - [[The Grand Marshall]]
+- [[Roberttt]]
+- [[Robertttt]]
+- [[William Thorn]]
+- [[Meredith Vassargo]]
+- [[The Butler]]
 - 
 
 
@@ -142,3 +147,4 @@ draft: false
 ---
 ## Other NPC Pages
 - [[Non-Player Characters - WWFtM]]
+- [[Non-Player Characters - TOS]]
