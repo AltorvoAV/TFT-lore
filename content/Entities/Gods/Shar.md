@@ -114,7 +114,13 @@ Accounts from [[The Onslaught of Shar (TOS)]]... *coming soon!*
 ## Picture(s):
 
 ![[Shar.png]]
+
+Shar in Religious Artwork:
+![[Shar - religious artwork.webp]]
+
+Shar's Avatar:
 ![[Shar's Avatar.png]]
+
 
 ### Symbol
 
