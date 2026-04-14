@@ -21,19 +21,34 @@ tags:
 Portfolio - 
 
 > "Quote from the God"
+> 
 > — 
+
+---
 ### Appearance
 
 #### Avatar(s)
 
+
+---
 ## Personality
 
+
+---
 ## Worshipers
 
+#### Tenets
+
+
+---
 ## Abilities
 
+
+---
 ## Relationships
 
+
+---
 ## History
 
 (TO BE COMPLETED - would be great if sections like this grow with more campaigns/one-shots lie [[We Who Feed the Mountain (WWFtM)|WWFtM]])
@@ -47,6 +62,7 @@ TODO:
 - Any Quotes for the god
 - Any powers they possess (like Mirror Step for Mask)
 
+---
 ## Picture(s):
 
 

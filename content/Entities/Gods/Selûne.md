@@ -7,6 +7,7 @@ tags:
   - Gods
   - NPC
   - Lore
+  - GreaterDeity
 ---
 ## Quick Info
 
@@ -25,20 +26,35 @@ Portfolio - moon, moonlight, and stars; beauty and purity; love and marriage; na
 
   
 > "*Let all on whom my light falls be welcome if they desire to be so. As the silver moon waxes and wanes, so too does all life. Trust in my radiance, and know that all love alive under my light shall know my blessing. Turn to the moon, and I will be your true guide.*”
+> 
 > — [[Selûne]]
 
+---
 ### Appearance
 
 #### Avatar(s)
 
+
+---
 ## Personality
 
+
+---
 ## Worshipers
 
+followers - Selûnite
+
+### Tenets 
+
+---
 ## Abilities
 
+
+---
 ## Relationships
 
+
+---
 ## History
 
 (TO BE COMPLETED - would be great if sections like this grow with more campaigns/one-shots lie [[We Who Feed the Mountain (WWFtM)|WWFtM]])
@@ -51,6 +67,7 @@ Portfolio - moon, moonlight, and stars; beauty and purity; love and marriage; na
 - Any Quotes for the god
 - Any powers they possess (like Mirror Step for Mask)
 
+---
 ## Picture(s):
 
 ![[Selune.jpg]]

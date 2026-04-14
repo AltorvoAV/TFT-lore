@@ -14,6 +14,7 @@ tags:
   - Gods
   - NPC
   - Lore
+  - GreaterDeity
 ---
 ## Quick Info:
 
