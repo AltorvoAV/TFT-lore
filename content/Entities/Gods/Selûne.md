@@ -114,12 +114,17 @@ Selûne’s death marked the first time in recorded history that the night was l
 ## Picture(s):
 
 ![[Selune.jpg]]
+
 Religious Artwork:
+
 ![[Selune - Religious Artwork.jpg]]
+
 Avatar(s):
+
 ![[Selûne avatars.webp]]
 
 Depiction of Selûne's death by an artist:
+
 ![[Selune Ending.jpg]]
 #### Symbol:
 
