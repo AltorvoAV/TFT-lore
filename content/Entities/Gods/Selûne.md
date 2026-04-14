@@ -88,7 +88,7 @@ To guide mortals who took her favour, [[Selûne]] would send owls, weredragons, 
 
 ---
 ## Relationships
-[[Selûne]]'s greatest allies were her daughters. One of those being the first goddess of magic, who was born from essance of both [[Selûne]] & [[Shar]]. This made her the most powerful ally against [[Shar]].
+[[Selûne]]'s greatest allies were her daughters. One of those being the first goddess of magic, who was born from essence of both [[Selûne]] & [[Shar]]. This made her the most powerful ally against [[Shar]].
 
 All those who shared ideals with [[Selûne]] were counted as allies: [[Bahamut]], [[Raven Queen]], [[Ehlonna]], [[Moradin]], and [[Yondalla]] most of all.
 
