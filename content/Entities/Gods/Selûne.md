@@ -98,6 +98,8 @@ Powerful mortals within the [[Feywild]] would also come to [[Selûne]]'s aid, mo
 
 For enemies, she counted her twin sister [[Shar]] as her eternal foe. There war could be felt in all [[Realms]] across the universe. They never forgot, nor forgave.
 
+Her other great foes were [[Mask]], for his meddling and absence of her light within the shadows; [[Atropal]], for his desire to condemn all to undeath; later the [[Raven Queen]], for her meddling in and accidental corruption of Fey beings, though [[Selûne]] held no hatred against her; the [[Dead Three]], for their corruption of man.
+
 ---
 ## History
 Beginning of time... *coming soon!*
