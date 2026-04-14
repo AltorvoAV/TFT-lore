@@ -123,7 +123,7 @@ Avatar(s):
 
 ![[Selûne avatars.webp]]
 
-Depiction of Selûne's death by an artist:
+Depiction of Selûne in death by an artist:
 
 ![[Selune Ending.jpg]]
 #### Symbol:
