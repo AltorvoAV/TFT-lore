@@ -8,9 +8,9 @@ tags:
 ---
 ## Quick Info
 
-| Alignment | Aliases | Race | Domain | Symbol | Power | Dominion | Dead? |
-| --------- | ------- | ---- | ------ | ------ | ----- | -------- | ----- |
-|           |         |      |        |        |       |          |       |
+| Alignment | Aliases | Race | Domain | Symbol | Power | Dominion | Status |
+| --------- | ------- | ---- | ------ | ------ | ----- | -------- | ------ |
+|           |         |      |        |        |       |          |        |
 ### **Core Themes:**
 - 
 
@@ -36,6 +36,9 @@ Portfolio -
 
 ---
 ## Worshipers
+> "a”
+> 
+> — A basic prayer to 
 
 #### Tenets
 
@@ -65,5 +68,8 @@ TODO:
 ---
 ## Picture(s):
 
+Religious Artwork:
 
+Avatar(s):
 
+### Symbol

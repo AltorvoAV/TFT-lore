@@ -18,9 +18,9 @@ tags:
 ---
 ## Quick Info:
 
-| Alignment | Aliases                                                                                                                                                                        | Race           | Domain                        | Symbol                          | Power             | Dominion       | Dead? |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------- | ------------------------------- | ----------------- | -------------- | ----- |
-| NE        | - Mistress of the Night<br>- The Lady of Loss<br>- The Nightbringer<br>- Dark Lady<br>- Mistress of Pain<br>- The Shadowy Seductress<br>- Lady of Sorrows<br>- Mother of Night | [[Primordial]] | Night, Loss, Trickery, Misery | Black disk with a purple border | [[Greater Deity]] | [[Shadowfell]] |       |
+| Alignment | Aliases                                                                                                                                                                        | Race           | Domain                        | Symbol                          | Power             | Dominion       | Status |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------- | ------------------------------- | ----------------- | -------------- | ------ |
+| NE        | - Mistress of the Night<br>- The Lady of Loss<br>- The Nightbringer<br>- Dark Lady<br>- Mistress of Pain<br>- The Shadowy Seductress<br>- Lady of Sorrows<br>- Mother of Night | [[Primordial]] | Night, Loss, Trickery, Misery | Black disk with a purple border | [[Greater Deity]] | [[Shadowfell]] |        |
 ### **Core Themes:**
 - Loss has power
 - Secrecy has seduction
