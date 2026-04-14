@@ -27,8 +27,6 @@ tags:
 ## Description:
 [[Selûne|The Moonmaiden]] was the goddess of the Moon & Life. During multiple points of history, her portfolio expanded to navigation, beauty and purity, love and marriage, wanderers and seekers, diviners and dreamers, good and neutral lycanthropes, and autumn.
 
-Her favoured creature, was an owl.
-
 > "*Let all on whom my light falls be welcome if they desire to be so. As the silver moon waxes and wanes, so too does all life. Trust in my radiance, and know that all love alive under my light shall know my blessing. Turn to the moon, and I will be your true guide.*”
 > 
 > — [[Selûne]]
