@@ -10,7 +10,7 @@ tags:
 - Leaders: [[High Priestess of Selûne]]
 - Alignment: Lawful
 
-### Founding -  Years Ago
+## Founding -  Years Ago
 Surrounded by mostly evil/dangerous areas, this location was founded under the intention of protecting all those that are good, from those that are evil, or would seek them harm. Originally known as [[The Ruins of Heathorp Keep|Heathorp Keep]], this town and enclosed castle/cathedral was the resting place of many wayward travellers and asylum seekers, in addition to heroic figures of statue.
 
 Due to the cities founding beliefs of protection and guidance, it formed into a [[Theocracy]] devoted to [[Selûne]] and her tenets.

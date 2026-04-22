@@ -15,7 +15,7 @@ A One-Shot DM'd by Mr Shit. A cannon event set in the world of [[Nyropa]], 75 ye
 ## Links to pages
 - Locations
 	- [[The Ruins of Heathorp Keep|Heathorp Keep]]
-	- [[Districts - TOS|Districts]]
+		- [Districts](https://altorvoav.github.io/TFT-lore/Locations/The-Ruins-of-Heathorp-Keep#districts)
 - The [[Shadow Adept]] (Party members)
 	- [[Aldric Vane]] 
 	- [[Quar Rhodon]]

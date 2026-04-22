@@ -16,7 +16,7 @@ tags:
 - [[Bram Harker]]
 - [[Elrond Vetillon]]
 - [[Sargrea Vetillon]]
-- [[Lumber Mill Owner]]
+- [[Bamik Hardstone]]
 - 
 
 

@@ -9,7 +9,7 @@ tags:
 **Quick Info:**
 - Race: #Human 
 - Age: Unknown
-- Occupation: Unknown
+- Occupation: Co-Owner of [[Selûne's Silks]]
 - Met: [[The Ruins of Heathorp Keep|Heathorp Keep]]
 - Status: #Alive 
 
