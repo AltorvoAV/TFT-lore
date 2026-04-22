@@ -10,6 +10,7 @@ aliases:
   - Lady of Sorrows
   - Nightsinger
   - Mother of Night
+  - Sharran
 tags:
   - Gods
   - NPC

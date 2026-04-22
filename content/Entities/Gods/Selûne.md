@@ -3,6 +3,7 @@ draft: false
 aliases:
   - The Moonmaiden
   - She Who Guides
+  - Selûnite
 tags:
   - Gods
   - NPC
