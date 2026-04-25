@@ -15,8 +15,10 @@ Surrounded by mostly evil/dangerous areas, this location was founded under the i
 
 Due to the cities founding beliefs of protection and guidance, it formed into a [[Theocracy]] devoted to [[Selûne]] and her tenets.
 
-## 75 Years Ago
-*Coming soon*
+## 75 Years Ago (13/01/138 AR)
+Once [[The Ruins of Heathorp Keep|Heathorp Keep]] had reached mass capacity, and once all preparations had been made, [[Shar]] enacted all [[Shar|Sharran]]s living secretly among the city to raise [[Selûne]]'s sanctuary to the ground. In addition, [[Shar]] entrusted her [[Shadow Adept]] ([[Quar Rhodon|Quar]] & [[Aldric Vane|Aldric]]) to complete the [[Well of Damnation]] ritual, which would cause a [[Dead Zones|Dead Zone]] within [[The Weave]].
+
+The city was destroyed and turned to ashes. Light consumed, darkness ruled.
 
 ## Map
 

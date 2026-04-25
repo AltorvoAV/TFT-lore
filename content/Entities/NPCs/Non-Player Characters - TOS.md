@@ -20,7 +20,7 @@ tags:
 - [[John Gladiator]]
 - 
 
-
+ 
 
 ---
 ## Other NPC Pages

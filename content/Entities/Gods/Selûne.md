@@ -60,7 +60,7 @@ Generally, [[Selûne]] was caring, kind, accepting, and forgiving. Her ageless b
 > 
 > — A basic prayer to [[Selûne]]
 
-Members of the [[Church of Selûne]] or any that followed [[Selûne]] were called Selûnites.
+Members of the [[Church of Selûne]] or any that followed [[Selûne]] were called [[Selûne|Selûnite]]s.
 
 People turned to [[Selûne]]'s warm embrace for protection, guidance, compassion, courage, or strength. She welcomed all those with good in their hearts, and protected those from evil.
 

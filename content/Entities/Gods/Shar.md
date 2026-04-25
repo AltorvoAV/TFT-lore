@@ -21,7 +21,7 @@ tags:
 
 | Alignment | Aliases                                                                                                                                                                        | Race           | Domain                        | Symbol                          | Power             | Dominion       | Status |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------------------------- | ------------------------------- | ----------------- | -------------- | ------ |
-| NE        | - Mistress of the Night<br>- The Lady of Loss<br>- The Nightbringer<br>- Dark Lady<br>- Mistress of Pain<br>- The Shadowy Seductress<br>- Lady of Sorrows<br>- Mother of Night | [[Primordial]] | Night, Loss, Trickery, Misery | Black disk with a purple border | [[Greater Deity]] | [[Shadowfell]] |        |
+| NE        | - Mistress of the Night<br>- The Lady of Loss<br>- The Nightbringer<br>- Dark Lady<br>- Mistress of Pain<br>- The Shadowy Seductress<br>- Lady of Sorrows<br>- Mother of Night | [[Primordial]] | Night, Loss, Trickery, Misery | Black disk with a purple border | [[Greater Deity]] | [[Shadowfell]] | #Dead  |
 ### **Core Themes:**
 - Loss has power
 - Secrecy has seduction
@@ -108,7 +108,11 @@ For allies, she counted on [[Myrkul]], God of Death. Though before [[Myrkul]], t
 ## History
 Beginning of time... *coming soon!*
 
-Accounts from [[The Onslaught of Shar (TOS)]]... *coming soon!*
+### [[The Onslaught of Shar (TOS)|The Onslaught of Shar]] - 75 Years Ago (13/01/138 AR)
+Once [[The Ruins of Heathorp Keep|Heathorp Keep]] had reached mass capacity, and once all preparations had been made, [[Shar]] enacted all [[Shar|Sharran]]s living secretly among the city to raise [[Selûne]]'s sanctuary to the ground. In addition, [[Shar]] entrusted her [[Shadow Adept]] ([[Quar Rhodon|Quar]] & [[Aldric Vane|Aldric]]) to complete the [[Well of Damnation]] ritual, which would cause a [[Dead Zones|Dead Zone]] within [[The Weave]].
+
+The city was destroyed and turned to ashes. Light consumed, darkness ruled.
+
 
 *(COMING SOON! - would be great if sections like this grow with more campaigns/one-shots lie [[We Who Feed the Mountain (WWFtM)|WWFtM]])*
 
