@@ -17,6 +17,7 @@ tags:
 - [[Elrond Vetillon]]
 - [[Sargrea Vetillon]]
 - [[Bamik Hardstone]]
+- [[John Gladiator]]
 - 
 
 
