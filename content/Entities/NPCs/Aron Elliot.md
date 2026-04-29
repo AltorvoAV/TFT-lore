@@ -17,4 +17,5 @@ tags:
 Having lived over 400 years, [[Aron Elliot|Aron]] has seen kings falls, empires shift, magic fault, and fate twist.
 
 ## Picture
+
 ![[Aaron Elliot.jpg]]

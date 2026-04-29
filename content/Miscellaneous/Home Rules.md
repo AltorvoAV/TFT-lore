@@ -14,6 +14,7 @@ draft: false
 - **Balder's Gate** - Some rules from BG3 are adopted in this world:
 	- Potions can be consumed via **Bonus Action**
 	- **Tavern Brawler** rules from BG3, as they're just better than regular 5e
+	- **Thief Subclass** - has extra bonus action (like BG3)
 - **Character Creation**:
 	- Upon death, new characters will start from Level 1 (and lvl up much faster)
 	- Where you choose to play a new character, you will start from level 1-4 (as agreed by DM & player alike)
