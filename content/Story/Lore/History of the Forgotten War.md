@@ -15,6 +15,7 @@ Written in the year 168 AR (After [[History of the Forgotten War|The Reckoning]]
 ## Part I: _Foreword – The Fog of Memory:_
 
 > *“It is not the absence of truth that frightens us—but the possibility that we once knew it.”*
+> 
 > – [[Douglas Montgomery]], Royal Historian of Brugrove
 
 In this work, I have attempted to gather and preserve the fragments we possess from what scholars now call _The Great Forgotten War_, a conflict that reshaped the world almost two centuries past. What occurred in the skies above Brugrove, and across the veins of Nyropa from Porthca to the Ruins of Aenbeor Keep, have left scars that time refuses to heal.
@@ -36,26 +37,31 @@ May the truth one day forgive us.
 ### 📍 _[[Brugrove - City of the Iron Guard|Brugrove]]_
 
 > *“I saw the sky shatter. Not in metaphor, nor madness—but in glass. The heavens were a bowl and it cracked like porcelain, and through the breach I saw light too bright for thought. I heard names that scratched at my bones, and I remember… I remember weeping. Not for what I saw, but for what I had already forgotten.”*
+> 
 > – [[Lady Cressidia Vell]], Brugrove Noble, Age 87
 
 ### 📍 _[[Valonde - The Pearled Coast|Valonde]]_
 
 > *“The Iron Guard arrived one dawn and said nothing. They appeared across different cities, looking for something. I know not where they came from, only that they made home in Brugrove protecting the monarchs past. We welcomed them, for the gods had left us.*
+> 
 > – Excerpt from _The Valonde Archives_, Section 3.1.2
 
 ### 📍 _[[The Lost City - City of Thieves|The Lost City]]_
 
 > *“We were trading spice and jewellery when the sky opened. The mirrors cracked across the walls and none of us could remember the rates we’d just agreed upon. It seemed trivial. I asked my brother if the city always had thirteen bars—he said we’ve always had twelve. That’s when I knew.”*
+> 
 > – [[Joran the Forgetful]], Smuggler
 
 ### 📍 _[[Porthca - The Arcane Bridge|Porthca]]_
 
 > *“We signed a pact of trade and magic with Brugrove the day the moon broke into crescents. They gave us artefacts that sang, and told us not to touch them bare. But our ship never made it to port. The sea rebelled. Something in it… rebelled.”*
+> 
 > – Salvaged journal, last entry, Author Unknown
 
 ### 📍 _[[Shazahath Mountains - The Ruined Caverns|Shazahath Mountains]]_
 
-> *“We heard them screaming from the peaks. The priests said not to look. Yet I felt the urge to. The mountains were burning inwards. That’s the best way I can describe it. Something inside was trying to crawl out.”*
+> *“We heard them screaming from the peaks. The priests said not to look. Yet I felt the urge to. The mountains were burning inwards. That’s the best way I can describe it. Something inside was trying to crawl out.”
+> 
 > – Notes from a mountain scout, now blind
 
 ---
@@ -63,6 +69,7 @@ May the truth one day forgive us.
 ### Part III: _On [[The Isle of Black]]_
 
 > *“I do not recall it being an island.”*
+> 
 > – Most common quote from elderly citizens across Nyropa
 
 There is no consensus on when the Isle of Black separated from Brugrove. Some maps show it always was. Others do not. Some scholars believe it was once a temple. Others say it is a wound. Several independent writers, prior to the publication of this volume, attempted to describe what lies there—each manuscript has since been lost, burned, or never existed, depending on whom you ask. Others think it a ploy to encourage trade and tourism.
@@ -71,9 +78,13 @@ There is no consensus on when the Isle of Black separated from Brugrove. Some ma
 
 ### Part IV: _On Faith and the Fracture_
 
-> *“The gods did not die—they were forgotten.”* – Priest of the Silent Chapel, whose name was never recorded
+> *“The gods did not die—they were forgotten.”* 
+> 
+> – Priest of the Silent Chapel, whose name was never recorded
 
-> *“There are names I should not write. But if I do not, Silence will devour them faster.”* — [[Douglas Montgomery]], Royal Historian of Brugrove
+> *“There are names I should not write. But if I do not, Silence will devour them faster.”* 
+> 
+> — [[Douglas Montgomery]], Royal Historian of Brugrove
 
 Some religious orders claim that divine power faded because mortal belief waned. That in our greed and faithlessness, we starved our gods. Others claim the gods betrayed each other—that the world was collateral.
 
@@ -90,6 +101,7 @@ A secretive sect of monks left rare carvings referencing a “Silver Veil,” be
 
 One poem recovered from a ruined monastery reads:
 > *“Before the first clock struck / the tongue was whole / the name was known / the magic spoke itself.”*
+> 
 > _(Most of the stanzas are unreadable.)_
 
 ---
@@ -101,4 +113,5 @@ Magic is not what it was. That much is certain. Even those who claim arcane mast
 Several mages describe the sensation as if someone were “turning down the volume” on the Weave. The official stance of the [[College of Porthca]] is that _“[[The Weave]] has corrected itself.”_ Others aren’t so sure.
 
 > *“I cast a spell once—a simple one—to remember a name. The spell shattered. My eyes bled. And all I remembered was that the name was never mine to hold.”*
+> 
 >– Testimony of [[Archmage Serla Narren]]
