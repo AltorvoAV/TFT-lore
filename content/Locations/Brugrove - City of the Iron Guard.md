@@ -13,7 +13,7 @@ draft: false
 - Alignment: Lawful
 
 ### Founding - 813 BR
-Early settlers came from [[The Tomb of Horrors]] and [[The Vale of Omens]] looking to escape the abundant magical terrors plaguing both locations. Taking with them only a few ancient [[Artefacts]].
+Early settlers came from [[The Tomb of Horrors]] and [[The Vale of Omens]] looking to escape the abundant magical terrors plaguing both locations. Taking with them only a few ancient [[Artefacts]]. It is said, these locations were plagued with dark magic and [[Dead Zones]].
 
 [[Brugrove - City of the Iron Guard|Brugrove]] was founded as a [[Theocracy]] to a deity lost to modern scholars. It changed to a [[Monarchy]] following [[History of the Forgotten War|The Reckoning]].
 

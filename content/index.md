@@ -40,6 +40,7 @@ The question is not whether Nyropa will break you. The question is, what will yo
 - [[Realms]]
 - Lore & Tomes
 	- [[History of the Forgotten War]]
+		- [[Oblivati Mori]]
 	- [[Timeline]]
 - Useful Pages
 	- [[Thieves Cant]]
@@ -54,6 +55,7 @@ The question is not whether Nyropa will break you. The question is, what will yo
 - Chronicles of [[Nyropa]]
 	- [[We Who Feed the Mountain (WWFtM)]]
 	- [[The Onslaught of Shar (TOS)]]
+		- [[Well of Damnation]]
 
 
 ---
