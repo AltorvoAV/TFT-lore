@@ -137,6 +137,10 @@ draft: false
 - [[William Thorn]]
 - [[Meredith Vassargo]]
 - [[The Butler]]
+- [[Prudence Wobbleworth]]
+- [[He King]]
+- [[Half-Dwarf, Half-Goliath]]
+- [[2-Step]]
 - 
 
 

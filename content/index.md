@@ -56,6 +56,7 @@ The question is not whether Nyropa will break you. The question is, what will yo
 	- [[We Who Feed the Mountain (WWFtM)]]
 	- [[The Onslaught of Shar (TOS)]]
 		- [[Well of Damnation]]
+	- [[Skapa's Army (SA)]]
 
 
 ---

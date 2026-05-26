@@ -27,7 +27,7 @@ tags:
 - Maintain cycle of death
 - Arbiter of death
 ## Description:
-The [[Raven Queen]] is the interloper goddess of Death, Fate, and commonly known as a god that brought Life to her faithful Shadar-kai. She is a mysterious entity believed to exist within the [[Shadowfell]], and vehemently revered by the Shadar-kai.
+The [[Raven Queen]] is the interloper goddess of Death, Fate, and commonly known as a god that brought Life to her faithful Shadar-kai. She is a mysterious entity believed to exist within [[Shadowfell]], and vehemently revered by the Shadar-kai.
 
 > "*Memory is the only immortality worth endeavouring.*"
 > 

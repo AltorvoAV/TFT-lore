@@ -18,9 +18,7 @@ tags:
 - [[Sargrea Vetillon]]
 - [[Bamik Hardstone]]
 - [[John Gladiator]]
-- 
 
- 
 
 ---
 ## Other NPC Pages

@@ -20,7 +20,10 @@ Early settlers came from [[The Tomb of Horrors]] and [[The Vale of Omens]] looki
 It is believed [[Brugrove - City of the Iron Guard|Brugrove]]'s parent location were later cleared of their magical disturbances by a group of devout paladins.
 
 ## Districts
-- a
+
+| Name                   | Description |
+| ---------------------- | ----------- |
+| [[Scholar's Farthing]] | ...         |
 
 ## Map
 ![[Brugrove City Map.png]]

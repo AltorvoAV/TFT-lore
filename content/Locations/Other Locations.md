@@ -10,6 +10,7 @@ List of locations other than main cities:
 - [[Maloren]]
 - [[Shallow Isles]]
 - [[The Narrows]]
+- [[The Ruins of Heathorp Keep]]
 - [[The Black Rob Inn]]
 - [[The Drowned Rat]]
 - [[The Half-Mast]]
