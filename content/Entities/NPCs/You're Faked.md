@@ -11,7 +11,7 @@ tags:
 - Met: [[Pirate Bay]]
 - Status: #Dead 
 
-Met in a confrontation against [[Drachen Lokeriyan|Drachen]], to which after getting threats by the giant hulking human, Drachen showed his true Aasimar from - to which he recieved his famous line: 'You're Faked' - his name was unknown to the party.
+Met in a confrontation against [[Drachen Lokeriyan|Drachen]], to which after getting threats by the giant hulking human, Drachen showed his true Aasimar from - to which he received his famous line: 'You're Faked' - his name was unknown to the party.
 
 Something that was known was his brilliant sense of smell specifically for [[Skapa]], as he almost caught him in a bar in [[Brugrove - City of the Iron Guard|Brugrove]].
 

@@ -23,3 +23,5 @@ tags:
 ---
 ## Other NPC Pages
 - [[Non-Player Characters]]
+- [[Non-Player Characters - WWFtM]]
+- [[Non-Player Characters - SA]]

@@ -18,3 +18,5 @@ tags:
 ---
 ## Other NPC Pages
 - [[Non-Player Characters]]
+- [[Non-Player Characters - TOS]]
+- [[Non-Player Characters - SA]]
