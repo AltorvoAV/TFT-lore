@@ -31,6 +31,7 @@ The question is not whether Nyropa will break you. The question is, what will yo
 	- [[The Isle of Black]]
 	- [[The Lost City - City of Thieves]]
 	- [[Valonde - The Pearled Coast]]
+	- [[The Lost Lair of Souls - The Feted Fortress]]
 	- [[Other Locations]]
 - [[Non-Player Characters]]
 	- [[Organizations]]

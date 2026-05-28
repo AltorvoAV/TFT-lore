@@ -141,6 +141,14 @@ draft: false
 - [[He King]]
 - [[Half-Dwarf, Half-Goliath]]
 - [[2-Step]]
+- [[You're Faked]]
+- [[Quiggle]]
+- [[Quoggle]]
+- [[Paloma]]
+- [[Skeemo Weirdbottle]]
+- [[Tixie Tockworth]]
+- [[Umberto Noblin]]
+- [[Nevermind Gnome Inventor]]
 - 
 
 

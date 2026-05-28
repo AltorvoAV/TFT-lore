@@ -11,7 +11,7 @@ tags:
 - Met: 
 - Status: #Alive 
 
-Mother to [[Rodwin Vassargo]] & wife to [[Avel Lockraven]]
+Mother to [[Rodwin Vassargo]] & wife to [[Avel Lockraven|Avel Quade]]
 
 
 ## Picture

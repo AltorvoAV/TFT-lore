@@ -11,7 +11,7 @@ tags:
 - Met: [[The Salty Chub]]
 - Status: #Dead 
 
-Has a strong name.
+Has a strong name. The head honcho whilst [[]]
 
 
 ## Picture

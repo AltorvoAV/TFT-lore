@@ -11,7 +11,7 @@ tags:
 - Met: [[Crag District]]
 - Status: #Alive 
 
-
+Jobless house-mate of [[He King]], whose only claim to fame is opening the door to [[Skapa]].
 
 
 ## Picture

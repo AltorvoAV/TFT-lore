@@ -12,6 +12,6 @@ tags:
 - Status: #Alive 
 
 
-
+[[The Grand Marshall]] is the general games master and referee for all [[Valonde - The Pearled Coast|Valonde]] major sports. It is a great title bestowed only to the greatest and most honourable.
 
 ## Picture

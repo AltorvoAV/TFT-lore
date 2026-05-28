@@ -24,4 +24,6 @@ List of [[Organizations]] throughout [[Nyropa]].
 ## Groups
 - [[The Diran]]
 - [[Quade & Co]]
+- [[The Tinkerers]]
+
 

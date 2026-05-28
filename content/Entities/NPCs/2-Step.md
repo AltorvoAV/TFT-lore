@@ -11,7 +11,7 @@ tags:
 - Met: [[Scholar's Farthing]]
 - Status: #Alive (as of writing)
 
-
+Known for his ability to think a step of two in advance. Quite the proactive fella.
 
 
 ## Picture
