@@ -19,9 +19,9 @@ Quar Rhodon was once a devout follower of [[Selûne]] however after so many unan
 Secretly supplying weapons and armour to [[Shar|Sharran]]s for when the time comes.
 
 Possibly the most based character in all Nyropa. With lines such as:
-- "Fuck ya moon whore."
-	- Followed by; "Who's next"
-- "He's a bit of a cont"
+- "*Fuck ya moon whore.*"
+	- Followed by; "*Who's next*"
+- "*He's a bit of a cont*"
 
 ## Picture
 

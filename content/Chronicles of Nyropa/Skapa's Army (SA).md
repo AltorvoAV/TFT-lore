@@ -17,9 +17,13 @@ A One-Shot once again DM'd by Mr Shit. A cannon event set in the world of [[Nyro
 - Locations
 	- [[Brugrove - City of the Iron Guard|Brugrove]]
 	- [[Porthca - The Arcane Bridge|Porthca]]
-- The Drop-outs of [[Scholar's Farthing]]
+- The 'Drop-outs' of [[Scholar's Farthing]]
 	- Tungsten's character(s)...
-	- Al9's character(s)...
+		- Coming soon...
+	- Al9's characters:
+		- [[Lil Cindi]]
+		- [[Beansprout]]
+		- [[Two Step]]
 - [[Non-Player Characters - SA]]
 
 ---

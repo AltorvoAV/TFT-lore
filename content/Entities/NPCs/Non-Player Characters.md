@@ -140,7 +140,7 @@ draft: false
 - [[Prudence Wobbleworth]]
 - [[He King]]
 - [[Half-Dwarf, Half-Goliath]]
-- [[2-Step]]
+- [[Two Step]]
 - [[You're Faked]]
 - [[Quiggle]]
 - [[Quoggle]]
