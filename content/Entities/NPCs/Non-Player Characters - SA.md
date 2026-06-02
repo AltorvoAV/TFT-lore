@@ -6,7 +6,11 @@ tags:
   - SA
 ---
 # List of all NPCs met or heard of in [[Skapa's Army (SA)|SA]]
-- Coming soon
+- [[Jim Beam]]
+- [[Ralphie Cobstomper]]
+- [[Cist Bucklesby]]
+- [[Captain Joblin Mathews]]
+- ...More Coming soon... maybe idk
 
  
 ---

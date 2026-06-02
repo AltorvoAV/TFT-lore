@@ -9,6 +9,7 @@ tags:
 
 
 ### Known Members
+- Unknown - Leader
 - [[Skeemo Weirdbottle]] - High Lieutenant
 - [[Tixie Tockworth]] - Doodad maker
 - [[Umberto Noblin]] - Former aristocrat, turned investor
