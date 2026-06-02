@@ -9,7 +9,7 @@ tags:
 - Race: #Human 
 - Age: 42
 - Occupation: Captain of the [[Sea Broth]] (ship which transports soldiers to the front lines)
-- Met: [[Greater Lion's District]]
+- Met: By the 'drop outs' in the [[Greater Lion's District]]
 - Status: #Alive (as of writing)
 
 
