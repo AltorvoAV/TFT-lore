@@ -6,8 +6,8 @@ tags:
   - SA
 ---
 **Quick Info:**
-- Race: #Human 
-- Age: 73
+- Race: #High-Elf 
+- Age: 162
 - Occupation: Teacher at [[Scholar's Farthing]]
 - Met: By the party at [[Scholar's Farthing]], in [[Brugrove - City of the Iron Guard|Brugrove]]
 - Status: #Dead 
