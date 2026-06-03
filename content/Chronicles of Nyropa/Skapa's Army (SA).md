@@ -19,7 +19,12 @@ A One-Shot once again DM'd by Mr Shit. A cannon event set in the world of [[Nyro
 	- [[Porthca - The Arcane Bridge|Porthca]]
 - The 'Drop-outs' of [[Scholar's Farthing]]
 	- Tungsten's character(s)...
-		- Coming soon...
+		- [[Autism Boi]]
+		- [[Dwarf Boi]]
+		- [[High-Elf Boi]]
+		- [[Human Boi]]
+		- [[Kenku Boi]]
+		- [[Tiefling Boi]]
 	- Al9's characters:
 		- [[Lil Cindi]]
 		- [[Beansprout]]
