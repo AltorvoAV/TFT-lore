@@ -10,6 +10,7 @@ tags:
 - [[Ralphie Cobstomper]]
 - [[Cist Bucklesby]]
 - [[Captain Joblin Mathews]]
+- [[Barthomley Turner]]
 - ...More Coming soon... maybe idk
 
  
