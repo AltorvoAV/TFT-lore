@@ -1,6 +1,8 @@
 ---
 draft: false
 aliases:
+  - Captain Joblin
+  - Joblin
 tags:
   - NPC
   - SA
@@ -10,7 +12,7 @@ tags:
 - Age: 42
 - Occupation: Captain of the [[Sea Broth]] (ship which transports soldiers to the front lines)
 - Met: By the 'drop outs' in the [[Greater Lion's District]]
-- Status: #Alive (as of writing)
+- Status: #Dead 
 
 
 

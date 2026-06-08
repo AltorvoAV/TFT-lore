@@ -9,8 +9,8 @@ tags:
 - Race: #Human 
 - Age: ?
 - Occupation: Failed wizard of [[Scholar's Farthing]], now mage within the Brugrovian Army
-- Met: 
-- Status: #Alive (as of writing)
+- Met: [[Scholar's Farthing]], [[Brugrove - City of the Iron Guard|Brugrove]]
+- Status: #Dead 
 
 
 

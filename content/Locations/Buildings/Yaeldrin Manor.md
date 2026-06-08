@@ -9,4 +9,5 @@ Hidden deep within [[Shadowfell]], the [[Yaeldrin Manor]] can only be accessed b
 ## Pictures
 
 ![[Yaeldrins Manor Exterior.png]]
+
 ![[Inside Yaeldrins Manor.png]]

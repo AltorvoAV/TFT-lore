@@ -21,9 +21,10 @@ It is believed [[Brugrove - City of the Iron Guard|Brugrove]]'s parent location 
 
 ## Districts
 
-| Name                   | Description |
-| ---------------------- | ----------- |
-| [[Scholar's Farthing]] | ...         |
+| Name                        | Description |
+| --------------------------- | ----------- |
+| [[Scholar's Farthing]]      | ...         |
+| [[Greater Lion's District]] |             |
 
 ## Map
 ![[Brugrove City Map.png]]

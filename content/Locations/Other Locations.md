@@ -5,12 +5,16 @@ tags:
 ---
 List of locations other than main cities:
 
-- [[Doctor Zagak Iscara's Home]]
-- [[Pirate Bay]]
-- [[Maloren]]
-- [[Shallow Isles]]
-- [[The Narrows]]
+## Cities / Towns
 - [[The Ruins of Heathorp Keep]]
+- [[The Narrows]]
+- [[Shallow Isles]]
+- [[Maloren]]
+- [[Thorace Forrest]]
+- [[Pirate Bay]]
+
+## Buildings
+- [[Doctor Zagak Iscara's Home]]
 - [[The Black Rob Inn]]
 - [[The Drowned Rat]]
 - [[The Half-Mast]]
@@ -20,7 +24,6 @@ List of locations other than main cities:
 - [[Boris’ Artisanal Goods Shop]]
 - [[Raw Dog]]
 - [[Smiths and Smells]]
-- [[Thorace Forrest]]
 - [[Lockraven Manor]]
 - [[Yaeldrin Manor]]
 - More coming soon, when found
