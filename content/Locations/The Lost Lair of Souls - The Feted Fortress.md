@@ -4,6 +4,7 @@ aliases:
   - The Lost Lair of Souls
   - The Feted Fortress
   - Lost Lair
+  - Lair of Souls
 tags:
   - City
   - Lore

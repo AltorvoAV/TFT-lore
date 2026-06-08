@@ -3,6 +3,7 @@ draft: false
 aliases:
 tags:
   - NPC
+  - SA
 ---
 **Quick Info:**
 - Race: #Tiefling 
