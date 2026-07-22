@@ -15,7 +15,7 @@ The [[Well of Damnation]] was once a symbol of defiance against [[The Weave]] co
 5. Lastly, the ritual requires an entity originating from the [[Material Plane]] of great strength (connection to the [[Shadow Weave]]) and knowledge (gifted millennia's ago by [[Shar]] and horded by [[Oghma]]) to perform the ritual which takes days of preparation, and a final 30 seconds of ignition.
 
 ## What does the Well do?
-What is currently known by the [[Player Characters|Moonlit Syndicate]]?
+(That is currently known by the [[Player Characters|Moonlit Syndicate]])
 
 The [[Well of Damnation]] sucks all [[The Weave|Weave]] potential from a surrounding 15 mile radius, centred on the ritual location, storing it within the Well itself. The affected area loses all connection to the [[The Weave|Weave]]. The [[Shadow Weave]] is immune to this type of tampering, as the very nature of the Shadow Weave is to exist within the spaces of the [[The Weave|Weave]].
 
@@ -34,4 +34,4 @@ Currently unknown.
 - [[The Vale of Omens]] & [[The Tomb of Horrors]]
 	- Later cleared out.
 - Other locations exist, which are currently unknown the party.
-- Countless other location across [[Nyropa]] - though most of them were destroyed during the conflicts between [[Shar]] vs [[Selûne]], or later cleared out.
+	- Countless other location across [[Nyropa]] - though most of them were destroyed during the conflicts between [[Shar]] vs [[Selûne]], or later cleared out.

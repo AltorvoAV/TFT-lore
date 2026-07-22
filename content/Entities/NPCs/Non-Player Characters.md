@@ -144,12 +144,23 @@ draft: false
 - [[Barthomley Turner]]
 - [[You're Faked]]
 - [[Quiggle]]
+- [[Ma Knee]]
 - [[Quoggle]]
 - [[Paloma]]
 - [[Skeemo Weirdbottle]]
 - [[Tixie Tockworth]]
 - [[Umberto Noblin]]
 - [[Nevermind Gnome Inventor]]
+- [[Toast]]
+- [[Roger]]
+- [[Dude]]
+- [[Skelland]]
+- [[Maximilian Slickenbottom]]
+- [[Kite on the wind]]
+- [[Gabbro Steppelord]]
+- [[Roddery]]
+- [[Sherlock Gnomes]]
+- [[Demetrius Upton]]
 - 
 
 

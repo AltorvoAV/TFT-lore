@@ -6,5 +6,7 @@ aliases:
   - Alyssia
 tags:
   - Players
+  - Human
+  - Alive
 ---
 Blurb coming soon...

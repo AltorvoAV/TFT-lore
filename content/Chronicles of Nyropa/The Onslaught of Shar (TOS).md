@@ -38,4 +38,4 @@ With her chosen, sworn; and the cities' guard down - they struck.
 
 None stood in their way. They massacred [[South Docks]], and stormed the [[Cathedral of Moonlight]], killing all that defended it, including 2 celestials: Deva & Solar.
 
-Once the ritual was complete and [[Quar Rhodon|Quar]]'s greataxe swung decapitation the Solar, [[Selûne]]'s blessings were swallowed whole, light eradicated, and all [[The Weave|Weave]] energy was sucked into the well, making the entire surrounding area a massive [[Dead Zones|Dead Zone]].
+Once the ritual was complete and [[Quar Rhodon|Quar]]'s greataxe swung decapitating the Solar, [[Selûne]]'s blessings were swallowed whole, light eradicated, and all [[The Weave|Weave]] energy was sucked into the well, making the entire surrounding area a massive [[Dead Zones|Dead Zone]].

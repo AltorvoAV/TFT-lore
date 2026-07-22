@@ -11,17 +11,18 @@ tags:
 ---
 ## Basic Info
 - Government: Unknown
-- Leaders: Unknown
-- Alignment: Unknown
+- Leaders: [[Lucifer Morningstar]]
+- Alignment: Unlawful
 
 ### Founding
 Currently unknown.
-
 
 ## Map
 
 
 ## Pictures
+
+![[f0edbf17-5b25-4f98-a00c-21a6dc92a7f8.png]]
 
 ![[10b507eba598b1fa2351074777e5dd50.jpg]]
 

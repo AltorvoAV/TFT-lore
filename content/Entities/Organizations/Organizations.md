@@ -25,5 +25,7 @@ List of [[Organizations]] throughout [[Nyropa]].
 - [[The Diran]]
 - [[Quade & Co]]
 - [[The Tinkerers]]
+- [[The Grung]]
+
 
 

@@ -12,6 +12,7 @@ List of locations other than main cities:
 - [[Maloren]]
 - [[Thorace Forrest]]
 - [[Pirate Bay]]
+- [[Ashlake]]
 
 ## Buildings
 - [[Doctor Zagak Iscara's Home]]

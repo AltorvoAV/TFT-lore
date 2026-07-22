@@ -39,4 +39,5 @@ Yes, this joke has been here since the very beginning. Legit was written on my o
 
 
 ## Picture
+
 ![[Captain Jeesea - Actual.jpg]]
