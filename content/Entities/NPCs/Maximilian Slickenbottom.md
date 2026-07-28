@@ -11,7 +11,7 @@ tags:
 - Met: [[Ashlake]]
 - Status: #Dead 
   
-A perfect specimen; 5-time eating champion, who 'always finishes first'.
+A perfect specimen; 5-time eating champion, who '*always finishes first*'.
 
 His opening gambit shook fear into [[Drachen Lokeriyan|Drachen]] upon their first meeting: '*Come to challenge me in a feast, have you? Are your loins prepared? For I am Maximilian Slickenbottom*'
 
