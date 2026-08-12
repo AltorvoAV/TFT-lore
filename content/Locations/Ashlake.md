@@ -5,7 +5,7 @@ tags:
   - City
 ---
 ## Basic Info
-- Government: Unknown
+- Government: [[Tribal Sovereignty]]
 - Leaders: Unknown
 - Alignment: Unlawful
 

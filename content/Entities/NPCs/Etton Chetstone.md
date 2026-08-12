@@ -12,9 +12,9 @@ tags:
 - Met: [[The Drowned Rat]], [[Brugrove - City of the Iron Guard|Brugrove]]
 - Status: #Dead
 
-"I SMELL DEATH"
+"*I SMELL DEATH*"
 
-A Gnome so stubborn, even [[Myrkul]] couldn't claim him.
+A Gnome so stubborn, even [[Myrkul]] couldn't claim him... initially.
 
 ## Picture
 

@@ -20,13 +20,13 @@ D&D is a fun social table-top roleplaying game (TTRPG). At its heart, is **commu
 	- I don't want anyone to feel negatively surprised by anything mid-game. Even the most earnest attempts at interactions can feel out-of-the-blue if the parties are not in communication.
 	- A lot of emotions & time go into playing D&D, **transparency** is key!
 4. **Don't grief** your party.
-	- No, interparty conflicts.
+	- No, interparty conflicts - unless all parties find it **fun**.
 5. Show up **on time** (or notify ahead of time).
-	- Obviously, life can get in the way, but this goes back to rule 2 (respect) for each other's time.
+	- Obviously, life can get in the way, but this goes back to rule 2 (**respect**) for each other's time.
 
 ## Quick Player/DM Expectations
 1. **Alcohol/Narcotics** - fine as long as it doesn't go too far (disruptive/break character).
-2. **Phones/Devices** - I can't compete w/ subway surfers - attention is important, limit distractions.
+2. **Phones/Devices** - I can't compete w/ subway surfers - attention is important, **limit distractions**.
 3. **Rolls** - You can roll perception/insight whenever you want - other rules found: [[Home Rules]].
 4. **Player Expectations**:
 	1. Have character goals.
@@ -45,7 +45,7 @@ D&D is a fun social table-top roleplaying game (TTRPG). At its heart, is **commu
 	1. **Style** - I'm a RAW (Rules as Written) 5e '14 DM, but adjust rules when they're not fun.
 		1. Check [[Home Rules]] for more info.
 	2. **Absence** - Ideally 2+ players present, but can continue w/ just 2 players.
-	3. **Narrative Authority** - We tell the story together. I believe if either one of us is telling our own story, we might as well write a book. Give me your ideas, and I'll intersperse mine throughout until we have a collaborative storytelling masterpiece.
+	3. **Narrative Authority** - We tell the story together. I believe if either one of us is telling our own story, we might as well write a book. Give me your ideas, and I'll intersperse mine throughout until we have a **collaborative storytelling** masterpiece.
 
 ---
 ## Character Creation
@@ -56,6 +56,7 @@ D&D is a fun social table-top roleplaying game (TTRPG). At its heart, is **commu
 - **Alignment** - [[index|The Forgotten Tomb]] is very amoral, true 'good' is a perspective.
 - **Races & Classes** - All races/classes are allowed (unless otherwise stated below) - Be aware, some races will be targeted within [[Nyropa]] due to their connection with Divine beings ([[Entities/Gods/Gods]]).
 	- **Excluded Races/Classes** - None as of yet.
+	- **Rare Races**: #Aasimar & #Shadar-Kai Elf
 - **Death**:
 	- Upon death, new characters will start from Level 1 (and lvl up much faster).
 	- Where you choose to play a new character, you will start from level 1-4 (as agreed by DM & player alike).

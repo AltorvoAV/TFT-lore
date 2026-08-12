@@ -16,4 +16,5 @@ A beautiful, motherly figure to her friends/family. A gossip whisperer, and clos
 
 
 ## Picture
+
 ![[Kitty Hess.jpg]]

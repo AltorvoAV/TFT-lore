@@ -21,4 +21,9 @@ The [[Player Characters|Moonlit Syndicate]] were sent to investigate [[Dr Zagak 
 When the party found [[Dr Zagak Iscara|Doctor Iscara]], he had already been twisted and looked so.
 
 ## Picture(s)
+### As seen in [[Act I]]
+
 ![[Zagak Iscara.jpg]]
+### As seen in [[Act III]]
+
+![[Dr Iscara.webp]]

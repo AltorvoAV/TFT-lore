@@ -10,7 +10,7 @@ draft: false
 ---
 ## Basic Info
 - Government: [[Satrapy]] (Governed by [[Brugrove - City of the Iron Guard|Brugrove]])
-- Leaders: [[Sigur]]
+- Leaders: [[Sigur II]]
 - Alignment: Neutral
 
 ### Founding - 2500+ Years Ago

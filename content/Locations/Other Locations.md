@@ -17,6 +17,7 @@ List of locations other than main cities:
 ## Buildings
 - [[Doctor Zagak Iscara's Home]]
 - [[The Black Rob Inn]]
+- [[Stalker's Tavern]]
 - [[The Drowned Rat]]
 - [[The Half-Mast]]
 - [[The Fox's Gambit]]

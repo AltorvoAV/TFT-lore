@@ -9,7 +9,7 @@ draft: false
 - [[Dr Zagak Iscara]]
 - [[Gurk]]
 - [[Nester Tarrenshade]]
-- [[Sigur]]
+- [[Sigur II]]
 - [[Krevois Larkner]]
 - [[Sebastian Hetfield]]
 - [[Aron Elliot]]
@@ -161,6 +161,7 @@ draft: false
 - [[Roddery]]
 - [[Sherlock Gnomes]]
 - [[Demetrius Upton]]
+- [[John Harvey Kellogg]]
 - 
 
 

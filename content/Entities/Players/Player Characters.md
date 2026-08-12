@@ -13,6 +13,7 @@ draft: false
 | [[Alyssia Lockraven]] | 16  | 14  |
 | [[Drachen Lokeriyan]] | 17  | 7   |
 | [[Skapa]]             | 17  | 11  |
+| [[Devlin Shandian]]   |     |     |
 
 ## Info
 

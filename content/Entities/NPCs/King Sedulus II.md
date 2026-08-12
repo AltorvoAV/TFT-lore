@@ -14,7 +14,7 @@ tags:
 
 Current King of [[Brugrove - City of the Iron Guard|Brugrove]]. [[King Sedulus II]], has ruled the [[Brugrove - City of the Iron Guard|City of the Iron Guard]] for ~40 years.
 
-A beloved king by his people.
+A king beloved by his people.
 
 ## Notable Speech(es)
 ### The 200th Royal Arena
@@ -29,4 +29,5 @@ A beloved king by his people.
 - *So, I ask the people of Brugrove, and the fighters we have today - will you fight for one more day out of the 2 centuries before you?! Will you give your best to do right by the world!?*
 - *Let the Arena begin!*
 ## Picture
+
 ![[King Sedulus II.jpg]]

@@ -14,4 +14,5 @@ tags:
 With giant thudding steps of certainty, and a cutting insight, [[T.R.D.]] has served the [[Monarchy|Monarchs]] of Brugrove since his creation.
 
 ## Picture
+
 ![[TRD.jpg]]

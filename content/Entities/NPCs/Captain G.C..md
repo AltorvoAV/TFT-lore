@@ -25,19 +25,27 @@ Yes, this joke has been here since the very beginning. Legit was written on my o
 [[Captain G.C.]] is known to smuggle many cults around Eastern [[Nyropa]]. He is brutal and thrives off stealing, smuggling, and pirating goods from the 'more' fortunate.
 
 ## Voice Lines:
-- Your semen is no match for mine. Prepare to be boarded. (`When starts encounter`)
-- Your cum won’t last.
-- The Cum father’s secret stash
-- I’m going to fuck your dad
-- Sacred cum blade (`as he draws his axe`)
-- Give me cum, or give me death
-- Cum fooler, semen drooler
-- All your cum belong to me (`Grapple attack`)
-- A cum slave back from the grave (`When using his resurrect ability`)
-- Sweep up the cum flakes, Joan
-- Consume the cum chalice, fuck everyone named Alice
+- "Your semen is no match for mine. Prepare to be boarded." (`When starts encounter`)
+- "Your cum won’t last."
+- "The Cum father’s secret stash"
+- "I’m going to fuck your dad"
+- "Sacred cum blade" (`as he draws his axe`)
+- "Give me cum, or give me death"
+- "Cum fooler, semen drooler"
+- "All your cum belong to me" (`Grapple attack`)
+- "A cum slave back from the grave" (`When using his resurrect ability`)
+- "Sweep up the cum flakes, Joan"
+- "Consume the cum chalice, fuck everyone named Alice"
 
 
 ## Picture
 
 ![[Captain Jeesea - Actual.jpg]]
+
+### Wanted posters of the Captain:
+
+![[Wanted Poster.jpg]]
+
+![[Wanted Poster Alt.jpg]]
+
+![[Wanted Poster found.jpg]]

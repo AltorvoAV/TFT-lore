@@ -39,6 +39,6 @@ A One-Shot once again DM'd by Mr Shit. A cannon event set in the world of [[Nyro
 
 [[Captain Joblin Mathews]] was tasked with turning this children into soldiers. And with 4 rounds of extraneous training, soldiers emerged from the [[Greater Lion's District]], into the [[Sea Broth]].
 
-4 days at sea; these hardly warriors determined who would be in the vanguard to storm the shores of [[Porthca - The Arcane Bridge|Porthca]]. Hearing [[Captain Joblin Mathews|Captain Joblin]]'s plan to 'catch the Porthcans "off guard" by attacking the Eastern front', each former drop-out thought themselves ready and prepared for whatever was coming...
+4 days at sea; these, hardly, warriors determined who would be in the vanguard to storm the shores of [[Porthca - The Arcane Bridge|Porthca]]. Hearing [[Captain Joblin Mathews|Captain Joblin]]'s plan to 'catch the Porthcans "*off guard*" by attacking the Eastern front', each former drop-out thought themselves ready and prepared for whatever was coming...
 
 They simply were not.
