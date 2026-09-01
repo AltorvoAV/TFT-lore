@@ -35,3 +35,13 @@ Brief info on the gods, based off info gathered by the party. Some things are un
 | [[Tiamat]]             | Dragon head w/ 5 claw marks | Evil Dragons                      | Dragon                 | LE   | [[Lesser Deity]]  | N   | [[Nine Hells]]                          | [[Nine Hells]]     |
 | [[Yondalla]]           | Shield                      | Life, Protection                  | Human                  | LG   | [[Lesser Deity]]  | N   | [[Feywild]], [[Ysgard]], [[Beastlands]] | [[Feywild]]        |
 
+---
+## Powerful Beings
+Individuals who were not quite given the title of Godhood, yet possess power on-par with [[Lesser Deity|Lesser-Deities]] or [[Quasi-Deity|Quasi-Deities]]. Often these are Aasimars, or Liches...etc. It takes great power to contest that of a God.
+
+| Name                    | Symbol | Race    | Power            | Dead?                         |
+| ----------------------- | ------ | ------- | ---------------- | ----------------------------- |
+| [[Lucifer Morningstar]] | -      | -       | [[Lesser Deity]] | A states between death & life |
+| [[Dr Zagak Iscara]]     | Chain  | Undead  | [[Quasi-Deity]]  | Unknown                       |
+| [[Drachen Lokeriyan]]   | -      | Aasimar | [[Quasi-Deity]]  | N                             |
+| More when discovered... |        |         |                  |                               |

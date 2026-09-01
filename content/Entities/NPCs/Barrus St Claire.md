@@ -1,6 +1,7 @@
 ---
 draft: false
 aliases:
+  - Barrus
 tags:
   - NPC
 ---

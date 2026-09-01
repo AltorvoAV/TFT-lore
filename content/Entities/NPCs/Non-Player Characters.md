@@ -88,7 +88,6 @@ draft: false
 - [[Little Lark]]
 - [[Shreng]]
 - [[Bruvin Darryo]]
-- [[Morningstar]]
 - [[Black Robin]]
 - [[Kevin]]
 - [[Lord Elric of Maloren]]

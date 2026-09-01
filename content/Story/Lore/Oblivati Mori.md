@@ -14,4 +14,13 @@ Some scholars call this the [[Oblivati Mori|Law of Theothinatic Silence]] — th
 Where a god's [[Artefacts]] remain, so too does the possibility of their resurrection, even if their name is lost to the mortal tongue (though is greatly assisted by its knowing).
 
 ---
-Info given to the party by [[Aron Elliot]].
+Info above given to the party by [[Aron Elliot]].
+
+---
+Further info given to the party by Drachen's [[Patron]]:
+
+[[Oblivati Mori]] is the most severe fate that could behold a [[Entities/Gods/Gods|God]]. Once the name is scrubbed clean, almost nothing can bring them back. Though discovering the name, believing in it, and uttering it, can strengthen their connection to power, bringing them back.
+
+It is possible to kill a god via removing any trace of their existence upon the mortal realms, but it takes *significant* power.
+
+If you can remember a god's name, but none follow them they are dormant and unaffected by [[Oblivati Mori]], for as long as their name remains in mortal minds.

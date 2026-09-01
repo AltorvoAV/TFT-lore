@@ -31,7 +31,8 @@ tags:
 - Erase meaning
 - Destroy the Weave
 - Return to nothingness
-
+### Song:
+- [The Inexorable Advance of Mr. Delaney](https://open.spotify.com/track/7yuTp2jOCN1dTxCSt68TUe?si=a129c9d79e5647d6)
 ## Description:
 [[Shar|The Lady of Loss]] was the goddess of Darkness & Night, not only as the absence of light but also as the metaphorical darkness that dwelled in one's heart, mind, and soul. She was also the malevolent twin sister of [[Selûne]] (the former goddess of the Moon & Life).
 

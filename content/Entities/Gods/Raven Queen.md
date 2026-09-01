@@ -26,6 +26,8 @@ tags:
 - Collection & preservation of memories
 - Maintain cycle of death
 - Arbiter of death
+### Song:
+- [Born from Ashes](https://open.spotify.com/track/1vRHqEpEfQfUdOlAKAZCJQ?si=e6ad247b75b945b2)
 ## Description:
 The [[Raven Queen]] is the interloper goddess of Death, Fate, and commonly known as a god that brought Life to her faithful Shadar-kai. She is a mysterious entity believed to exist within [[Shadowfell]], and vehemently revered by the Shadar-kai.
 

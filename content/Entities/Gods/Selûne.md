@@ -25,6 +25,9 @@ tags:
 - Prevent Darkness from all consuming
 - Balance above all
 - Guidance to all whom wander
+### Song:
+- [a heartbeat away](https://open.spotify.com/track/4qdXNkDz4LVHCPllGqHnp1?si=673a2b26364041a8)
+	- Selûne's Death: [Malasana](https://open.spotify.com/track/2tJBG2m6K5jUKxzyTZm9Z7?si=b9f1ba927108451b)
 ## Description:
 [[Selûne|The Moonmaiden]] was the goddess of the Moon & Life. During multiple points of history, her portfolio expanded to navigation, beauty and purity, love and marriage, wanderers and seekers, diviners and dreamers, good and neutral lycanthropes, and autumn.
 
