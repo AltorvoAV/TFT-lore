@@ -115,7 +115,7 @@ Once [[The Ruins of Heathorp Keep|Heathorp Keep]] had reached mass capacity, and
 The city was destroyed and turned to ashes. Light consumed, darkness ruled.
 
 
-*(COMING SOON! - would be great if sections like this grow with more campaigns/one-shots lie [[We Who Feed the Mountain (WWFtM)|WWFtM]])*
+*(COMING SOON! - would be great if sections like this grow with more campaigns/one-shots like [[We Who Feed the Mountain (WWFtM)|WWFtM]])*
 
 > "*Pain. Hope. The promise of better days. All of these are heavy cloaks that bend our backs and burden our hearts. We shed those cloaks. Before Shar we stand gloriously naked, beyond the vanities of mortals.*”
 > 

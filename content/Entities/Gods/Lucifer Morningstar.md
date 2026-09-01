@@ -73,7 +73,7 @@ Further, it was confirmed by both [[Drachen Lokeriyan|Drachen]]'s [[Patron]] & t
 
 It is currently unknown by the party as to how this transition happened, or indeed when it happened.
 
-(TO BE COMPLETED - would be great if sections like this grow with more campaigns/one-shots lie [[We Who Feed the Mountain (WWFtM)|WWFtM]])
+(TO BE COMPLETED - would be great if sections like this grow with more campaigns/one-shots like [[We Who Feed the Mountain (WWFtM)|WWFtM]])
 
 ---
 ## Picture(s):
