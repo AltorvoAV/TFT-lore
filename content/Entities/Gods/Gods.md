@@ -41,7 +41,7 @@ Individuals who were not quite given the title of Godhood, yet possess power on-
 
 | Name                    | Symbol | Race    | Power            | Dead?                         |
 | ----------------------- | ------ | ------- | ---------------- | ----------------------------- |
-| [[Lucifer Morningstar]] | -      | -       | [[Lesser Deity]] | A states between death & life |
+| [[Lucifer Morningstar]] | -      | Aasimar | [[Lesser Deity]] | A states between death & life |
 | [[Dr Zagak Iscara]]     | Chain  | Undead  | [[Quasi-Deity]]  | Unknown                       |
 | [[Drachen Lokeriyan]]   | -      | Aasimar | [[Quasi-Deity]]  | N                             |
 | More when discovered... |        |         |                  |                               |
