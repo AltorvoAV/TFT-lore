@@ -13,9 +13,9 @@ tags:
 ---
 ## Quick Info
 
-| Alignment | Aliases                                                                      | Race     | Domain  | Symbol  | Power            | Dominion | Status |
-| --------- | ---------------------------------------------------------------------------- | -------- | ------- | ------- | ---------------- | -------- | ------ |
-| Unknown   | [[Lucifer Morningstar\|Morningstar]], [[Lucifer Morningstar\|The Harbinger]] | #Aasimar | Unknown | Unknown | [[Lesser Deity]] | Unknown  | #Alive |
+| Alignment | Aliases                                                                                                      | Race     | Domain  | Symbol  | Power            | Dominion | Status |
+| --------- | ------------------------------------------------------------------------------------------------------------ | -------- | ------- | ------- | ---------------- | -------- | ------ |
+| Unknown   | [[Lucifer Morningstar\|Morningstar]], [[Lucifer Morningstar\|The Harbinger]], [[Lucifer Morningstar\|Angel]] | #Aasimar | Unknown | Unknown | [[Lesser Deity]] | Unknown  | #Alive |
 
 ### **Core Themes:**
 - Currently unknown
