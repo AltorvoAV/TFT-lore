@@ -108,7 +108,7 @@ Beginning of time... *coming soon!*
 
 Accounts from [[The Onslaught of Shar (TOS)]]... *coming soon!*
 
-Selûne’s death marked the first time in recorded history that the night was left without its guardian... *coming soon!*
+Selûne’s death marked the first time in recorded history that the night was left without its guardian... *coming soon!* - no more [[Artefacts]], or few believers
 
 (TO BE COMPLETED - would be great if sections like this grow with more campaigns/one-shots like [[We Who Feed the Mountain (WWFtM)|WWFtM]])
 

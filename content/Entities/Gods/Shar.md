@@ -64,7 +64,7 @@ By her very nature, Shar was defined by loss, the foolishness of hope, and life'
 ## Worshipers
 > "*Mother of Night, darken my step as I walk among the light. Hear my prayer.*"
 > 
-> — A basic prayer to [[Shar]].
+> — A basic prayer to [[Shar]]
 
 Members of the [[Church of Shar]] knew each other as [[Dark Followers]], or Martyrs, but were often referred to by others as Sharrans, or Darshars (a bastardization of Dark Sharran).
 
@@ -84,11 +84,11 @@ Shar's followers were directed to "quench the light of the moon" by stealing gif
 The doctrine of the Sharran church placed no restrictions on crimes committed for personal gain, including but not limited to: theft, smuggling, kidnapping, murder, or underhanded business practices. Quote often though, most of Shar's followers served not for personal enrichment, but promise of her "*Dark Reward*": immortality by means of transition into undeath.
 
 Clergy members followed Shar's 'Thirteen Truths', foundational beliefs that formed the core of their faith. Among these were:
-- Love is a lie. Only hate endures.
-- Light is blinding. Only in darkness do we see clearly.
+- "*Love is a lie. Only hate endures.*"
+- "*Light is blinding. Only in darkness do we see clearly.*"
 
 Hidden within a holy Sharran tome was Shar's Fourteenth Truth:
-- All is meaningless. And nothing endures.
+- "*All is meaningless. And nothing endures.*"
 ---
 ## Abilities
 The [[Shar|Mistress of Pain]] had the ability to send messengers or guardians or to enact her will. She would send darktentacles or undead beholders known as 'Doom Tyrants', or mysterious monsters of shadow.

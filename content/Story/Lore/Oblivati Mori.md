@@ -5,7 +5,7 @@ aliases:
 tags:
   - Lore
 ---
-“When a god is forgotten, they do not sleep — they cease. This law, whispered by clerics as **[[Oblivati Mori]]** (‘*to die forgotten*’), is the severest fate. Such a god cannot be resurrected, nor their name recalled by mortal tongue. Only the divine remember.
+“When a god is forgotten, they do not sleep — they cease. This law, whispered by clerics as **[[Oblivati Mori]]** (‘*to die forgotten*’), is the severest fate. Such a god cannot be resurrected by mortal means, nor can their name be recalled by mortal tongue. Only the divine remember.
 
 When a god is slain, yet remembered, their name lingers like a scar. Worshippers may fall to madness at the sudden silence, but should their faith endure, so too may their god.
 
@@ -23,4 +23,4 @@ Further info given to the party by Drachen's [[Patron]]:
 
 It is possible to kill a god via removing any trace of their existence upon the mortal realms, but it takes *significant* power.
 
-If you can remember a god's name, but none follow them they are dormant and unaffected by [[Oblivati Mori]], for as long as their name remains in mortal minds.
+If you can remember a god's name, but none follow them, they are dormant and unaffected by [[Oblivati Mori]], for as long as their name remains in mortal minds.

@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Nyropan
 tags:
   - City
   - Lore

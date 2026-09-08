@@ -32,7 +32,7 @@ Brief info on the gods, based off info gathered by the party. Some things are un
 | [[Takhisis]]           | -                           | -                                 | -                      | CE   | -                 | -   | [[The Abyss]]                           | -                  |
 | [[Tempus]]             | -                           | -                                 | -                      | -    | -                 | -   | -                                       | -                  |
 | [[Thrym]]              | -                           | -                                 | -                      | -    | -                 | -   | -                                       | -                  |
-| [[Tiamat]]             | Dragon head w/ 5 claw marks | Evil Dragons                      | Dragon                 | LE   | [[Lesser Deity]]  | N   | [[Nine Hells]]                          | [[Nine Hells]]     |
+| [[Tiamat]]             | Dragon head w/ 5 claw marks | Greed, Evil Dragons               | Dragon                 | LE   | [[Lesser Deity]]  | N   | [[Nine Hells]]                          | [[Nine Hells]]     |
 | [[Yondalla]]           | Shield                      | Life, Protection                  | Human                  | LG   | [[Lesser Deity]]  | N   | [[Feywild]], [[Ysgard]], [[Beastlands]] | [[Feywild]]        |
 
 ---
