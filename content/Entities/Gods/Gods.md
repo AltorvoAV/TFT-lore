@@ -33,7 +33,7 @@ Brief info on the gods, based off info gathered by the party. Some things are un
 | [[Tempus]]             | -                           | -                                 | -                      | -    | -                 | -   | -                                       | -                  |
 | [[Thrym]]              | -                           | -                                 | -                      | -    | -                 | -   | -                                       | -                  |
 | [[Tiamat]]             | Dragon head w/ 5 claw marks | Greed, Evil Dragons               | Dragon                 | LE   | [[Lesser Deity]]  | N   | [[Nine Hells]]                          | [[Nine Hells]]     |
-| [[Yondalla]]           | Shield                      | Life, Protection                  | Human                  | LG   | [[Lesser Deity]]  | N   | [[Feywild]], [[Ysgard]], [[Beastlands]] | [[Feywild]]        |
+| [[Yondalla]]           | Shield                      | Life, Protection                  | Fey                    | LG   | [[Lesser Deity]]  | N   | [[Feywild]], [[Ysgard]], [[Beastlands]] | [[Feywild]]        |
 
 ---
 ## Powerful Beings
