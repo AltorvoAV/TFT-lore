@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 aliases:
 tags:
   - NPC
@@ -11,7 +11,7 @@ tags:
 - Met: 
 - Status: #Alive 
 
-Mother to [[Rodwin Vassargo]] & wife to [[Avel Lockraven|Avel Quade]]
+Mother to [[Rodwin Vassargo]] & wife to [[Avel Lockraven|Avel Quade]].
 
 
 ## Picture

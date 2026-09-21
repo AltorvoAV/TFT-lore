@@ -14,7 +14,7 @@ tags:
 ### **Core Themes:**
 - 
 
-### **What X Desires:**
+### **What [[Gruumsh]] Desires:**
 - 
 ### Song:
 - 

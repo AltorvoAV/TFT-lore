@@ -44,3 +44,5 @@ And to this day, only his wife, daughter, and single trade-contact know of his t
 ## Picture
 
 ![[Avel Lockraven.png]]
+
+![[Vassargo Family.png]]

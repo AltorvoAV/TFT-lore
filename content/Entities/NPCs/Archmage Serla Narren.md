@@ -10,7 +10,7 @@ tags:
 ---
 **Quick Info:**
 - Race: #Tiefling 
-- Age: 224
+- Age: 224 (born 61BR)
 - Occupation: Archmage of [[Porthca - The Arcane Bridge|Porthca]], & member of [[The Sunrise Establishment (WWFtM)]]
 - Met: N/A
 - Status: Presumed #Dead 

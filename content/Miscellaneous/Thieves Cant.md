@@ -70,44 +70,44 @@ Second, the tenor of the statement reflects the subtext of the message. The tone
 ## **Chit-chat**  
 This part can vary the most. It gives the nature of the job or message, as well as additional information such as identifying targets, cautions, or other parameters. If necessary, the relations listed above can be used again with the same meanings. For example, “Your uncle says don’t forget to wish your step-mother a happy birthday,” meaning “a government official wants you to assassinate a rival guild leader.”
 
-|Code|Meaning|
-|---|---|
-|Birthday|Assassination|
-|Birthday Party|Assassination of multiple targets|
-|Number of Candles|Number of Targets|
-|A small, intimate gathering|No collateral damage; look like an accident|
-|Celebration, Wingding, Blowout|The larger the “party,” the bigger the splash|
-|Party like it’s 999|No survivors|
-|Party planner|Inside informant|
-|Party invitation|intel already gathered|
-|Black tie / formal|Rogue must follow questgiver's guidelines|
-|Come as you are / informal|Rogue has discretion on methods|
-|Family reunion|Guildwar|
-|Vacation|Kidnapping|
-|Family vacation|multiple kidnappings / hostage situation|
-|Vacation postcards|ransom demands|
-|Vacation souvenirs|proof of victim’s ID (e.g. signet ring or left big toe)|
-|Ale run|Smuggling contraband|
-|Deliver package|Smuggling / delivering object|
-|Special Delivery|Smuggling live cargo|
-|Marriage proposal|Intimidate / threaten / blackmail|
-|Dowry|payoff money|
-|Gossip|Recon / spy / info gathering|
-|Join the club|covert infiltration|
-|Farm|general money-making operation / heist|
-|Vineyard|high-stakes operation / heist, e.g. targeting a wealthy noble|
-|Plantation|refers to long-term, multiple operations of entire Guild|
-|Ranch|Large scale operation, e.g. bilking an entire town|
-|Greenhouse|Bank robbery|
-|Grocery market|Rob merchant|
-|Window box / Planter / Garden patch|small scale heist / con|
-|Problem with rodents / worms / insects|spy or informant in the operation|
-|Problem with rabbits|embezzler in the operation|
-|Don't tell. It's a surprise.|It’s ok to let other party members in on the job|
-|Bring a date|Get backup (presumably other PCs) but keep them in the dark regarding the op|
-|Invite your friends|if you tell them, you have to kill them|
-|Give credit where credit is due|frame someone else for the crime|
-|Signature / Signed|reveal job originator to send a message|
+| Code                                   | Meaning                                                                      |
+| -------------------------------------- | ---------------------------------------------------------------------------- |
+| Birthday                               | Assassination                                                                |
+| Birthday Party                         | Assassination of multiple targets                                            |
+| Number of Candles                      | Number of Targets                                                            |
+| A small, intimate gathering            | No collateral damage; look like an accident                                  |
+| Celebration, Wingding, Blowout         | The larger the “party,” the bigger the splash                                |
+| Party like it’s 999                    | No survivors                                                                 |
+| Party planner                          | Inside informant                                                             |
+| Party invitation                       | intel already gathered                                                       |
+| Black tie / formal                     | Rogue must follow questgiver's guidelines                                    |
+| Come as you are / informal             | Rogue has discretion on methods                                              |
+| Family reunion                         | Guildwar                                                                     |
+| Vacation                               | Kidnapping                                                                   |
+| Family vacation                        | multiple kidnappings / hostage situation                                     |
+| Vacation postcards                     | ransom demands                                                               |
+| Vacation souvenirs                     | proof of victim’s ID (e.g. signet ring or left big toe)                      |
+| Ale run                                | Smuggling contraband                                                         |
+| Deliver package                        | Smuggling / delivering object                                                |
+| Special Delivery                       | Smuggling live cargo                                                         |
+| Marriage proposal                      | Intimidate / threaten / blackmail                                            |
+| Dowry                                  | payoff money                                                                 |
+| Gossip                                 | Recon / spy / info gathering                                                 |
+| Join the club                          | covert infiltration                                                          |
+| Farm                                   | general money-making operation / heist                                       |
+| Vineyard                               | high-stakes operation / heist, e.g. targeting a wealthy noble                |
+| Plantation                             | refers to long-term, multiple operations of entire Guild                     |
+| Ranch                                  | Large scale operation, e.g. bilking an entire town                           |
+| Greenhouse                             | Bank robbery                                                                 |
+| Grocery market                         | Rob merchant                                                                 |
+| Window box / Planter / Garden patch    | small scale heist / con                                                      |
+| Problem with rodents / worms / insects | spy or informant in the operation                                            |
+| Problem with rabbits                   | embezzler in the operation                                                   |
+| Don't tell. It's a surprise.           | It’s ok to let other party members in on the job                             |
+| Bring a date                           | Get backup (presumably other PCs) but keep them in the dark regarding the op |
+| Invite your friends                    | if you tell them, you have to kill them                                      |
+| Give credit where credit is due        | frame someone else for the crime                                             |
+| Signature / Signed                     | reveal job originator to send a message                                      |
 
 **Enough about me, how are you?**  
 The messenger would gladly skip payment info. Contract negotiation is much more favorable for the quest-giver _after_ the job is done. If the PC neglects to ask for payment, it’s their own fault. They can ask and negotiate by inquiring about the Messenger’s family.  
