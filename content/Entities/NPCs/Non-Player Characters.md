@@ -164,6 +164,7 @@ draft: false
 - [[Argantine Cobstomper]]
 - [[Gilurt Harthneer the Wizard]]
 - [[Jeremiah]]
+- [[Fagort Lumply]]
 - 
 
 
