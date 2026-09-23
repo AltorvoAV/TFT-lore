@@ -257,7 +257,7 @@ plugins:
       priority: 50
       display: all
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: "its-theme"
       variation: "ttrpg-dnd"
