@@ -18,7 +18,7 @@ views:
     mapName: Nyropa
     image: Pictures/Nyropa.png
     height: 500
-    minZoom: -2
+    minZoom: -2.2
     maxZoom: 4
     defaultZoom: -3
     zoomDelta: 1
