@@ -5,6 +5,12 @@ aliases:
 tags:
   - City
 draft: false
+marker:
+  - coordinates: 627, 2613
+    mapName: Nyropa
+    colour: "#7623a5"
+    icon: lucide-wand-sparkles
+    minZoom: -1
 ---
 # Basic Info
 - Government: [[Magocracy]]
