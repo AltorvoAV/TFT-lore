@@ -2,15 +2,30 @@
 
 // put your custom CSS here!
 
-// TTRPG theme colour overrides
+/* =========================================
+   The Forgotten Tomb - TTRPG colour override
+   ========================================= */
+
+/* Light mode */
 :root {
-  --secondary: #8b2f2f;
-  --tertiary: #b84a4a;
-  --highlight: rgba(139, 47, 47, 0.15);
+  --color-green: #8b2f2f;
+  --color-green-rgb: 139, 47, 47;
+
+  --green: #8b2f2f;
+  --green-rgb: 139, 47, 47;
+
+  --accent-color: #8b2f2f;
+  --accent-color-hover: #b44a4a;
 }
 
+/* Dark mode */
 [saved-theme="dark"] {
-  --secondary: #c75c52;
-  --tertiary: #e08a72;
-  --highlight: rgba(199, 92, 82, 0.18);
+  --color-green: #b44a4a;
+  --color-green-rgb: 180, 74, 74;
+
+  --green: #b44a4a;
+  --green-rgb: 180, 74, 74;
+
+  --accent-color: #b44a4a;
+  --accent-color-hover: #d66a5a;
 }
