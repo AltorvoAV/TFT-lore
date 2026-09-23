@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: The Forgotten Tomb
+  pageTitleSuffix: " | The Forgotten Tomb"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -259,7 +259,9 @@ plugins:
       display: all
   - source: github:quartz-themes/its-theme
     enabled: true
-    options: {}
+    options:
+    theme: its-theme.ttrpg-dnd
+    mode: both
     order: 50
 layout:
   groups:
