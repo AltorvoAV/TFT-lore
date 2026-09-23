@@ -4,6 +4,12 @@ aliases:
   - Heathorp Keep
 tags:
   - TOS
+marker:
+  - coordinates: 605, 533
+    mapName: Nyropa
+    icon: lucide-moon
+    colour: "#5c0009"
+    minZoom: -1
 ---
 ## Basic Info
 - Government: [[Theocracy]] to [[Selûne]]'s beliefs

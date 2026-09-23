@@ -7,6 +7,12 @@ tags:
   - City
   - Lore
 draft: false
+marker:
+  - coordinates: 982, 3659
+    mapName: Nyropa
+    icon: lucide-mountain-snow
+    colour: "#f44546"
+    minZoom: -1
 ---
 ## Basic Info
 - Government: [[Satrapy]] (Governed by [[Brugrove - City of the Iron Guard|Brugrove]])

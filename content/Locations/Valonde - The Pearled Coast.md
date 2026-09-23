@@ -6,6 +6,11 @@ tags:
   - City
   - Lore
 draft: false
+marker:
+  - coordinates: 985, 3392
+    mapName: Nyropa
+    icon: lucide-coins
+    minZoom: -1
 ---
 ## Basic Info
 - Government: [[Plutocracy]]

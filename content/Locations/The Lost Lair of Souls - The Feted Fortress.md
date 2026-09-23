@@ -8,6 +8,12 @@ aliases:
 tags:
   - City
   - Lore
+marker:
+  - coordinates: 1285, 3432
+    mapName: Nyropa
+    icon: lucide-castle
+    colour: "#039c4b"
+    minZoom: -1
 ---
 ## Basic Info
 - Government: Unknown

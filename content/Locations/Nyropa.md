@@ -15,18 +15,15 @@ The question is not whether Nyropa will break you. The question is, what will yo
 views:
   - type: leaflet-map
     name: Map
-    mapName: test
+    mapName: Nyropa
     image: Pictures/Nyropa.png
-    height: 400
-    minZoom: -1.5
-    maxZoom: 2
-    defaultZoom: -1.5
-    zoomDelta: 0.25
-    scale: "0.2"
+    height: 500
+    minZoom: -2.5
+    maxZoom: 4
+    defaultZoom: -3
+    zoomDelta: 1
+    scale: "0.25"
     unit: km
 ```
 
-
-
-![[Nyropa.png]]
 

@@ -6,6 +6,14 @@ tags:
   - City
   - Lore
 draft: false
+marker:
+  - coordinates: 1191, 3272
+    mapName: test
+  - coordinates: 1193, 3273
+    mapName: Nyropa
+    icon: lucide-crown
+    colour: "#7623a5"
+    minZoom: -1
 ---
 ## Basic Info
 - Government: [[Monarchy]]

@@ -3,6 +3,11 @@ draft: false
 aliases:
 tags:
   - City
+marker:
+  - coordinates: 869, 3753
+    mapName: Nyropa
+    colour: "#636363"
+    minZoom: -1
 ---
 ## Basic Info
 - Government: [[Satrapy]] (Governed by [[Brugrove - City of the Iron Guard|Brugrove]])

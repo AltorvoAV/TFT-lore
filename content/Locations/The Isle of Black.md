@@ -5,6 +5,11 @@ aliases:
 tags:
   - City
 draft: false
+marker:
+  - coordinates: 1169, 3153
+    mapName: Nyropa
+    colour: "#5e5e5e"
+    minZoom: -1
 ---
 # Basic Info
 - Government: [[Vassal State]] (Governed by [[Brugrove - City of the Iron Guard|Brugrove]])

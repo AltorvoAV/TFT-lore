@@ -7,6 +7,12 @@ tags:
   - City
   - Lore
 draft: false
+marker:
+  - coordinates: 834, 3734
+    mapName: Nyropa
+    icon: lucide-ship-wheel
+    colour: "#e2c505"
+    minZoom: -1
 ---
 ## Basic Info
 - Government: [[Kleptocracy]]
