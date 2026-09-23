@@ -257,12 +257,14 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-  - source: github:quartz-themes/its-theme
+  - source: "@quartz-themes/core"
     enabled: true
     options:
-    theme: its-theme.ttrpg-dnd
-    mode: both
+      theme: "its-theme"
+      variation: "ttrpg-dnd"
+      mode: "both"
     order: 50
+
 layout:
   groups:
     toolbar:
