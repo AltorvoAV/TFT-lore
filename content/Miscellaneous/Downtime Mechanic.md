@@ -1,0 +1,56 @@
+---
+draft: false
+aliases:
+  - Downtime
+tags:
+  - Rules
+---
+## Basic Info:
+
+> During downtime, you can attempt multiple activities.
+> 
+> The first check is DC 5. Each additional activity increases the DC by 5. (i.e. DC5 > DC10 > DC15...)
+> 
+> On a failure, you can either accept the failure or take a **Fracture** token, allowing you to reroll.
+
+## Tokens
+Then, at the end of the session, we tally your total **Fractures** tokens. Each **Fracture** must be spent in one of the following ways:
+
+1. Disadvantage on **1 proficient ability** (*character skills, saving throws, initiative, attack rolls...etc*)
+2. **OR** disadvantage on **2 non-proficient abilities**
+
+- **Fractures** persist until:
+    - Successful Rest (via the 'Relax/Recreation' activity)
+    - Divine or arcane intervention
+
+- At 6x **Fracture** tokens, they turn into 1 **Tear** Token, where something bad will happen.
+
+### Allowed Modifiers
+- Flash of Genius (once per player, per downtime)
+- One use of Inspiration (per player, per downtime)
+- Further options may yet await, should we think of them...
+
+## Activities Available:
+
+- **Influence / Social**
+- **Research / Mystery**
+- **Exploration**
+- **Crafting**
+- **Snooping / Stealth**
+- **Buy a Magic Item(s) / Trade**
+- **Do a Crime** 
+- **Do a Gambling**
+- **Pit Fight**
+- **Relax / Recreation**
+- **Religious / Ritual**
+- **Scribe a Spell Scroll**
+- **Sell Magic Item(s)**
+- **Training / Work a Job** 
+
+---
+> "*Some say fractures represent something in you beginning to split — belief, patience, values, or perhaps even identity.*”
+> - [[Douglas Montgomery]]
+
+
+---
+> I took inspiration of these rules after watching Fantasy High S3E7 ([Stress Tested](https://dimension20.fandom.com/wiki/Stress_Tested)) - fully adapted from Brennen Lee Mulligan's own homebrew rules.
