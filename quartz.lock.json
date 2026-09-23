@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "its-theme": {
+      "source": "github:quartz-themes/its-theme",
+      "resolved": "https://github.com/quartz-themes/its-theme.git",
+      "commit": "2a53870226f41f01c3f4c5786c49cb91c297f4a0",
+      "installedAt": "2026-09-23T13:20:54.223Z"
+    }
+  }
+}
