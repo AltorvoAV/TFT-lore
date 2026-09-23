@@ -221,6 +221,10 @@ plugins:
     enabled: true
     options: {}
     order: 50
+  - source: github:Requiae/quartz-leaflet-bases-plugin
+    enabled: true
+    options:
+    enableCopyTool: true
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
