@@ -3,14 +3,13 @@ draft: false
 aliases:
 tags:
 ---
-List of locations other than main cities:
+List of locations other than the main cities of the campaign:
 
 ## Cities / Towns
-- [[The Ruins of Heathorp Keep]]
 - [[The Narrows]]
 - [[Shallow Isles]]
 - [[Maloren]]
-- [[Thorace Forrest]]
+- [[Thorace Forest]]
 - [[Pirate Bay]]
 - [[Ashlake]]
 
@@ -28,4 +27,16 @@ List of locations other than main cities:
 - [[Smiths and Smells]]
 - [[Lockraven Manor]]
 - [[Yaeldrin Manor]]
+- [[Roddery's Tavern]]
 - More coming soon, when found
+
+## Western Cities of Nyropa
+- [[The Ruins of Heathorp Keep]]
+- [[The Forest of Mists]]
+- [[The Stronghold of Poison Tears]]
+- [[The Desolation of Berossu]]
+- [[The Tower of Poison Tears]]
+- [[The Labyrinth of Emirkol the Chaotic]]
+- [[Boypool]]
+- [[The Desolation of Sabuchuu]]
+

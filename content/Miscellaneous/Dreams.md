@@ -400,6 +400,92 @@ Skapa's dream
 - —but weighed you against it.
 
 ---
+## Session 39
+Drachen's dream - **Song**: Unknown
+- Drachen, closing your eyes, you feel the warmth of the campfire - restlessly trying to sleep, your eyes open slightly - enough to see Ayanna, Alyssia, and The QUEEN asleep in their bed rolls - you’re in a familiar glade, the one you rested at a month ago when travelling back to Valonde from The Lost City
+- You took the first watch that night, feeling that same presence of another Fey being and the slight reflection of the campfire in someone, or something’s eyes.
+- It suddenly dawns on you; Skapa’s watch is next - you see him asleep in his bed roll
+- *Give time for Skapa & Drachen to talk*
+- Morning:
+    - As you’re starting to settle into this version of a memory, the new day beckons at you as you feel morning tug at your eyes.
+    - And you awake, the campfire extinguished and Skapa’s lifeless body covered near Ayanna who is already solemnly up and preparing her gear.
+
+---
+### Session 40
+Drachen's dream - **Song**: [Questionable Excavations](https://open.spotify.com/track/7GXHQTbmDy6dxASS5pliCJ?si=caf99ca5f6b442ad)
+- As your drunken mind slips from the material, your mind is transported to place you are yet to encounter.
+- The 3rd time you see through eyes not your own.
+- We hear short panting, exhaustion, the gurgle of a famished stomach, and the sound of tiny footsteps across a sandy wasteland - as the camera shift up, you see the silhouette of a small framed person - 
+	- We see a frail famished Skapa, shorter, younger, looks like shit
+- That 11yr old Skapa, a week without food or water - surviving on pure determination alone - aimlessly wandering the Shazahath wastelands
+- The camera comes in closer - we see the left side of Skapa’s face, his scales, his lack of sweat glands a torture - we hear his loud panting, his dry throat - soars, and sunburn -
+- Some bits of clothing already have blood stains from the numerous creatures constantly hounding him
+- Skapa, your body feels heavy, your energy depleted, on multiple levels of exhaustion - the sound of your breathing is claustrophobic
+- Yet, from your right side, you feel the presence of something getting closer
+	- Barely looking he runs as fast as his worn body can take him, but it's right at his heels until...
+- You swing at it, the cockatrice manages to use your exhaustion against you, and find an angle and bite your right hand
+	- You managed to get big and scare the thing away, but the realisation of your wrist turning to stone sends you into frenzy, acting before you can think, you slice the wrist off with a rough cut.
+- Stumbling with blood dripping from your stump for another day or two, the infection sets in, and you crumble to the ground, losing consciousness
+- The camera looks top down at Skapa passed out somewhere in the mountains, as it zooms out as it fades to black
+- Skapa, you start to hear the sound of sloppy eating; some chow main being devoured
+- As your eyes start to open, you see a mess of broken trinkets, incomplete contraptions, and empty take out containers - as your eyes are filled by the stature of the FATTEST most dishevelled hobgoblin you’ve ever seen - **Song**: [What's Going On?!](https://open.spotify.com/track/1ZGjMPxOpMY004RGADsoC4?si=d5dd438892cd4271)
+- “*He’s awake!*” - “*How are ya feeling champ?*” - “*The names, Gurk - the business is totally legitimate and very authentic.*” - “*Your wrist was all bad and smelly, nearly couldn’t eat around it - so I had to do some arm-mendments - I’m a bit of a surgeon hands like a hanged donkey! The rest of the arm had to go, but you lived! I had a bet with the wrist you’d make it!*”
+- He sells:
+    - Used Bullets, Yet to be Shot Bullets, Yet to be Forged Swords (Iron lump), Rocks Perfect for Slingshots, Rocks perfect for enemies that would want to use them for a slingshot, but are actually very back at being used for slingshots, A Broken Clock (wrong all of the times a day), Meatless Cows (leather), Authentic Cursed Sword (normal sword), Authentic Chili-powder (sandstone dust with crushed nuts in it), jars of hydration juice (water), jars of used hydration juice (piss), sign of unknown possibilities (blank piece of wood), Night time device (blindfold),
+- They chat, and you decide to stay a while - over the course of several weeks, we see a time-lapse of trail and error - you crafted a prosthetic limb for yourself with the crude materials from Gurk’s ‘legitimate’ business.
+- There’s a moment of awkwardness when Gurk looks at you, having fixed your arm and no plan after that - you can see worry cross his face that he’ll lose his friend, but he smiles through it, happy for you to be whole again
+- Gurk walks over to you, as you’re sat at the workbench, he stares at you and says: “Drachen Lokeriyan, I presume?".
+    - As the confusion crosses your hungover mind, Drachen, your eyes open to see a figure standing over you, Devlin Shandian.
+
+---
+## Session 41
+Drachen's dream - **Song**: [The Dark Age](https://open.spotify.com/track/2mNMFVgjjFXj7R2NNjqTNw?si=d7f5ea369b6c4e0f) - [It's Ok](https://open.spotify.com/track/6XBE3YD5VPhClYvwaQcZso?si=18873ac0b25a47d0)
+- As you enter the realm of sleep, you feel like the ground beneath you disappears as that feeling in stomach almost rides into your throat.  
+    You fall through endless realms of torture  
+    Looking down you see vast clouds of black speeding towards you, falling through and having lava rain burning at your skin  
+    You see black eldritch spindles of ungodly size pulsing like their swallowing hope whole.  
+    Continuing to fall, you plunge into an ocean of acid with such speed your whole body feels like it was hit by a fireball  
+    Falling through and out the bottom of the ocean, covering you in spiders, and worms  
+    Worms which start to crystallise upon touching the poison air, and turn into bat who start tearing at your flesh, before a swarm of tiny dragon burn them off your skin, melting their bodies to your skin  
+    Consumed by the pain, a necrotic mist swallows all light, killing everything touching you - and before you can brace, your body slams into the side of a mountain - hitting with such speed, the course slate material slicing at your skin and clothes as you tumble further and further down.  
+    When you eventually stop - you in a desolate open space of a slate ground, and a thick grey fog looming closer.
+- You feel the presence of your patron coming closer - as you see two giant cats eyes piece through the veil of fog.
+- Patron: “*Welcome back, my child - how are you?*”
+    - In morning - but that does not stop the way forward
+    - The way I see it - the less I know, they less people can get out me
+- Patron: “*I believe the time is approaching for you to kill the pretender - so you can join me in killing the mother that held you back.*”
+    - “Before I give you the location to summon the pretender, I need you to prepare.”
+        - “Deal with the beast of a man, stopping supply lines out of the Mountains - they call him General Radahn.”
+            - I’ve heard their name a few times, the more I hear, the more I wish for the challenge
+        - “You will need Dimensional Shackles, and someone who can enchant them to bind a god to the Material Plane.”
+            - “You will want to look into whether the bindings can be improved to weaken the god”
+                - mortals, doesn’t satisfy me enough - what of Devlin? (use them)
+        - “Finally, once you are prepared, feast upon your 13th unworthy mortal & sorrow will lead you to the place of direct communion.”
+
+---
+## Session 43
+Drachen's dream - **Song**: [Unbound Purpose](https://open.spotify.com/track/5zOgDjdtpbXh0xVB62g7LO?si=16bc8fe69a8d42c7)
+- Drachen, you find yourself sat in your room, pages lying strewn across the floor. Small leather bound books, scraps of parchment, cuttings of paper covered in chicken scratch handwriting.
+- The words seem to shift as your focus does
+    - Sacrifices, blood, pain, agony, power, buried, artefacts, beacons, Omens, temples, Porthca, Tombs, the first Elven Queen, horrors, more sacrifices, torture… it repeats, again and again, never in the same order.
+- Tearing through another page, hands moving faster and faster, constantly feeling at the edge of finding something important, but never quite satisfying the feeling.
+- Pages are missing, torn, removed… searching your belongings, 5 different coloured potions, your weapons, less coin than you remember having…
+- Your hoard is too small, there’s a hunger waiting underneath your tongue, a yearning for more. It propels you forward like a carrot on a stick, eyes wide, salivating at the power within reach.
+    - Your hands frantically searching for more, stumbling over your Sewn Skin Satchel… a possession made by the Night Hags from the flesh of a powerful mortal, entombing their energy into an extradimensional space…
+    - Even thinking about that sends your saliva glands into a frenzy.
+    - A feeling pulsing at the bottom of your stomach, that more knowledge hides deep in the satchel… you hear a faint, distant, high pitch voice call out your name: what do you do?
+        - Answer:
+            - Open the satchel
+- Inside the satchel a hurricane of pages each covered with the secrets of the universe hidden from the mortals, unused by the gods, spin around you to an impossible depth.
+    - Between the pages, embers swirling reaching to the pages, setting them alight, destroying the knowledge and power you seek, and towards the bottomless pit another tornado spiralling out of control throwing gold pieces all over, and between all that, a familiar face, arms, no a singular arm stretched out trying to reach you… you see Skapa tumbling down and down and down, calling out to you.
+        - What do you do, dive down to reach Skapa and attempt to save him from this endless torture, or do you save the knowledge from being consumed by the flames?
+            - Answer:
+                - Knowledge
+        - Save the Knowledge:
+            - Ignoring the descending Skapa, reaching out and clutching, hoarding every scrap of information, saving it from the perishing fire, that spreads through the ever spinning rush of paper, fire, and coin, eventually turning into a giant fire tornado, you at its centre with the knowledge you could salvage, its pages seeping into your skin, empowering you, its ink darkening your eyes, your veins, your motives… you.
+            - This path of ash, turmoil, and avarice consumes - a hunger never quenched. Forged into something greater, made by the best of others. All food for your growth.
+            - As the pages become one with you, the rest of spinning ashen pages fly towards your body, your vision kaleidoscopic, your power inevitable. The howling sound of fire roaring around you, floating in the eye of fire storm - your wings sprout, barely phased by the searing heart of the flames…
+            - And yet suddenly, the tornado collapses, engulfing you in flames - and you awake.
 
 
 

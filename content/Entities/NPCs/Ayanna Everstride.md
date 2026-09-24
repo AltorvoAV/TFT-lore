@@ -23,7 +23,7 @@ She worked side-by-side; [[Furgus Longberry|Furgus]], [[Davwin Colchester|Davwin
 
 Not only is [[Ayanna Everstride|Ayanna]] a proficient duellist, she was literally born to wield her weapons. They are an extension of her fighting instincts. Following the sudden death of [[Skapa]], something within [[Ayanna Everstride|Ayanna]] broke. She'd already lost her sister, [[Adamance]], [[Etton Chetstone|Etton]], betrayed by [[Furgus Longberry|Furgus]], and now she held the corpse of someone she'd truly gotten close to. And in the place where he fell, she left an extension of the part of her she'd never get back: her rapier.
 
-[[Ayanna Everstride|Ayanna]], child and chosen of the [[Raven Queen]], only ever had one equal, her sister. She hasn't heard from her in just over 6yrs now.
+[[Ayanna Everstride|Ayanna]], child and chosen of the [[Raven Queen]], only ever had one equal, her sister - the [[Axe of Porthca]]. She hasn't heard from her in just over 6yrs now. Presumed still fighting on the front lines of the war against [[Brugrove - City of the Iron Guard|Brugrove]].
 
 Before being betrayed by [[Furgus Longberry|Furgus]], he taught her methods of magic, of Bladesinging. Methods which normally require an active concentration... but he managed to turn into an abjuration/transformation enchantment.
 

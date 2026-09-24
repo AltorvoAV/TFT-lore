@@ -4,6 +4,7 @@ aliases:
   - Heathorp Keep
 tags:
   - TOS
+  - City
 marker:
   - coordinates: 605, 533
     mapName: Nyropa

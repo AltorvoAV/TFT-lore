@@ -2,6 +2,7 @@
 aliases:
   - Porthca
   - The Arcane Bridge
+  - Porthcan
 tags:
   - City
 draft: false
