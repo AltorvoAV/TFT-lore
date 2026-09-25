@@ -39,4 +39,7 @@ List of locations other than the main cities of the campaign:
 - [[The Labyrinth of Emirkol the Chaotic]]
 - [[Boypool]]
 - [[The Desolation of Sabuchuu]]
+- [[Arkford]]
+- [[The Warrens of the Goblin King]]
+- [[Grysev Castle]]
 

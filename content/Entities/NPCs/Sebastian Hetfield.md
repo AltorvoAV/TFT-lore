@@ -7,9 +7,9 @@ tags:
 ---
 **Quick Info:**
 - Race: #Human
-- Age: ~26
+- Age: ~27
 - Occupation: Leader of the Fences, Smugglers, & Pirates Guilds
-- Met: [[Gallows Market]]
+- Met: [[Gallows Market]], [[The Lost City - City of Thieves|City of Thieves]]
 - Status: #Alive 
 
 Leader of the Fences guild within [[Gallows Market|The Gallows]], [[The Lost City - City of Thieves|Lost City]]. A charismatic gentleman, who bargains in others misfortunes to befit his own 'luck'. A trusty thief of a sidekick, [[Rusty]] always looking for a pocket to 'liberate' coin from.
