@@ -18,7 +18,7 @@ Written in the year 168 AR (After [[History of the Forgotten War|The Reckoning]]
 > 
 > – [[Douglas Montgomery]], Royal Historian of Brugrove
 
-In this work, I have attempted to gather and preserve the fragments we possess from what scholars now call _The Great Forgotten War_, a conflict that reshaped the world almost two centuries past. What occurred in the skies above Brugrove, and across the veins of Nyropa from Porthca to the Ruins of Aenbeor Keep, have left scars that time refuses to heal.
+In this work, I have attempted to gather and preserve the fragments we possess from what scholars now call _The Great Forgotten War_, a conflict that reshaped the world almost two centuries past. What occurred in the skies above Brugrove, and across the veins of Nyropa from Porthca to the Ruins of Aenbeor Keep, has left scars that time refuses to heal.
 
 But reader, let me be honest: this tome is not a history—it is a confession. It is a gathering of loose threads, some rotten, others golden, none of them complete. Those of us born before _The Reckoning_ remember only but glimpses. Dreams. Feelings. But not facts. We remember the burn of magic on the skin and the way the sun _paused_ above the Isle of Black—but not the why. We remember falling to our knees—but not what name we cried out. This is the frailty of memory.
 
