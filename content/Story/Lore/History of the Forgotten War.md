@@ -42,7 +42,7 @@ May the truth one day forgive us.
 
 ### 📍 _[[Valonde - The Pearled Coast|Valonde]]_
 
-> *“The Iron Guard arrived one dawn and said nothing. They appeared across different cities, looking for something. I know not where they came from, only that they made home in Brugrove protecting the monarchs past. We welcomed them, for the gods had left us.*
+> *“The Iron Guard arrived one dawn and said nothing. They appeared across different cities, looking for something. I know not where they came from, only that they made home in Brugrove protecting the monarchs past. We welcomed them, for the gods had left us."*
 > 
 > – Excerpt from _The Valonde Archives_, Section 3.1.2
 
@@ -60,7 +60,7 @@ May the truth one day forgive us.
 
 ### 📍 _[[Shazahath Mountains - The Ruined Caverns|Shazahath Mountains]]_
 
-> *“We heard them screaming from the peaks. The priests said not to look. Yet I felt the urge to. The mountains were burning inwards. That’s the best way I can describe it. Something inside was trying to crawl out.”
+> *“We heard them screaming from the peaks. The priests said not to look. Yet I felt the urge to. The mountains were burning inwards. That’s the best way I can describe it. Something inside was trying to crawl out.”*
 > 
 > – Notes from a mountain scout, now blind
 
