@@ -3,6 +3,7 @@ draft: true
 aliases:
   - Queen of Elves
   - The First Elven Queen
+  - Immara
 tags:
   - Gods
   - NPC

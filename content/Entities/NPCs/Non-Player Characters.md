@@ -165,6 +165,11 @@ draft: false
 - [[Gilurt Harthneer the Wizard]]
 - [[Jeremiah]]
 - [[Fagort Lumply]]
+- [[UNG Waterhouse]]
+- [[Azaki Aloro]]
+- [[Chaedi Caraxath]]
+- [[Breena Bungle]]
+- [[Rhogar Norixius]]
 - 
 
 
