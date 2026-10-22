@@ -165,7 +165,7 @@ draft: false
 - [[Gilurt Harthneer the Wizard]]
 - [[Jeremiah]]
 - [[Fagort Lumply]]
-- [[UNG Waterhouse]]
+- [[UNG Airhouse]]
 - [[Azaki Aloro]]
 - [[Chaedi Caraxath]]
 - [[Breena Bungle]]
