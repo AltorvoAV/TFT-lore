@@ -30,7 +30,7 @@ List of locations other than the main cities of the campaign:
 - [[Roddery's Tavern]]
 - More coming soon, when found
 
-## Western Cities of Nyropa
+## Western Cities of Nyropa (as touched on in [[The Onslaught of Shar (TOS)|TOS]])
 - [[The Ruins of Heathorp Keep]]
 - [[The Forest of Mists]]
 - [[The Stronghold of Poison Tears]]

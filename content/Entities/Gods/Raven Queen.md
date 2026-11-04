@@ -9,6 +9,7 @@ tags:
   - NPC
   - Lore
   - LesserDeity
+  - Elf
 ---
 ## Quick Info
 

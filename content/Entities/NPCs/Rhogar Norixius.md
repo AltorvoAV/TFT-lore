@@ -13,7 +13,7 @@ tags:
 
 [[Rhogar Norixius]] recently took the place of [[Paddy McPaddy]] as Master of Games at the King's arena grounds.
 
-[[Rhogar Norixius]] has known [[Ayanna Everstride|Ayanna]] since she started fighting in the pits. She learnt a lot from him, and used that knowledge to help train the soldiers for the [[Brugrove - City of the Iron Guard|Brugrove]]/[[Porthca - The Arcane Bridge|Porthca]] war.
+[[Rhogar Norixius]] has known [[Ayanna Everstride|Ayanna]] since she started fighting in the pits. He learnt a lot from her, and used that knowledge to help train the soldiers for the [[Brugrove - City of the Iron Guard|Brugrove]]/[[Porthca - The Arcane Bridge|Porthca]] war.
 
 
 ## Picture

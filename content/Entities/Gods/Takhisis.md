@@ -15,12 +15,13 @@ tags:
   - Gods
   - NPC
   - Lore
+  - ElderDragon
 ---
 ## Quick Info
 
-| Alignment | Aliases                                                                                                                                                        | Race         | Domain                          | Symbols                                            | Power             | Dominion      | Status |
-| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------- | -------------------------------------------------- | ----------------- | ------------- | ------ |
-| CE        | The One True God, Dragon Queen, Queen of Darkness, Mistress of Dragons, Her Dark Majesty, The Dark Warrior, She of Many Faces, Lady Chaos, Nemesis of the Gods | Elder Dragon | Ambition, Power, Control, Chaos | Black Crescent Moon or Spiral of five dragon claws | [[Greater Deity]] | [[The Abyss]] | #Alive |
+| Alignment | Aliases                                                                                                                                                        | Race             | Domain                          | Symbols                                            | Power             | Dominion      | Status |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------- | -------------------------------------------------- | ----------------- | ------------- | ------ |
+| CE        | The One True God, Dragon Queen, Queen of Darkness, Mistress of Dragons, Her Dark Majesty, The Dark Warrior, She of Many Faces, Lady Chaos, Nemesis of the Gods | [[Elder Dragon]] | Ambition, Power, Control, Chaos | Black Crescent Moon or Spiral of five dragon claws | [[Greater Deity]] | [[The Abyss]] | #Alive |
 ### **Core Themes:**
 - Deceive to manipulate
 - Manipulate to control

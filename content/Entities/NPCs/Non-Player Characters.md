@@ -170,6 +170,7 @@ draft: false
 - [[Chaedi Caraxath]]
 - [[Breena Bungle]]
 - [[Rhogar Norixius]]
+- [[Gorthack the Hunter]]
 - 
 
 

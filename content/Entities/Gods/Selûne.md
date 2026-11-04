@@ -9,6 +9,7 @@ tags:
   - NPC
   - Lore
   - GreaterDeity
+  - Primordial
 ---
 ## Quick Info
 
