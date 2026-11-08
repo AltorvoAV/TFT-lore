@@ -5,7 +5,7 @@ tags:
   - Race
 ---
 ### Basic Info:
-Created by [[Tiamat]], the [[Dragonspawn]] are a type of creature moulded in the image of true Dragons; keeping parts of their traits, and inheriting new ones. [[Dragonspawn]] is not the same as [[Dragonkind]], as Dragonkind refers to all those Dragon-like or sharing reptilian feature.
+Created by [[Tiamat]], the [[Dragonspawn]] are a type of creature moulded in the image of true Dragons; keeping parts of their traits, and inheriting new ones. [[Dragonspawn]] is not the same as [[Dragonkind]], as Dragonkind refers to all those Dragon-like creatures not just the ones created by Tiamat.
 
 ### Species created:
 - [[Koboldkind]], and [[Kurtulmak]]
