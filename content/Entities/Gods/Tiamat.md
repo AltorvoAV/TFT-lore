@@ -37,7 +37,7 @@ tags:
 - Freedom
 	- Escape the [[Nine Hells]] and return to the [[Material Plane]], where her conquest can begin in earnest.
 ### Song:
-- Queen of the Damned, A Gotham Nightmare, OR Alors on Danse
+- (**Undecided**) Queen of the Damned, A Gotham Nightmare, OR Alors on Danse
 ## Description:
 [[Tiamat]] is the Goddess of Greed and Queen of Evil Dragons. Her domains extend beyond avarice into temptation, tyranny, domination, and ownership.
 
@@ -160,7 +160,7 @@ Tiamat represents:
 
 Imprisoned
 
-emerged alongside the first mortal dragons - seen as a daughter of [[Asgorath]], and made in the image of the [[Elder Dragon]]s.
+emerged alongside the first mortal dragons - seen as a daughter of [[Asgorath]], and made in the image of the [[Elder Dragon]], and [[Asgorath]] themselves.
 
 “The universe has rules. I intend to sit at the top of them.”
 
@@ -170,22 +170,18 @@ her domain expands into temptation, and Tyranny, leading to a time where [[Tiama
 Even though she began life a mortal dragon, she has very little care for mortal beings, using them to grow her hoard and complete her tasks.
 
 
- [[Asgorath]]
 
-
-## The Dragonfall Wars
+## The Dragonfall Wars (or something similar)
 
 Tiamat and Bahamut became the central figures in an ancient conflict between chromatic and metallic dragonkind.
 
-Tiamat created horrific draconic creatures—the Spawn of Tiamat—in an attempt to destroy Bahamut's followers.
+Tiamat created horrific draconic creatures—the Spawn of Tiamat—in an attempt to destroy Bahamut's followers. ([[Dragonspawn]])
 
 The conflict became one of the defining religious wars of ancient dragonkind.
 
 
 [[History of the Forgotten War|The Great Forgotten War]]
 Tiamat and Bahamut eventually fought in the Battle of the Gods.
-
-Both were killed in their Untheric aspects.
 
 Tiamat lost her divine status and became an archfiend.
 
@@ -200,7 +196,6 @@ If anything, it taught her that **even Tiamat could lose.**
 And that lesson stayed with her.
 
 
--- Maybe I make it so [[Tiamat]] killed [[Bahamut]]??????? (Under the influence of [[Takhisis]])
 
 
 
