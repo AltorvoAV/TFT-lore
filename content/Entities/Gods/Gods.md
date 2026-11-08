@@ -37,7 +37,7 @@ Brief info on the gods, based off info gathered by the party. Some things are un
 
 ---
 ## Powerful Beings
-Individuals who were not quite given the title of Godhood, yet possess power on-par with [[Lesser Deity|Lesser-Deities]] or [[Quasi-Deity|Quasi-Deities]]. Often these are Aasimars, Liches, or other significant beings. It takes great power to contest that of a God.
+Individuals who were not quite given the title of Godhood, yet possess power on-par with [[Lesser Deity|Lesser-Deities]], [[Quasi-Deity|Quasi-Deities]], [[Archfey]], or [[Archfiends]]. Often these are Aasimars, Liches, or other significant beings. It takes great power to contest that of a God.
 
 | Name                                   | Symbol                     | Race        | Power            | Dead?                         |
 | -------------------------------------- | -------------------------- | ----------- | ---------------- | ----------------------------- |
@@ -45,8 +45,8 @@ Individuals who were not quite given the title of Godhood, yet possess power on-
 | [[Dr Zagak Iscara]]                    | Chain                      | Undead      | [[Quasi-Deity]]  | Unknown                       |
 | [[Drachen Lokeriyan]]                  | -                          | [[Aasimar]] | [[Quasi-Deity]]  | N (but he did)                |
 | [[Raven Queen\|The First Elven Queen]] | Kingfisher head in profile | Elf/Eladrin | [[Quasi-Deity]]  | Kinda                         |
-| [[Titania, Queen of the Fairies]]      | -                          | Fairy       | [[Quasi-Deity]]  | N                             |
-| [[Oberon, King of the Fairies]]        | -                          | Fairy       | [[Quasi-Deity]]  | N                             |
+| [[Titania, Queen of the Fairies]]      | -                          | Fairy       | [[Archfey]]      | N                             |
+| [[Oberon, King of the Fairies]]        | -                          | Fairy       | [[Archfey]]      | N                             |
 | [[Lolth]]                              | -                          | -           | -                | -                             |
 | More when discovered...                |                            |             |                  |                               |
 
