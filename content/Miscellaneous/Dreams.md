@@ -487,9 +487,36 @@ Drachen's dream - **Song**: [Unbound Purpose](https://open.spotify.com/track/5zO
             - As the pages become one with you, the rest of spinning ashen pages fly towards your body, your vision kaleidoscopic, your power inevitable. The howling sound of fire roaring around you, floating in the eye of fire storm - your wings sprout, barely phased by the searing heart of the flames…
             - And yet suddenly, the tornado collapses, engulfing you in flames - and you awake.
 
+---
+## Session 45
+Devlin's Dream - **Song**: [The Mighty Rio Grande](https://open.spotify.com/track/37HI0imp0t6a0MBS00lPkS?si=2a6b312c70de4cbf)
+- As your weary mind shuts down for the night, you find yourself reliving the events of hours gone past.
+- You stand alone in the arena. The roar of the crowd dulling your senses, thousands of voices rising together in unison - their excitement, palpable  
+    - The ground beneath you is stained with the blood of those who came before. The air thick with the stench of steel, sweat, and prior defeat - all of it electrified by the static that emanates from your skin.
+- Your sword, an extension of your body, sits proudly in your hands - its blue gems and glittering shimmer of its blade feels only natural to you.
+- A flurry of swings, steel cutting through flesh, as opponents fall around you. Beasts lunging towards you, jaws wide, only to meet that shimmered edge. You move with a flow, a beautiful dance, your body moving effortlessly before your mind even has a chance to catch up.
+- Another opponent falls, and another.
+- Each swing, the crowd somehow roars louder - there’s an intoxication to it, the violence, noise, that feeling of power coursing through you. You’re a blur of blue sigils and long blonde hair getting caught in the wind of your own magic.
+- Each strike a lightning blast - you are magnificent, untouchable - the crowd cheering the Shandian name, as you feel their eyes upon you, their admiration, their excitement…
+- And within you, an overwhelming feeling of pride and purpose - not simply in your actions, but in who you are, the name you carry, your legacy.
+- Within the stands, you see them, amongst those countless faces, two little figures of familiarity standing on their seats, cheering with everything they can - waving their arms, jumping up and down.
+- Bringing yourself back to the fight, one large monstrosity stands left, its body littered in previous attempts to take it down.  
+    - It snarls and charges towards you, yet you stand proud, fearless.  
+    - It [[Dream - The Arena.png|pounces]].
+    - For a moment, the world stands still.
+    - Then, a deafening crash. Dust and debris scatter across the arena, the creature's enormous weight consuming you beneath it. Silence befalls the crowd; no movement. No sound. Not a breath.  
+    - Then, beneath the creature; movement.  
+    - A hand emerges, followed by an arm, pushing against the enormous weight. The beast shifts, its body dragged aside as you pull yourself free, bloodied and battered, its heart clutched tightly in your grasp.  
+    - The crowd roars around you, thousands of voices celebrating your name.  
+    - And there you stand, surrounded by the fallen - arms aching, breathing steady, as the static slowly fades from around you.
+- You emerge through the storm, a victor and champion - looking towards the stands once again, searching for those familiar faces, you find nothing, but a dull white light growing brighter with every passing moment.
+- The cheers begin to distort. Their voices… distant, indistinguishable, until the sound of celebration gives way to something far more terrible.
+    - Screaming.
+- Not the screams of an audience, but something desperate… pleading. The kind of screams that comes from somewhere deep within, where words can no longer reach. A chill runs down your spine.
+- You hear the sound of rushed footsteps, arms dragging you away, covering your eyes from the impossibly bright light.
+- Everything around you is pain, torment, and grief - it makes no sense.
+- And somewhere beyond the light, the screaming continues… for hours. Until, eventually, you awake.
 
 
-
-
-
+---
 Other than 2 dreams I've been sat on since the start of the campaign, I doubt I'll do anymore - not worth the pixels or oxygen.

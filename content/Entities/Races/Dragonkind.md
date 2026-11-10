@@ -10,9 +10,9 @@ tags:
 ### Species:
 - True Dragons
 	- Metallic (Good-aligned)
-		- Gold, Silver, Bronze, Copper, Brass
+		- Gold, Silver, Bronze, Copper, and Brass
 	- Chromatic (Evil-aligned)
-		- Red, Blue, Green, Black, White
+		- Red, Blue, Green, Black, and White
 	- Gem (Neutral-aligned)
 		- Amethyst, Emerald, Sapphire, Topaz, and Crystal
 	- Planar Dragons
