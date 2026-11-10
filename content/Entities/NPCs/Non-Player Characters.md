@@ -172,6 +172,8 @@ draft: false
 - [[Rhogar Norixius]]
 - [[Gorthack the Hunter]]
 - [[The Horned King]]
+- [[Duchess of Tern]]
+- [[Anherra]]
 
 
 

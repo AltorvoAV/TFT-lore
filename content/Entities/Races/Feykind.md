@@ -10,7 +10,7 @@ tags:
 ### Basic Info:
 **[[Feykind]]** (or [[Feykind|Fae]], [[Feykind|Fey]], [[Feykind|Faekind]]) are magical, emotion-driven spirits and creatures native to the [[Feywild]]. Speaking Sylvan, they are deeply bound to nature and raw magic. 
 
-To outsiders, the Fae and their realm appear whimsical and harmless—a world of pure prey. In truth, nothing in the [[Feywild]] is as it seems. Everything is predatory, and mortals only discover the danger once they break the Fae's unspoken rules.
+To outsiders, the Fae and their realm appear whimsical and harmless: a world of pure prey. In truth, nothing in the [[Feywild]] is as it seems. Everything is predatory, and mortals only discover the danger once they break the Fae's unspoken rules.
 
 * **Patron Deities:** [[Selûne]] (creator, prior to her death), [[Yondalla]], and [[Ehlonna]].
 
