@@ -7,7 +7,7 @@ tags:
 ### Basic Info:
 The **[[Underdark]]** is a vast, sunless network of caverns, chasms, and subterranean oceans stretching miles beneath the crust of the [[Material Plane]]. Though physically part of the mortal realm, its crushing darkness, hostile ecology, and hidden magic make it feel alien.
 
-Due to the [[Feywild]] and [[Shadowfell]] being echos of the [[Material Plane]], they too occupy their own version of the [[Underdark|Deep Dark]]: [[Feywild|Feydark]] & [[Shadowfell|Shadowdark]], respectively.
+Due to the [[Feywild]] and [[Shadowfell]] being echoes of the [[Material Plane]], they too occupy their own version of the [[Underdark|Deep Dark]]: [[Feywild|Feydark]] & [[Shadowfell|Shadowdark]], respectively.
 
 ### Key Features:
 * Sunlight never reaches these depths. Survival requires darkvision, blindsight, truesight, or magical light.
