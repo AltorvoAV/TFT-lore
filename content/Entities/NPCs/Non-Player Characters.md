@@ -171,7 +171,7 @@ draft: false
 - [[Breena Bungle]]
 - [[Rhogar Norixius]]
 - [[Gorthack the Hunter]]
-- 
+- [[The Horned King]]
 
 
 

@@ -35,6 +35,7 @@ The question is not whether Nyropa will break you. The question is, what will yo
 	- [[Other Locations]]
 - [[Non-Player Characters]]
 	- [[Organizations]]
+	- [Races](https://altorvoav.github.io/TFT-lore/entities/races/)
 - [[Entities/Gods/Gods|Gods]]
 - [[Player Characters]]
 - [[Terms]]
