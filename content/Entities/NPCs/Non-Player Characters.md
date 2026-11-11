@@ -174,6 +174,8 @@ draft: false
 - [[The Horned King]]
 - [[Duchess of Tern]]
 - [[Anherra]]
+- [[Norrock Thanack]]
+- 
 
 
 
