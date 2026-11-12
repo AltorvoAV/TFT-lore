@@ -2,6 +2,7 @@
 aliases:
   - Brugrove
   - City of the Iron Guard
+  - Brugrovian
 tags:
   - City
   - Lore
