@@ -18,6 +18,8 @@ aliases:
   - Astral Elves
   - Astral Elf
   - Shadar-Kai
+  - Elf
+  - Original Elf
 tags:
   - Race
 ---

@@ -21,7 +21,7 @@ tags:
 - Greed
 	- Everything can be possessed. Nothing is beyond ownership.
 - Tyranny
-		- Power establishes authority, which demands obedience.
+	 - Power establishes authority, which demands obedience.
 - Order
 	- Everything has a place, with Tiamat atop it all.
 - Ownership
@@ -37,7 +37,7 @@ tags:
 - Freedom
 	- Escape the [[Nine Hells]] and return to the [[Material Plane]], where her conquest can begin in earnest.
 ### Song:
-- (**Undecided**) Queen of the Damned, A Gotham Nightmare, OR Alors on Danse
+- [Queen of the Damned](https://open.spotify.com/track/26XEE5s2D93fzTNq83tm20?si=1bed8b7135b84f4b)
 ## Description:
 [[Tiamat]] is the Goddess of Greed and Queen of Evil Dragons. Her domains extend beyond avarice into temptation, tyranny, domination, and ownership.
 

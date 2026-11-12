@@ -13,9 +13,9 @@ tags:
 ---
 ## Quick Info
 
-| Alignment | Aliases | Race         | Domain            | Symbol                | Power            | Dominion       | Status  |
-| --------- | ------- | ------------ | ----------------- | --------------------- | ---------------- | -------------- | ------- |
-| LN        | Unknown | Original Elf | Death, Fate, Life | Raven head in profile | [[Lesser Deity]] | [[Shadowfell]] | Unknown |
+| Alignment | Aliases | Race                        | Domain            | Symbol                | Power            | Dominion       | Status  |
+| --------- | ------- | --------------------------- | ----------------- | --------------------- | ---------------- | -------------- | ------- |
+| LN        | Unknown | [[Elvenkind\|Original Elf]] | Death, Fate, Life | Raven head in profile | [[Lesser Deity]] | [[Shadowfell]] | Unknown |
 ### **Core Themes:**
 - Death is transition
 - Fate is unshakeable

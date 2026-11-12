@@ -1,6 +1,9 @@
 ---
 draft: false
 aliases:
+  - Dragon
+  - True Dragon
+  - Lesser Dragon
 tags:
   - Race
 ---
