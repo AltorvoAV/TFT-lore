@@ -48,6 +48,7 @@ Individuals who were not quite given the title of Godhood, yet possess power on-
 | [[Titania, Queen of the Fairies]]      | -                          | Fairy       | [[Archfey]]      | N                             |
 | [[Oberon, King of the Fairies]]        | -                          | Fairy       | [[Archfey]]      | N                             |
 | [[Lolth]]                              | -                          | -           | -                | -                             |
+| [[Asmodeus]]                           | -                          | -           | [[Archfiends]]   | -                             |
 | More when discovered...                |                            |             |                  |                               |
 
 ## Races

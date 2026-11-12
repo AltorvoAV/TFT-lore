@@ -84,7 +84,7 @@ She respects hierarchy, to dominate it; authority to possess it; law to define o
 > 
 > — A basic prayer to [[Tiamat]]
 
-Members of the [[Church of Tiamat]], or [[Tiamat|Tiamatan]]s, are devout religious zealots drawn to power, wealth, revenge, status, and domination. They are often people who suffer powerlessness, and resentment, seeing the world as injust and unfair. The [[Tiamat|Queen of Evil Dragons]] speaks of the strong *taking* what they want and promises those who join her, will never feel powerless again.
+Members of the [[Church of Tiamat]], or [[Tiamat|Tiamatan]]s, are devout religious zealots drawn to power, wealth, revenge, status, and domination. They are often people who suffer powerlessness, and resentment, seeing the world as unjust and unfair. The [[Tiamat|Queen of Evil Dragons]] speaks of the strong *taking* what they want and promises those who join her, will never feel powerless again.
 
 The Church mirrors [[Tiamat]]'s own ideals, maintaining a strict hierarchy of rank and authority. It uses the colours of the most common chromatic dragons. From lowest to highest:
 - White Adepts,
@@ -123,11 +123,11 @@ It is believed she is immune to the damages typically associated with the colour
 
 [[Tiamat]]'s commands carry the crushing weight of absolute authority. It is said that her spoken word alone possesses the divine kinetic force to banish planar-interlopers, forcefully casting non-native beings back to their birth plane, simply because she refuses to share her territory with uninvited guests.
 ### Weaknesses
-Originating from the [[Material Plane]], Tiamat is [[Ontology|ontologically]] distinct from the gods that hailed from the [[Outer Planes]] or [[Inner Planes]] (excluding the [[Material Plane|Material]]), rendering her possible to kill, as she is not protected by [[Oblivati Mori]].
+Originating from the [[Material Plane]], Tiamat is [[Ontology|ontologically]] distinct from the gods that hailed from the [[Outer Planes]] or non-[[Material Plane|Material]]-[[Inner Planes]], rendering her possible to kill, as she is not protected by [[Oblivati Mori]].
 
 ---
 ## Relationships
-[[Tiamat|The Many-Mawed]]'s eternal rival was her brother, [[Bahamut]]. Their strive has existed since the birth of dragons, a resentment of their differing beliefs and aims, which trickled down into their worshippers. She, his antithesis; the [[Tiamat|Bane of Bahamut]]. 
+[[Tiamat|The Many-Mawed]]'s eternal rival was her brother, [[Bahamut]]. Their strife has existed since the birth of dragons, a resentment of their differing beliefs and aims, which trickled down into their worshippers. She, his antithesis; the [[Tiamat|Bane of Bahamut]]. 
 
 Though she saw [[Jergal]] as an enemy, for she coveted his domain, [[Tiamat]] grew an alliance with the former god of Death, Tyranny, & Murder, and served him until his gave up his domains. [[Tiamat]] then forged a contractual alliance with his successor, [[Bane]], to gain a portion of his Tyranny domain.
 
