@@ -28,3 +28,5 @@ Possibly the most based character in all Nyropa. With lines such as:
 ![[Quar - blacksmith mode.png]]
 
 ![[Quar Rhodon.png]]
+
+![[The Dark Followers 1.png]]

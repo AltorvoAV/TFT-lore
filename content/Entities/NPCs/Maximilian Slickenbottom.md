@@ -26,3 +26,5 @@ Though, he noticed there was no noise coming from [[Maximilian Slickenbottom]]'s
 ## Picture
 
 ![[Maximilian Slickenbottom.jpg]]
+
+![[The Five Time Champion.png]]

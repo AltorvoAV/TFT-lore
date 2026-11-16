@@ -18,3 +18,5 @@ Arsonist. Arsonist. Arsonist. Arsonist. Arsonist. Arsonist. Arsonist. Arsonist. 
 ## Picture
 
 ![[Lil Cindi.jpg]]
+
+![[The Lil Arsonist.png]]

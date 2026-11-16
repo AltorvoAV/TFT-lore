@@ -175,6 +175,7 @@ draft: false
 - [[Duchess of Tern]]
 - [[Anherra]]
 - [[Norrock Thanack]]
+- [[Lana Everstride]]
 - 
 
 

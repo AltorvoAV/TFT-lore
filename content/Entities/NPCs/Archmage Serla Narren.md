@@ -35,3 +35,5 @@ His actions were so devastating, yet also revolutionary (at the time), that he w
 ## Picture
 
 ![[Archmage Serla Narren.png]]
+
+![[The Archmage.png]]

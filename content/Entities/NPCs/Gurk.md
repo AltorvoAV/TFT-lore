@@ -25,3 +25,5 @@ Being the kind soul he is; has helped [[Skapa]] many times, from cutting his arm
 A sign to perfectly encompass [[Gurk]]'s chaotic, salesman personality, made by the GREAT INVENTOR; [[Skapa]].
 
 ![[Gurks Sign.png]]
+
+![[The Salesman.png]]

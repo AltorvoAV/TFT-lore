@@ -17,3 +17,5 @@ A charming, sultry Tiefling with exotic and beautiful music. Well travelled and 
 Reasons as to why she became the [[Black Robin]] still elude the party, to date.
 ## Picture
 ![[Rodwin Vassargo.jpg]]
+
+![[The Black Robin.png]]

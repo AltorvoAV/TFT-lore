@@ -13,3 +13,5 @@ tags:
 ### Picture
 
 ![[Devlin Shandian.jpg]]
+
+![[The Storm Within.png]]

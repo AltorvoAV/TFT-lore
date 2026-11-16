@@ -22,3 +22,5 @@ During the [[The Onslaught of Shar (TOS)|The Onslaught of Shar]], [[Aldric Vane|
 ## Picture
 
 ![[Aldric Vane.png]]
+
+![[The Dark Followers.png]]

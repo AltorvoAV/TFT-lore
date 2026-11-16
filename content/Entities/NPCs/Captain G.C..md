@@ -49,3 +49,5 @@ Yes, this joke has been here since the very beginning. Legit was written on my o
 ![[Wanted Poster Alt.jpg]]
 
 ![[Wanted Poster found.jpg]]
+
+![[The Captain.png]]

@@ -27,3 +27,5 @@ When the party found [[Dr Zagak Iscara|Doctor Iscara]], he had already been twis
 ### As seen in [[Act III]]
 
 ![[Dr Iscara.webp]]
+
+![[The Doctor.png]]
